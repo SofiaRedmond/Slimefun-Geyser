@@ -1,0 +1,1671 @@
+{
+	"resource_pack_name": "prueba",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"aluminum_dust": {
+			"textures": [
+				"textures/items/polvos/aluminum_dust"
+			]
+		},
+		"copper_dust": {
+			"textures": [
+				"textures/items/polvos/copper_dust"
+			]
+		},
+		"gold_dust": {
+			"textures": [
+				"textures/items/polvos/gold_dust"
+			]
+		},
+		"iron_dust": {
+			"textures": [
+				"textures/items/polvos/iron_dust"
+			]
+		},
+		"lead_dust": {
+			"textures": [
+				"textures/items/polvos/lead_dust"
+			]
+		},
+		"magnesium_dust": {
+			"textures": [
+				"textures/items/polvos/magnesium_dust"
+			]
+		},
+		"silver_dust": {
+			"textures": [
+				"textures/items/polvos/silver_dust"
+			]
+		},
+		"tin_dust": {
+			"textures": [
+				"textures/items/polvos/tin_dust"
+			]
+		},
+		"zinc_dust": {
+			"textures": [
+				"textures/items/polvos/zinc_dust"
+			]
+		},
+		"magnesium_salt": {
+			"textures": [
+				"textures/items/polvos/magnesium_salt"
+			]
+		},
+		"tin_ingot": {
+			"textures": [
+				"textures/items/lingotes/tin_ingot"
+			]
+		},
+		"silver_ingot": {
+			"textures": [
+				"textures/items/lingotes/silver_ingot"
+			]
+		},
+		"lead_ingot": {
+			"textures": [
+				"textures/items/lingotes/lead_ingot"
+			]
+		},
+		"aluminum_ingot": {
+			"textures": [
+				"textures/items/lingotes/aluminum_ingot"
+			]
+		},
+		"zinc_ingot": {
+			"textures": [
+				"textures/items/lingotes/zinc_ingot"
+			]
+		},
+		"magnesium_ingot": {
+			"textures": [
+				"textures/items/lingotes/magnesium_ingot"
+			]
+		},
+		"reinforced_alloy_ingot": {
+			"textures": [
+				"textures/items/lingotes/reinforced_alloy"
+			]
+		},
+		"hardened_metal": {
+			"textures": [
+				"textures/items/lingotes/hardened_metal"
+			]
+		},
+		"damascus_steel_ingot": {
+			"textures": [
+				"textures/items/lingotes/damascus_steel_ingot"
+			]
+		},
+		"steel_ingot": {
+			"textures": [
+				"textures/items/lingotes/steel_ingot"
+			]
+		},
+		"duralumin_ingot": {
+			"textures": [
+				"textures/items/lingotes/duralumin_ingot"
+			]
+		},
+		"billon_ingot": {
+			"textures": [
+				"textures/items/lingotes/billon_ingot"
+			]
+		},
+		"solder_ingot": {
+			"textures": [
+				"textures/items/lingotes/solder_ingot"
+			]
+		},
+		"nickel_ingot": {
+			"textures": [
+				"textures/items/lingotes/nickel_ingot"
+			]
+		},
+		"cobalt_ingot": {
+			"textures": [
+				"textures/items/lingotes/cobalt_ingot"
+			]
+		},
+		"ferrosilicon_ingot": {
+			"textures": [
+				"textures/items/lingotes/ferrosilicon_ingot"
+			]
+		},
+		"brass_ingot": {
+			"textures": [
+				"textures/items/lingotes/brass_ingot"
+			]
+		},
+		"aluminum_brass_ingot": {
+			"textures": [
+				"textures/items/lingotes/aluminum_brass_ingot"
+			]
+		},
+		"aluminum_bronze_ingot": {
+			"textures": [
+				"textures/items/lingotes/aluminum_bronze_ingot"
+			]
+		},
+		"corinthian_bronze_ingot": {
+			"textures": [
+				"textures/items/lingotes/corinthian_bronze_ingot"
+			]
+		},
+		"gold_ingot_4k": {
+			"textures": [
+				"textures/items/lingotes/gold_ingot_4k"
+			]
+		},
+		"gold_ingot_6k": {
+			"textures": [
+				"textures/items/lingotes/gold_ingot_6k"
+			]
+		},
+		"gold_ingot_8k": {
+			"textures": [
+				"textures/items/lingotes/gold_ingot_8k"
+			]
+		},
+		"gold_ingot_10k": {
+			"textures": [
+				"textures/items/lingotes/gold_ingot_10k"
+			]
+		},
+		"gold_ingot_12k": {
+			"textures": [
+				"textures/items/lingotes/gold_ingot_12k"
+			]
+		},
+		"gold_ingot_14k": {
+			"textures": [
+				"textures/items/lingotes/gold_ingot_14k"
+			]
+		},
+		"gold_ingot_16k": {
+			"textures": [
+				"textures/items/lingotes/gold_ingot_16k"
+			]
+		},
+		"gold_ingot_18k": {
+			"textures": [
+				"textures/items/lingotes/gold_ingot_18k"
+			]
+		},
+		"gold_ingot_20k": {
+			"textures": [
+				"textures/items/lingotes/gold_ingot_20k"
+			]
+		},
+		"gold_ingot_22k": {
+			"textures": [
+				"textures/items/lingotes/gold_ingot_22k"
+			]
+		},
+		"gold_ingot_24k": {
+			"textures": [
+				"textures/items/lingotes/gold_ingot_24k"
+			]
+		},
+		"gilded_iron": {
+			"textures": [
+				"textures/items/lingotes/gilded_iron"
+			]
+		},
+		"bronze_ingot": {
+			"textures": [
+				"textures/items/lingotes/bronze_ingot"
+			]
+		},
+		"blistering_ingot_33": {
+			"textures": [
+				"textures/items/lingotes/blistering_ingot_33"
+			]
+		},
+		"blistering_ingot_66": {
+			"textures": [
+				"textures/items/lingotes/blistering_ingot_66"
+			]
+		},
+		"blistering_ingot_100": {
+			"textures": [
+				"textures/items/lingotes/blistering_ingot_100"
+			]
+		},
+		"redstone_alloy_ingot": {
+			"textures": [
+				"textures/items/lingotes/redstone_alloy_ingot"
+			]
+		},
+		"synthetic_sapphire": {
+			"textures": [
+				"textures/items/valuables/synthetic_sapphire"
+			]
+		},
+		"synthetic_diamond": {
+			"textures": [
+				"textures/items/valuables/synthetic_diamond"
+			]
+		},
+		"raw_carbonado": {
+			"textures": [
+				"textures/items/valuables/raw_carbonado"
+			]
+		},
+		"carbonado": {
+			"textures": [
+				"textures/items/valuables/carbonado"
+			]
+		},
+		"carbon": {
+			"textures": [
+				"textures/items/valuables/carbon"
+			]
+		},
+		"compressed_carbon": {
+			"textures": [
+				"textures/items/valuables/compressed_carbon"
+			]
+		},
+		"carbon_chunk": {
+			"textures": [
+				"textures/items/valuables/carbon_chunk"
+			]
+		},
+		"nether_ice": {
+			"textures": [
+				"textures/items/valuables/nether_ice"
+			]
+		},
+		"enriched_nether_ice": {
+			"textures": [
+				"textures/items/valuables/enriched_nether_ice"
+			]
+		},
+		"silicon": {
+			"textures": [
+				"textures/items/valuables/silicon"
+			]
+		},
+		"synthetic_emerald": {
+			"textures": [
+				"textures/items/valuables/synthetic_emerald"
+			]
+		},
+		"uranium": {
+			"textures": [
+				"textures/items/material_radioactivo/uranium"
+			]
+		},
+		"neptunium": {
+			"textures": [
+				"textures/items/material_radioactivo/neptunium"
+			]
+		},
+		"plutonium": {
+			"textures": [
+				"textures/items/material_radioactivo/plutonium"
+			]
+		},
+		"boosted_uranium": {
+			"textures": [
+				"textures/items/material_radioactivo/boosted_uranium"
+			]
+		},
+		"bucket_of_oil": {
+			"textures": [
+				"textures/items/combustibles/bucket_of_oil"
+			]
+		},
+		"bucket_of_fuel": {
+			"textures": [
+				"textures/items/combustibles/bucket_of_fuel"
+			]
+		},
+		"portable_crafter": {
+			"textures": [
+				"textures/items/objetos/portable_crafter"
+			]
+		},
+		"portable_dustbin": {
+			"textures": [
+				"textures/items/objetos/portable_dustbin"
+			]
+		},
+		"small_backpack": {
+			"textures": [
+				"textures/items/objetos/small_backpack"
+			]
+		},
+		"medium_backpack": {
+			"textures": [
+				"textures/items/objetos/medium_backpack"
+			]
+		},
+		"large_backpack": {
+			"textures": [
+				"textures/items/objetos/large_backpack"
+			]
+		},
+		"small_backpack": {
+			"textures": [
+				"textures/items/objetos/small_backpack"
+			]
+		},
+		"woven_backpack": {
+			"textures": [
+				"textures/items/objetos/woven_backpack"
+			]
+		},
+		"gilded_backpack": {
+			"textures": [
+				"textures/items/objetos/gilded_backpack"
+			]
+		},
+		"radiant_backpack": {
+			"textures": [
+				"textures/items/objetos/radiant_backpack"
+			]
+		},
+		"cooler": {
+			"textures": [
+				"textures/items/objetos/cooler"
+			]
+		},
+		"tape_measure": {
+			"textures": [
+				"textures/items/objetos/tape_measure"
+			]
+		},
+		"rag": {
+			"textures": [
+				"textures/items/objetos/rag"
+			]
+		},
+		"bandage": {
+			"textures": [
+				"textures/items/objetos/bandage"
+			]
+		},
+		"vitamins": {
+			"textures": [
+				"textures/items/objetos/vitamins"
+			]
+		},
+		"medicine": {
+			"textures": [
+				"textures/items/objetos/medicine"
+			]
+		},
+		"grandmas_walking_stick": {
+			"textures": [
+				"textures/items/armas/grandmas_walking_stick"
+			]
+		},
+		"grandpas_walking_stick": {
+			"textures": [
+				"textures/items/armas/grandpas_walking_stick"
+			]
+		},
+		"splint": {
+			"textures": [
+				"textures/items/armas/splint"
+			]
+		},
+		"blade_of_vampires": {
+			"textures": [
+				"textures/items/armas/blade_of_vampires"
+			]
+		},
+		"seismic_axe": {
+			"textures": [
+				"textures/items/armas/seismic_axe"
+			]
+		},
+		"soulbound_sword": {
+			"textures": [
+				"textures/items/armas/soulbound_sword"
+			]
+		},
+		"soulbound_trident": {
+			"textures": [
+				"textures/items/armas/soulbound_trident"
+			]
+		},
+		"soulbound_bow": {
+			"textures": [
+				"textures/items/armas/soulbound_bow/soulbound_bow"
+			]
+		},
+		"explosive_bow": {
+			"textures": [
+				"textures/items/armas/explosive_bow/explosive_bow"
+			]
+		},
+		"icy_bow": {
+			"textures": [
+				"textures/items/armas/icy_bow/icy_bow"
+			]
+		},
+		"output_chest": {
+			"textures": [
+				"textures/items/maquinaria_basica/output_chest"
+			]
+		},
+		"enhanced_crafting_table": {
+			"textures": [
+				"textures/items/maquinaria_basica/enhanced_crafting_table"
+			]
+		},
+		"magic_workbench": {
+			"textures": [
+				"textures/items/maquinaria_basica/magic_workbench"
+			]
+		},
+		"grind_stone": {
+			"textures": [
+				"textures/items/maquinaria_basica/grind_stone"
+			]
+		},
+		"ore_crusher": {
+			"textures": [
+				"textures/items/maquinaria_basica/ore_crusher"
+			]
+		},
+		"automatic_ignition_chamber": {
+			"textures": [
+				"textures/items/maquinaria_basica/automatic_ignition_chamber"
+			]
+		},
+		"block_placer": {
+			"textures": [
+				"textures/items/maquinaria_basica/block_placer"
+			]
+		},
+		"smeltery": {
+			"textures": [
+				"textures/items/maquinaria_basica/smeltery"
+			]
+		},
+		"enhanced_furnace": {
+			"textures": [
+				"textures/items/maquinaria_basica/enhanced_furnace"
+			]
+		},
+		"enhanced_furnace_2": {
+			"textures": [
+				"textures/items/maquinaria_basica/enhanced_furnace_2"
+			]
+		},
+		"enhanced_furnace_3": {
+			"textures": [
+				"textures/items/maquinaria_basica/enhanced_furnace_3"
+			]
+		},
+		"enhanced_furnace_4": {
+			"textures": [
+				"textures/items/maquinaria_basica/enhanced_furnace_4"
+			]
+		},
+		"enhanced_furnace_5": {
+			"textures": [
+				"textures/items/maquinaria_basica/enhanced_furnace_5"
+			]
+		},
+		"enhanced_furnace_6": {
+			"textures": [
+				"textures/items/maquinaria_basica/enhanced_furnace_6"
+			]
+		},
+		"enhanced_furnace_7": {
+			"textures": [
+				"textures/items/maquinaria_basica/enhanced_furnace_7"
+			]
+		},
+		"enhanced_furnace_8": {
+			"textures": [
+				"textures/items/maquinaria_basica/enhanced_furnace_8"
+			]
+		},
+		"enhanced_furnace_9": {
+			"textures": [
+				"textures/items/maquinaria_basica/enhanced_furnace_9"
+			]
+		},
+		"enhanced_furnace_10": {
+			"textures": [
+				"textures/items/maquinaria_basica/enhanced_furnace_10"
+			]
+		},
+		"enhanced_furnace_11": {
+			"textures": [
+				"textures/items/maquinaria_basica/enhanced_furnace_11"
+			]
+		},
+		"reinforced_furnace": {
+			"textures": [
+				"textures/items/maquinaria_basica/reinforced_furnace"
+			]
+		},
+		"carbonado_edged_furnace": {
+			"textures": [
+				"textures/items/maquinaria_basica/carbonado_edged_furnace"
+			]
+		},
+		"armor_forge": {
+			"textures": [
+				"textures/items/maquinaria_basica/armor_forge"
+			]
+		},
+		"compressor": {
+			"textures": [
+				"textures/items/maquinaria_basica/compressor"
+			]
+		},
+		"makeshift_smeltery": {
+			"textures": [
+				"textures/items/maquinaria_basica/smeltery"
+			]
+		},
+		"pressure_chamber": {
+			"textures": [
+				"textures/items/maquinaria_basica/pressure_chamber"
+			]
+		},
+		"ore_washer": {
+			"textures": [
+				"textures/items/maquinaria_basica/ore_washer"
+			]
+		},
+		"composter": {
+			"textures": [
+				"textures/items/maquinaria_basica/composter"
+			]
+		},
+		"crucible": {
+			"textures": [
+				"textures/items/maquinaria_basica/crucible"
+			]
+		},
+		"table_saw": {
+			"textures": [
+				"textures/items/maquinaria_basica/table_saw"
+			]
+		},
+		"automated_panning_machine": {
+			"textures": [
+				"textures/items/maquinaria_basica/automated_panning_machine"
+			]
+		},
+		"industrial_miner": {
+			"textures": [
+				"textures/items/maquinaria_basica/industrial_miner"
+			]
+		},
+		"advanced_industrial_miner": {
+			"textures": [
+				"textures/items/maquinaria_basica/advanced_industrial_miner"
+			]
+		},
+		"juicer": {
+			"textures": [
+				"textures/items/maquinaria_basica/juicer"
+			]
+		},
+		"gold_pan": {
+			"textures": [
+				"textures/items/herramientas/gold_pan"
+			]
+		},
+		"nether_gold_pan": {
+			"textures": [
+				"textures/items/herramientas/nether_gold_pan"
+			]
+		},
+		"smelters_pickaxe": {
+			"textures": [
+				"textures/items/herramientas/smelters_pickaxe"
+			]
+		},
+		"explosive_pickaxe": {
+			"textures": [
+				"textures/items/herramientas/explosive_pickaxe"
+			]
+		},
+		"pickaxe_of_the_seeker": {
+			"textures": [
+				"textures/items/herramientas/pickaxe_of_the_seeker"
+			]
+		},
+		"pickaxe_of_vein_mining": {
+			"textures": [
+				"textures/items/herramientas/pickaxe_of_vein_mining"
+			]
+		},
+		"soulbound_pickaxe": {
+			"textures": [
+				"textures/items/herramientas/soulbound_pickaxe"
+			]
+		},
+		"grappling_hook": {
+			"textures": [
+				"textures/items/herramientas/grappling_hook"
+			]
+		},
+		"lumber_axe": {
+			"textures": [
+				"textures/items/herramientas/lumber_axe"
+			]
+		},
+		"soulbound_axe": {
+			"textures": [
+				"textures/items/herramientas/soulbound_axe"
+			]
+		},
+		"pickaxe_of_containment": {
+			"textures": [
+				"textures/items/herramientas/pickaxe_of_containment"
+			]
+		},
+		"hercules_pickaxe": {
+			"textures": [
+				"textures/items/herramientas/hercules_pickaxe"
+			]
+		},
+		"cobalt_pickaxe": {
+			"textures": [
+				"textures/items/herramientas/cobalt_pickaxe"
+			]
+		},
+		"climbing_pick": {
+			"textures": [
+				"textures/items/herramientas/climbing_pick"
+			]
+		},
+		"explosive_shovel": {
+			"textures": [
+				"textures/items/herramientas/explosive_shovel"
+			]
+		},
+		"soulbound_shovel": {
+			"textures": [
+				"textures/items/herramientas/soulbound_shovel"
+			]
+		},
+		"soulbound_hoe": {
+			"textures": [
+				"textures/items/herramientas/soulbound_hoe"
+			]
+		},
+		"magic_sugar": {
+			"textures": [
+				"textures/items/comida/magic_sugar"
+			]
+		},
+		"apple_juice": {
+			"textures": [
+				"textures/items/comida/apple_juice"
+			]
+		},
+		"carrot_juice": {
+			"textures": [
+				"textures/items/comida/carrot_juice"
+			]
+		},
+		"melon_juice": {
+			"textures": [
+				"textures/items/comida/melon_juice"
+			]
+		},
+		"pumpkin_juice": {
+			"textures": [
+				"textures/items/comida/pumpkin_juice"
+			]
+		},
+		"sweet_berry_juice": {
+			"textures": [
+				"textures/items/comida/sweet_berry_juice"
+			]
+		},
+		"golden_apple_juice": {
+			"textures": [
+				"textures/items/comida/golden_apple_juice"
+			]
+		},
+		"fortune_cookie": {
+			"textures": [
+				"textures/items/comida/fortune_cookie"
+			]
+		},
+		"diet_cookie": {
+			"textures": [
+				"textures/items/comida/diet_cookie"
+			]
+		},
+		"kelp_cookie": {
+			"textures": [
+				"textures/items/comida/kelp_cookie"
+			]
+		},
+		"beef_jerky": {
+			"textures": [
+				"textures/items/comida/beef_jerky"
+			]
+		},
+		"pork_jerky": {
+			"textures": [
+				"textures/items/comida/pork_jerky"
+			]
+		},
+		"chicken_jerky": {
+			"textures": [
+				"textures/items/comida/chicken_jerky"
+			]
+		},
+		"mutton_jerky": {
+			"textures": [
+				"textures/items/comida/mutton_jerky"
+			]
+		},
+		"rabbit_jerky": {
+			"textures": [
+				"textures/items/comida/rabbit_jerky"
+			]
+		},
+		"fish_jerky": {
+			"textures": [
+				"textures/items/comida/fish_jerky"
+			]
+		},
+		"monster_jerky": {
+			"textures": [
+				"textures/items/comida/monster_jerky"
+			]
+		},
+		"essence_of_afterlife": {
+			"textures": [
+				"textures/items/objetos_magicos/essence_of_afterlife"
+			]
+		},
+		"lava_crystal": {
+			"textures": [
+				"textures/items/objetos_magicos/lava_crystal"
+			]
+		},
+		"necrotic_skull": {
+			"textures": [
+				"textures/items/objetos_magicos/necrotic_skull"
+			]
+		},
+		"blank_rune": {
+			"textures": [
+				"textures/items/objetos_magicos/blank_rune"
+			]
+		},
+		"ancient_rune_air": {
+			"textures": [
+				"textures/items/objetos_magicos/ancient_rune_air"
+			]
+		},
+		"ancient_rune_earth": {
+			"textures": [
+				"textures/items/objetos_magicos/ancient_rune_earth"
+			]
+		},
+		"ancient_rune_fire": {
+			"textures": [
+				"textures/items/objetos_magicos/ancient_rune_fire"
+			]
+		},
+		"ancient_rune_water": {
+			"textures": [
+				"textures/items/objetos_magicos/ancient_rune_water"
+			]
+		},
+		"ancient_rune_ender": {
+			"textures": [
+				"textures/items/objetos_magicos/ancient_rune_ender"
+			]
+		},
+		"ancient_rune_lightning": {
+			"textures": [
+				"textures/items/objetos_magicos/ancient_rune_lightning"
+			]
+		},
+		"ancient_rune_rainbow": {
+			"textures": [
+				"textures/items/objetos_magicos/ancient_rune_rainbow"
+			]
+		},
+		"ancient_rune_soulbound": {
+			"textures": [
+				"textures/items/objetos_magicos/ancient_rune_soulbound"
+			]
+		},
+		"ancient_rune_enchantment": {
+			"textures": [
+				"textures/items/objetos_magicos/ancient_rune_enchantment"
+			]
+		},
+		"ancient_rune_villagers": {
+			"textures": [
+				"textures/items/objetos_magicos/ancient_rune_villagers"
+			]
+		},
+		"common_talisman": {
+			"textures": [
+				"textures/items/objetos_magicos/common_talisman"
+			]
+		},
+		"magical_book_cover": {
+			"textures": [
+				"textures/items/objetos_magicos/magical_book_cover"
+			]
+		},
+		"magical_lump_1": {
+			"textures": [
+				"textures/items/objetos_magicos/magical_lump_1"
+			]
+		},
+		"magical_lump_2": {
+			"textures": [
+				"textures/items/objetos_magicos/magical_lump_2"
+			]
+		},
+		"magical_lump_3": {
+			"textures": [
+				"textures/items/objetos_magicos/magical_lump_3"
+			]
+		},
+		"ender_lump_1": {
+			"textures": [
+				"textures/items/objetos_magicos/ender_lump_1"
+			]
+		},
+		"ender_lump_2": {
+			"textures": [
+				"textures/items/objetos_magicos/ender_lump_2"
+			]
+		},
+		"ender_lump_3": {
+			"textures": [
+				"textures/items/objetos_magicos/ender_lump_3"
+			]
+		},
+		"magical_glass": {
+			"textures": [
+				"textures/items/objetos_magicos/magical_glass"
+			]
+		},
+		"synthetic_shulker_shell": {
+			"textures": [
+				"textures/items/objetos_magicos/synthetic_shulker_shell"
+			]
+		},
+		"strange_nether_goo": {
+			"textures": [
+				"textures/items/objetos_magicos/strange_nether_goo"
+			]
+		},
+		"grape_jelly_sandwich": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/grape_jelly_sandwich"
+			]
+		},
+		"grape_pie": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/grape_pie"
+			]
+		},
+		"blueberry_jelly_sandwich": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/blueberry_jelly_sandwich"
+			]
+		},
+		"blueberry_pie": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/blueberry_pie"
+			]
+		},
+		"elderberry_jelly_sandwich": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/elderberry_jelly_sandwich"
+			]
+		},
+		"elderberry_pie": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/elderberry_pie"
+			]
+		},
+		"raspberry_jelly_sandwich": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/raspberry_jelly_sandwich"
+			]
+		},
+		"raspberry_pie": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/raspberry_pie"
+			]
+		},
+		"blackberry_jelly_sandwich": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/blackberry_jelly_sandwich"
+			]
+		},
+		"blackberry_pie": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/blackberry_pie"
+			]
+		},
+		"cranberry_jelly_sandwich": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/cranberry_jelly_sandwich"
+			]
+		},
+		"cranberry_pie": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/cranberry_pie"
+			]
+		},
+		"cowberry_jelly_sandwich": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/cowberry_jelly_sandwich"
+			]
+		},
+		"cowberry_pie": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/cowberry_pie"
+			]
+		},
+		"strawberry_jelly_sandwich": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/strawberry_jelly_sandwich"
+			]
+		},
+		"strawberry_pie": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/strawberry_pie"
+			]
+		},
+		"oak_apple_pie": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/oak_apple_pie"
+			]
+		},
+		"cherry_pie": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/cherry_pie"
+			]
+		},
+		"pomegranate_pie": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/pomegranate_pie"
+			]
+		},
+		"lemon_pie": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/lemon_pie"
+			]
+		},
+		"plum_pie": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/plum_pie"
+			]
+		},
+		"lime_pie": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/lime_pie"
+			]
+		},
+		"orange_pie": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/orange_pie"
+			]
+		},
+		"peach_pie": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/peach_pie"
+			]
+		},
+		"pear_pie": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/pear_pie"
+			]
+		},
+		"dragon_fruit_pie": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/dragon_fruit_pie"
+			]
+		},
+		"pumpkin_bread": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/pumpkin_bread"
+			]
+		},
+		"chocolate_bar": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/chocolate_bar"
+			]
+		},
+		"potato_salad": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/potato_salad"
+			]
+		},
+		"chicken_sandwich": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/chicken_sandwich"
+			]
+		},
+		"fish_sandwich": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/fish_sandwich"
+			]
+		},
+		"bagel": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/bagel"
+			]
+		},
+		"egg_salad": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/egg_salad"
+			]
+		},
+		"tomato_soup": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/tomato_soup"
+			]
+		},
+		"strawberry_salad": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/strawberry_salad"
+			]
+		},
+		"grape_salad": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/grape_salad"
+			]
+		},
+		"chicken_curry": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/chicken_curry"
+			]
+		},
+		"coconut_chicken_curry": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/coconut_chicken_curry"
+			]
+		},
+		"biscuit": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/biscuit"
+			]
+		},
+		"biscuits_and_country_gravy": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/biscuits_and_country_gravy"
+			]
+		},
+		"cheesecake": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/cheesecake"
+			]
+		},
+		"cherry_cheesecake": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/cherry_cheesecake"
+			]
+		},
+		"blueberry_cheesecake": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/blueberry_cheesecake"
+			]
+		},
+		"pumpkin_cheesecake": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/pumpkin_cheesecake"
+			]
+		},
+		"sweetened_pear_cheesecake": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/sweetened_pear_cheesecake"
+			]
+		},
+		"blackberry_cobbler": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/blackberry_cobbler"
+			]
+		},
+		"pavlova": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/pavlova"
+			]
+		},
+		"corn_on_the_cob": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/corn_on_the_cob"
+			]
+		},
+		"creamed_corn": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/creamed_corn"
+			]
+		},
+		"bacon": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/bacon"
+			]
+		},
+		"sandwich": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/sandwich"
+			]
+		},
+		"blt": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/blt"
+			]
+		},
+		"leafy_chicken_sandwich": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/leafy_chicken_sandwich"
+			]
+		},
+		"leafy_fish_sandwich": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/leafy_fish_sandwich"
+			]
+		},
+		"hamburger": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/hamburger"
+			]
+		},
+		"cheeseburger": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/cheeseburger"
+			]
+		},
+		"bacon_cheeseburger": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/bacon_cheeseburger"
+			]
+		},
+		"deluxe_cheeseburger": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/deluxe_cheeseburger"
+			]
+		},
+		"garlic_bread": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/garlic_bread"
+			]
+		},
+		"garlic_cheese_bread": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/garlic_cheese_bread"
+			]
+		},
+		"carrot_cake": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/carrot_cake"
+			]
+		},
+		"chicken_burger": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/chicken_burger"
+			]
+		},
+		"chicken_cheeseburger": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/chicken_cheeseburger"
+			]
+		},
+		"bacon_burger": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/bacon_burger"
+			]
+		},
+		"bacon_sandwich": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/bacon_sandwich"
+			]
+		},
+		"taco": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/taco"
+			]
+		},
+		"fish_taco": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/fish_taco"
+			]
+		},
+		"street_taco": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/street_taco"
+			]
+		},
+		"jammy_dodger": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/jammy_dodger"
+			]
+		},
+		"pancakes": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/pancakes"
+			]
+		},
+		"blueberry_pancakes": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/blueberry_pancakes"
+			]
+		},
+		"sweet_berry_pancakes": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/sweet_berry_pancakes"
+			]
+		},
+		"fries": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/fries"
+			]
+		},
+		"popcorn": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/popcorn"
+			]
+		},
+		"popcorn_sweet": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/popcorn_sweet"
+			]
+		},
+		"popcorn_salty": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/popcorn_salty"
+			]
+		},
+		"shepards_pie": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/shepards_pie"
+			]
+		},
+		"chicken_pot_pie": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/chicken_pot_pie"
+			]
+		},
+		"chocolate_cake": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/chocolate_cake"
+			]
+		},
+		"cream_cookie": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/cream_cookie"
+			]
+		},
+		"blueberry_muffin": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/blueberry_muffin"
+			]
+		},
+		"pumpkin_muffin": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/pumpkin_muffin"
+			]
+		},
+		"chocolate_chip_muffin": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/chocolate_chip_muffin"
+			]
+		},
+		"boston_cream_pie": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/boston_cream_pie"
+			]
+		},
+		"boston_cream_pie": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/boston_cream_pie"
+			]
+		},
+		"hot_dog": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/hot_dog"
+			]
+		},
+		"bacon_wrapped_cheese_filled_hot_dog": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/bacon_wrapped_cheese_filled_hot_dog"
+			]
+		},
+		"bbq_bacon_wrapped_hot_dog": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/bbq_bacon_wrapped_hot_dog"
+			]
+		},
+		"bbq_double_bacon_wrapped_hot_dog_in_a_tortilla_with_cheese": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/bbq_double_bacon_wrapped_hot_dog_in_a_tortilla_with_cheese"
+			]
+		},
+		"chocolate_strawberry": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/chocolate_strawberry"
+			]
+		},
+		"sweet_potato_pie": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/sweet_potato_pie"
+			]
+		},
+		"lamington": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/lamington"
+			]
+		},
+		"waffles": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/waffles"
+			]
+		},
+		"club_sandwich": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/club_sandwich"
+			]
+		},
+		"burrito": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/burrito"
+			]
+		},
+		"chicken_burrito": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/chicken_burrito"
+			]
+		},
+		"grilled_sandwich": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/grilled_sandwich"
+			]
+		},
+		"lasagna": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/lasagna"
+			]
+		},
+		"ice_cream": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/ice_cream"
+			]
+		},
+		"tiramisu": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/tiramisu"
+			]
+		},
+		"tiramisu_with_strawberries": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/tiramisu_with_strawberries"
+			]
+		},
+		"tiramisu_with_raspberries": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/tiramisu_with_raspberries"
+			]
+		},
+		"tiramisu_with_blackberries": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/tiramisu_with_blackberries"
+			]
+		},
+		"chocolate_pear_cake": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/chocolate_pear_cake"
+			]
+		},
+		"apple_pear_cake": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/apple_pear_cake"
+			]
+		},
+		"stuffed_red_bell_pepper": {
+			"textures": [
+				"textures/items/jardin_exotico/comida/stuffed_red_bell_pepper"
+			]
+		},
+		"golden_apple_juice": {
+			"textures": [
+				"textures/items/jardin_exotico/bebida/golden_apple_juice"
+			]
+		},
+		"grape_juice": {
+			"textures": [
+				"textures/items/jardin_exotico/bebida/grape_juice"
+			]
+		},
+		"grape_smoothie": {
+			"textures": [
+				"textures/items/jardin_exotico/bebida/grape_smoothie"
+			]
+		},
+		"blueberry_juice": {
+			"textures": [
+				"textures/items/jardin_exotico/bebida/blueberry_juice"
+			]
+		},
+		"blueberry_smoothie": {
+			"textures": [
+				"textures/items/jardin_exotico/bebida/blueberry_smoothie"
+			]
+		},
+		"elderberry_juice": {
+			"textures": [
+				"textures/items/jardin_exotico/bebida/elderberry_juice"
+			]
+		},
+		"elderberry_smoothie": {
+			"textures": [
+				"textures/items/jardin_exotico/bebida/elderberry_smoothie"
+			]
+		},
+		"raspberry_juice": {
+			"textures": [
+				"textures/items/jardin_exotico/bebida/raspberry_juice"
+			]
+		},
+		"elderberry_juice": {
+			"textures": [
+				"textures/items/jardin_exotico/bebida/elderberry_juice"
+			]
+		},
+		"elderberry_smoothie": {
+			"textures": [
+				"textures/items/jardin_exotico/bebida/elderberry_smoothie"
+			]
+		},
+		"raspberry_juice": {
+			"textures": [
+				"textures/items/jardin_exotico/bebida/raspberry_juice"
+			]
+		},
+		"raspberry_smoothie": {
+			"textures": [
+				"textures/items/jardin_exotico/bebida/raspberry_smoothie"
+			]
+		},
+		"blackberry_juice": {
+			"textures": [
+				"textures/items/jardin_exotico/bebida/blackberry_juice"
+			]
+		},
+		"blackberry_smoothie": {
+			"textures": [
+				"textures/items/jardin_exotico/bebida/blackberry_smoothie"
+			]
+		},
+		"cranberry_juice": {
+			"textures": [
+				"textures/items/jardin_exotico/bebida/cranberry_juice"
+			]
+		},
+		"cranberry_smoothie": {
+			"textures": [
+				"textures/items/jardin_exotico/bebida/cranberry_smoothie"
+			]
+		},
+		"cowberry_juice": {
+			"textures": [
+				"textures/items/jardin_exotico/bebida/cowberry_juice"
+			]
+		},
+		"cowberry_smoothie": {
+			"textures": [
+				"textures/items/jardin_exotico/bebida/cowberry_smoothie"
+			]
+		},
+		"strawberry_juice": {
+			"textures": [
+				"textures/items/jardin_exotico/bebida/strawberry_juice"
+			]
+		},
+		"strawberry_smoothie": {
+			"textures": [
+				"textures/items/jardin_exotico/bebida/strawberry_smoothie"
+			]
+		},
+		"oak_apple_juice": {
+			"textures": [
+				"textures/items/jardin_exotico/bebida/oak_apple_juice"
+			]
+		},
+		"coconut_milk": {
+			"textures": [
+				"textures/items/jardin_exotico/bebida/coconut_milk"
+			]
+		},
+		"cherry_juice": {
+			"textures": [
+				"textures/items/jardin_exotico/bebida/cherry_juice"
+			]
+		},
+		"pomegranate_juice": {
+			"textures": [
+				"textures/items/jardin_exotico/bebida/pomegranate_juice"
+			]
+		},
+		"lemon_juice": {
+			"textures": [
+				"textures/items/jardin_exotico/bebida/lemon_juice"
+			]
+		},
+		"plum_juice": {
+			"textures": [
+				"textures/items/jardin_exotico/bebida/plum_juice"
+			]
+		},
+		"lime_juice": {
+			"textures": [
+				"textures/items/jardin_exotico/bebida/lime_juice"
+			]
+		},
+		"orange_juice": {
+			"textures": [
+				"textures/items/jardin_exotico/bebida/orange_juice"
+			]
+		},
+		"peach_juice": {
+			"textures": [
+				"textures/items/jardin_exotico/bebida/peach_juice"
+			]
+		},
+		"pear_juice": {
+			"textures": [
+				"textures/items/jardin_exotico/bebida/pear_juice"
+			]
+		},
+		"dragon_fruit_juice": {
+			"textures": [
+				"textures/items/jardin_exotico/bebida/dragon_fruit_juice"
+			]
+		},
+		"lime_smoothie": {
+			"textures": [
+				"textures/items/jardin_exotico/bebida/lime_smoothie"
+			]
+		},
+		"tomato_juice": {
+			"textures": [
+				"textures/items/jardin_exotico/bebida/tomato_juice"
+			]
+		},
+		"wine": {
+			"textures": [
+				"textures/items/jardin_exotico/bebida/wine"
+			]
+		},
+		"lemon_iced_tea": {
+			"textures": [
+				"textures/items/jardin_exotico/bebida/lemon_iced_tea"
+			]
+		},
+		"raspberry_iced_tea": {
+			"textures": [
+				"textures/items/jardin_exotico/bebida/raspberry_iced_tea"
+			]
+		},
+		"peach_iced_tea": {
+			"textures": [
+				"textures/items/jardin_exotico/bebida/peach_iced_tea"
+			]
+		},
+		"strawberry_iced_tea": {
+			"textures": [
+				"textures/items/jardin_exotico/bebida/strawberry_iced_tea"
+			]
+		},
+		"cherry_iced_tea": {
+			"textures": [
+				"textures/items/jardin_exotico/bebida/cherry_iced_tea"
+			]
+		},
+		"thai_tea": {
+			"textures": [
+				"textures/items/jardin_exotico/bebida/thai_tea"
+			]
+		},
+		"sweetened_tea": {
+			"textures": [
+				"textures/items/jardin_exotico/bebida/sweetened_tea"
+			]
+		},
+		"hot_chocolate": {
+			"textures": [
+				"textures/items/jardin_exotico/bebida/hot_chocolate"
+			]
+		},
+		"pinacolada": {
+			"textures": [
+				"textures/items/jardin_exotico/bebida/pinacolada"
+			]
+		},
+		"lemonade": {
+			"textures": [
+				"textures/items/jardin_exotico/bebida/lemonade"
+			]
+		},
+		"pineapple_juice": {
+			"textures": [
+				"textures/items/jardin_exotico/bebida/pineapple_juice"
+			]
+		},
+		"pineapple_smoothie": {
+			"textures": [
+				"textures/items/jardin_exotico/bebida/pineapple_smoothie"
+			]
+		}
+	}
+}

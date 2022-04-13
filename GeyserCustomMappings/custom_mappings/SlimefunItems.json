@@ -1,0 +1,1764 @@
+{
+	"format_version": "1.0.0",
+	"items": {
+		"minecraft:gray_stained_glass_pane": [
+			{
+				"name": "_UI_BACKGROUND",
+				"custom_model_data": 2200002,
+				"texture_size": 16
+			}
+		],
+		"minecraft:sugar": [
+			{
+				"name": "aluminum_dust",
+				"custom_model_data": 2200102,
+				"texture_size": 32
+			},
+			{
+				"name": "magnesium_dust",
+				"custom_model_data": 2200104,
+				"texture_size": 32
+			},
+			{
+				"name": "silver_dust",
+				"custom_model_data": 2200101,
+				"texture_size": 32
+			},
+			{
+				"name": "tin_dust",
+				"custom_model_data": 2200099,
+				"texture_size": 32
+			},
+			{
+				"name": "zinc_dust",
+				"custom_model_data": 2200103,
+				"texture_size": 32
+			},
+			{
+				"name": "magnesium_salt",
+				"custom_model_data": 2200378,
+				"texture_size": 32
+			},
+			{
+				"name": "magic_sugar",
+				"custom_model_data": 2200042,
+				"texture_size": 32
+			}
+		],
+		"minecraft:glowstone_dust": [
+			{
+				"name": "copper_dust",
+				"custom_model_data": 2200098,
+				"texture_size": 32
+			},
+			{
+				"name": "gold_dust",
+				"custom_model_data": 2200097,
+				"texture_size": 32
+			}
+		],
+		"minecraft:gunpowder": [
+			{
+				"name": "iron_dust",
+				"custom_model_data": 2200096,
+				"texture_size": 32
+			},
+			{
+				"name": "lead_dust",
+				"custom_model_data": 2200100,
+				"texture_size": 32
+			},
+			{
+				"name": "zinc_dust",
+				"custom_model_data": 2200103,
+				"texture_size": 32
+			},
+			{
+				"name": "essence_of_afterlife",
+				"custom_model_data": 2200260,
+				"texture_size": 16
+			}
+		],
+		"minecraft:iron_ingot": [
+			{
+				"name": "tin_ingot",
+				"custom_model_data": 2200106,
+				"texture_size": 32
+			},
+			{
+				"name": "silver_ingot",
+				"custom_model_data": 2200107,
+				"texture_size": 32
+			},
+			{
+				"name": "lead_ingot",
+				"custom_model_data": 2200108,
+				"texture_size": 32
+			},
+			{
+				"name": "aluminum_ingot",
+				"custom_model_data": 2200109,
+				"texture_size": 32
+			},
+			{
+				"name": "zinc_ingot",
+				"custom_model_data": 2200110,
+				"texture_size": 32
+			},
+			{
+				"name": "magnesium_ingot",
+				"custom_model_data": 2200111,
+				"texture_size": 32
+			},
+			{
+				"name": "reinforced_alloy_ingot",
+				"custom_model_data": 2200077,
+				"texture_size": 32
+			},
+			{
+				"name": "hardened_metal",
+				"custom_model_data": 2200078,
+				"texture_size": 32
+			},
+			{
+				"name": "damascus_steel_ingot",
+				"custom_model_data": 2200079,
+				"texture_size": 32
+			},
+			{
+				"name": "steel_ingot",
+				"custom_model_data": 2200080,
+				"texture_size": 32
+			},
+			{
+				"name": "duralumin_ingot",
+				"custom_model_data": 2200082,
+				"texture_size": 32
+			},
+			{
+				"name": "billon_ingot",
+				"custom_model_data": 2200083,
+				"texture_size": 32
+			},
+			{
+				"name": "solder_ingot",
+				"custom_model_data": 2200088,
+				"texture_size": 32
+			},
+			{
+				"name": "nickel_ingot",
+				"custom_model_data": 2200092,
+				"texture_size": 32
+			},
+			{
+				"name": "cobalt_ingot",
+				"custom_model_data": 2200093,
+				"texture_size": 32
+			},
+			{
+				"name": "ferrosilicon_ingot",
+				"custom_model_data": 2200095,
+				"texture_size": 32
+			}
+		],
+		"minecraft:gold_ingot": [
+			{
+				"name": "brass_ingot",
+				"custom_model_data": 2200084,
+				"texture_size": 32
+			},
+			{
+				"name": "aluminum_brass_ingot",
+				"custom_model_data": 2200085,
+				"texture_size": 32
+			},
+			{
+				"name": "aluminum_bronze_ingot",
+				"custom_model_data": 2200086,
+				"texture_size": 32
+			},
+			{
+				"name": "corinthian_bronze_ingot",
+				"custom_model_data": 2200087,
+				"texture_size": 32
+			},
+			{
+				"name": "gold_ingot_4k",
+				"custom_model_data": 2200154,
+				"texture_size": 32
+			},
+			{
+				"name": "gold_ingot_6k",
+				"custom_model_data": 2200153,
+				"texture_size": 32
+			},
+			{
+				"name": "gold_ingot_8k",
+				"custom_model_data": 2200152,
+				"texture_size": 32
+			},
+			{
+				"name": "gold_ingot_10k",
+				"custom_model_data": 2200151,
+				"texture_size": 32
+			},
+			{
+				"name": "gold_ingot_12k",
+				"custom_model_data": 2200150,
+				"texture_size": 32
+			},
+			{
+				"name": "gold_ingot_14k",
+				"custom_model_data": 2200149,
+				"texture_size": 32
+			},
+			{
+				"name": "gold_ingot_16k",
+				"custom_model_data": 2200148,
+				"texture_size": 32
+			},
+			{
+				"name": "gold_ingot_18k",
+				"custom_model_data": 2200147,
+				"texture_size": 32
+			},
+			{
+				"name": "gold_ingot_20k",
+				"custom_model_data": 2200146,
+				"texture_size": 32
+			},
+			{
+				"name": "gold_ingot_22k",
+				"custom_model_data": 2200145,
+				"texture_size": 32
+			},
+			{
+				"name": "gold_ingot_24k",
+				"custom_model_data": 2200144,
+				"texture_size": 32
+			},
+			{
+				"name": "gilded_iron",
+				"custom_model_data": 2200187,
+				"texture_size": 32
+			},
+			{
+				"name": "blistering_ingot_33",
+				"custom_model_data": 2200466,
+				"texture_size": 32
+			},
+			{
+				"name": "blistering_ingot_66",
+				"custom_model_data": 2200467,
+				"texture_size": 32
+			},
+			{
+				"name": "blistering_ingot_100",
+				"custom_model_data": 2200468,
+				"texture_size": 32
+			}
+		],
+		"minecraft:player_head": [
+			{
+				"name": "synthetic_sapphire",
+				"custom_model_data": 2200089,
+				"texture_size": 16
+			},
+			{
+				"name": "raw_carbonado",
+				"custom_model_data": 2200091,
+				"texture_size": 32
+			},
+			{
+				"name": "carbonado",
+				"custom_model_data": 2200094,
+				"texture_size": 32
+			},
+			{
+				"name": "carbon",
+				"custom_model_data": 2200113,
+				"texture_size": 32
+			},
+			{
+				"name": "compressed_carbon",
+				"custom_model_data": 2200116,
+				"texture_size": 32
+			},
+			{
+				"name": "carbon_chunk",
+				"custom_model_data": 2200117,
+				"texture_size": 32
+			},
+			{
+				"name": "uranium",
+				"custom_model_data": 2200216,
+				"texture_size": 32
+			},
+			{
+				"name": "bucket_of_oil",
+				"custom_model_data": 2200454,
+				"texture_size": 32
+			},
+			{
+				"name": "bucket_of_fuel",
+				"custom_model_data": 2200455,
+				"texture_size": 32
+			},
+			{
+				"name": "nether_ice",
+				"custom_model_data": 2200456,
+				"texture_size": 32
+			},
+			{
+				"name": "enriched_nether_ice",
+				"custom_model_data": 2200469,
+				"texture_size": 32
+			},
+			{
+				"name": "neptunium",
+				"custom_model_data": 2200505,
+				"texture_size": 32
+			},
+			{
+				"name": "plutonium",
+				"custom_model_data": 2200506,
+				"texture_size": 32
+			},
+			{
+				"name": "boosted_uranium",
+				"custom_model_data": 2200507,
+				"texture_size": 32
+			},
+			{
+				"name": "portable_crafter",
+				"custom_model_data": 2200013,
+				"texture_size": 32
+			},
+			{
+				"name": "portable_dustbin",
+				"custom_model_data": 2200018,
+				"texture_size": 32
+			},
+			{
+				"name": "small_backpack",
+				"custom_model_data": 2200248,
+				"texture_size": 32
+			},
+			{
+				"name": "medium_backpack",
+				"custom_model_data": 2200249,
+				"texture_size": 32
+			},
+			{
+				"name": "large_backpack",
+				"custom_model_data": 2200250,
+				"texture_size": 32
+			},
+			{
+				"name": "woven_backpack",
+				"custom_model_data": 2200251,
+				"texture_size": 32
+			},
+			{
+				"name": "gilded_backpack",
+				"custom_model_data": 2200253,
+				"texture_size": 32
+			},
+			{
+				"name": "radiant_backpack",
+				"custom_model_data": 2200254,
+				"texture_size": 32
+			},
+			{
+				"name": "cooler",
+				"custom_model_data": 2200335,
+				"texture_size": 32
+			},
+			{
+				"name": "tape_measure",
+				"custom_model_data": 2200527,
+				"texture_size": 32
+			},
+			{
+				"name": "lava_crystal",
+				"custom_model_data": 2200159,
+				"texture_size": 16
+			},
+			{
+				"name": "necrotic_skull",
+				"custom_model_data": 2200259,
+				"texture_size": 32
+			},
+			{
+				"name": "grape_jelly_sandwich",
+				"custom_model_data": 2200927,
+				"texture_size": 16
+			},
+			{
+				"name": "grape_pie",
+				"custom_model_data": 2200928,
+				"texture_size": 16
+			},
+			{
+				"name": "grape_pie",
+				"custom_model_data": 2200928,
+				"texture_size": 16
+			},
+			{
+				"name": "blueberry_jelly_sandwich",
+				"custom_model_data": 2200886,
+				"texture_size": 16
+			},
+			{
+				"name": "blueberry_pie",
+				"custom_model_data": 2200889,
+				"texture_size": 16
+			},
+			{
+				"name": "elderberry_jelly_sandwich",
+				"custom_model_data": 2201282,
+				"texture_size": 16
+			},
+			{
+				"name": "elderberry_pie",
+				"custom_model_data": 2200921,
+				"texture_size": 16
+			},
+			{
+				"name": "raspberry_jelly_sandwich",
+				"custom_model_data": 2200958,
+				"texture_size": 16
+			},
+			{
+				"name": "raspberry_pie",
+				"custom_model_data": 2200959,
+				"texture_size": 16
+			},
+			{
+				"name": "blackberry_jelly_sandwich",
+				"custom_model_data": 2200882,
+				"texture_size": 16
+			},
+			{
+				"name": "blackberry_pie",
+				"custom_model_data": 2200883,
+				"texture_size": 16
+			},
+			{
+				"name": "cranberry_jelly_sandwich",
+				"custom_model_data": 2200913,
+				"texture_size": 16
+			},
+			{
+				"name": "cranberry_pie",
+				"custom_model_data": 2200914,
+				"texture_size": 16
+			},
+			{
+				"name": "cowberry_jelly_sandwich",
+				"custom_model_data": 2200911,
+				"texture_size": 16
+			},
+			{
+				"name": "cowberry_pie",
+				"custom_model_data": 2200912,
+				"texture_size": 16
+			},
+			{
+				"name": "strawberry_jelly_sandwich",
+				"custom_model_data": 2200962,
+				"texture_size": 16
+			},
+			{
+				"name": "strawberry_pie",
+				"custom_model_data": 2200963,
+				"texture_size": 16
+			},
+			{
+				"name": "oak_apple_pie",
+				"custom_model_data": 2200873,
+				"texture_size": 16
+			},
+			{
+				"name": "cherry_pie",
+				"custom_model_data": 2200896,
+				"texture_size": 16
+			},
+			{
+				"name": "pomegranate_pie",
+				"custom_model_data": 2200950,
+				"texture_size": 16
+			},
+			{
+				"name": "lemon_pie",
+				"custom_model_data": 2200942,
+				"texture_size": 16
+			},
+			{
+				"name": "plum_pie",
+				"custom_model_data": 2200949,
+				"texture_size": 16
+			},
+			{
+				"name": "lime_pie",
+				"custom_model_data": 2200943,
+				"texture_size": 16
+			},
+			{
+				"name": "orange_pie",
+				"custom_model_data": 2200944,
+				"texture_size": 16
+			},
+			{
+				"name": "peach_pie",
+				"custom_model_data": 2200947,
+				"texture_size": 16
+			},
+			{
+				"name": "pear_pie",
+				"custom_model_data": 2200948,
+				"texture_size": 16
+			},
+			{
+				"name": "dragon_fruit_pie",
+				"custom_model_data": 2200918,
+				"texture_size": 16
+			},
+			{
+				"name": "pumpkin_bread",
+				"custom_model_data": 2200955,
+				"texture_size": 16
+			},
+			{
+				"name": "chocolate_bar",
+				"custom_model_data": 2200903,
+				"texture_size": 16
+			},
+			{
+				"name": "potato_salad",
+				"custom_model_data": 2200954,
+				"texture_size": 16
+			},
+			{
+				"name": "chicken_sandwich",
+				"custom_model_data": 2200901,
+				"texture_size": 16
+			},
+			{
+				"name": "fish_sandwich",
+				"custom_model_data": 2200922,
+				"texture_size": 16
+			},
+			{
+				"name": "bagel",
+				"custom_model_data": 2200878,
+				"texture_size": 16
+			},
+			{
+				"name": "egg_salad",
+				"custom_model_data": 2200919,
+				"texture_size": 16
+			},
+			{
+				"name": "tomato_soup",
+				"custom_model_data": 2200972,
+				"texture_size": 16
+			},
+			{
+				"name": "strawberry_salad",
+				"custom_model_data": 2200964,
+				"texture_size": 16
+			},
+			{
+				"name": "grape_salad",
+				"custom_model_data": 2200929,
+				"texture_size": 16
+			},
+			{
+				"name": "chicken_curry",
+				"custom_model_data": 2200899,
+				"texture_size": 16
+			},
+			{
+				"name": "coconut_chicken_curry",
+				"custom_model_data": 2200909,
+				"texture_size": 16
+			},
+			{
+				"name": "biscuit",
+				"custom_model_data": 2200879,
+				"texture_size": 16
+			},
+			{
+				"name": "biscuits_and_country_gravy",
+				"custom_model_data": 2200880,
+				"texture_size": 16
+			},
+			{
+				"name": "cheesecake",
+				"custom_model_data": 2200894,
+				"texture_size": 16
+			},
+			{
+				"name": "cherry_cheesecake",
+				"custom_model_data": 2200895,
+				"texture_size": 16
+			},
+			{
+				"name": "blueberry_cheesecake",
+				"custom_model_data": 2200885,
+				"texture_size": 16
+			},
+			{
+				"name": "pumpkin_cheesecake",
+				"custom_model_data": 2200956,
+				"texture_size": 16
+			},
+			{
+				"name": "sweetened_pear_cheesecake",
+				"custom_model_data": 2200966,
+				"texture_size": 16
+			},
+			{
+				"name": "blackberry_cobbler",
+				"custom_model_data": 2200881,
+				"texture_size": 16
+			},
+			{
+				"name": "pavlova",
+				"custom_model_data": 2200946,
+				"texture_size": 16
+			},
+			{
+				"name": "creamed_corn",
+				"custom_model_data": 2200916,
+				"texture_size": 16
+			},
+			{
+				"name": "bacon",
+				"custom_model_data": 2200874,
+				"texture_size": 16
+			},
+			{
+				"name": "sandwich",
+				"custom_model_data": 2200960,
+				"texture_size": 16
+			},
+			{
+				"name": "blt",
+				"custom_model_data": 2200884,
+				"texture_size": 16
+			},
+			{
+				"name": "leafy_chicken_sandwich",
+				"custom_model_data": 2200940,
+				"texture_size": 16
+			},
+			{
+				"name": "leafy_fish_sandwich",
+				"custom_model_data": 2200941,
+				"texture_size": 16
+			},
+			{
+				"name": "hamburger",
+				"custom_model_data": 2200931,
+				"texture_size": 16
+			},
+			{
+				"name": "cheeseburger",
+				"custom_model_data": 2200893,
+				"texture_size": 16
+			},
+			{
+				"name": "bacon_cheeseburger",
+				"custom_model_data": 2200876,
+				"texture_size": 16
+			},
+			{
+				"name": "deluxe_cheeseburger",
+				"custom_model_data": 2200917,
+				"texture_size": 16
+			},
+			{
+				"name": "garlic_bread",
+				"custom_model_data": 2200925,
+				"texture_size": 16
+			},
+			{
+				"name": "garlic_cheese_bread",
+				"custom_model_data": 2200926,
+				"texture_size": 16
+			},
+			{
+				"name": "carrot_cake",
+				"custom_model_data": 2200892,
+				"texture_size": 16
+			},
+			{
+				"name": "chicken_burger",
+				"custom_model_data": 2200902,
+				"texture_size": 16
+			},
+			{
+				"name": "chicken_cheeseburger",
+				"custom_model_data": 2200898,
+				"texture_size": 16
+			},
+			{
+				"name": "bacon_burger",
+				"custom_model_data": 2200875,
+				"texture_size": 16
+			},
+			{
+				"name": "bacon_sandwich",
+				"custom_model_data": 2200877,
+				"texture_size": 16
+			},
+			{
+				"name": "taco",
+				"custom_model_data": 2200967,
+				"texture_size": 16
+			},
+			{
+				"name": "fish_taco",
+				"custom_model_data": 2200923,
+				"texture_size": 16
+			},
+			{
+				"name": "street_taco",
+				"custom_model_data": 2201283,
+				"texture_size": 16
+			},
+			{
+				"name": "jammy_dodger",
+				"custom_model_data": 2200937,
+				"texture_size": 16
+			},
+			{
+				"name": "pancakes",
+				"custom_model_data": 2200945,
+				"texture_size": 16
+			},
+			{
+				"name": "blueberry_pancakes",
+				"custom_model_data": 2200888,
+				"texture_size": 16
+			},
+			{
+				"name": "sweet_berry_pancakes",
+				"custom_model_data": 2200965,
+				"texture_size": 16
+			},
+			{
+				"name": "fries",
+				"custom_model_data": 2200924,
+				"texture_size": 16
+			},
+			{
+				"name": "popcorn",
+				"custom_model_data": 2200951,
+				"texture_size": 16
+			},
+			{
+				"name": "popcorn_sweet",
+				"custom_model_data": 2200953,
+				"texture_size": 16
+			},
+			{
+				"name": "popcorn_salty",
+				"custom_model_data": 2200952,
+				"texture_size": 16
+			},
+			{
+				"name": "shepards_pie",
+				"custom_model_data": 2200961,
+				"texture_size": 16
+			},
+			{
+				"name": "chicken_pot_pie",
+				"custom_model_data": 2200900,
+				"texture_size": 16
+			},
+			{
+				"name": "chocolate_cake",
+				"custom_model_data": 2200904,
+				"texture_size": 16
+			},
+			{
+				"name": "cream_cookie",
+				"custom_model_data": 2200915,
+				"texture_size": 16
+			},
+			{
+				"name": "blueberry_muffin",
+				"custom_model_data": 2200887,
+				"texture_size": 16
+			},
+			{
+				"name": "pumpkin_muffin",
+				"custom_model_data": 2200957,
+				"texture_size": 16
+			},
+			{
+				"name": "chocolate_chip_muffin",
+				"custom_model_data": 2200905,
+				"texture_size": 16
+			},
+			{
+				"name": "boston_cream_pie",
+				"custom_model_data": 2200890,
+				"texture_size": 16
+			},
+			{
+				"name": "hot_dog",
+				"custom_model_data": 2200932,
+				"texture_size": 16
+			},
+			{
+				"name": "bacon_wrapped_cheese_filled_hot_dog",
+				"custom_model_data": 2200933,
+				"texture_size": 16
+			},
+			{
+				"name": "bbq_bacon_wrapped_hot_dog",
+				"custom_model_data": 2200934,
+				"texture_size": 16
+			},
+			{
+				"name": "bbq_double_bacon_wrapped_hot_dog_in_a_tortilla_with_cheese",
+				"custom_model_data": 2200935,
+				"texture_size": 16
+			},
+			{
+				"name": "chocolate_strawberry",
+				"custom_model_data": 2200907,
+				"texture_size": 16
+			},
+			{
+				"name": "sweet_potato_pie",
+				"custom_model_data": 2201284,
+				"texture_size": 16
+			},
+			{
+				"name": "lamington",
+				"custom_model_data": 2200938,
+				"texture_size": 16
+			},
+			{
+				"name": "waffles",
+				"custom_model_data": 2200973,
+				"texture_size": 16
+			},
+			{
+				"name": "club_sandwich",
+				"custom_model_data": 2200908,
+				"texture_size": 16
+			},
+			{
+				"name": "burrito",
+				"custom_model_data": 2200891,
+				"texture_size": 16
+			},
+			{
+				"name": "chicken_burrito",
+				"custom_model_data": 2200897,
+				"texture_size": 16
+			},
+			{
+				"name": "grilled_sandwich",
+				"custom_model_data": 2200930,
+				"texture_size": 16
+			},
+			{
+				"name": "lasagna",
+				"custom_model_data": 2200939,
+				"texture_size": 16
+			},
+			{
+				"name": "ice_cream",
+				"custom_model_data": 2200936,
+				"texture_size": 16
+			},
+			{
+				"name": "tiramisu",
+				"custom_model_data": 2200968,
+				"texture_size": 16
+			},
+			{
+				"name": "tiramisu_with_strawberries",
+				"custom_model_data": 2200971,
+				"texture_size": 16
+			},
+			{
+				"name": "tiramisu_with_raspberries",
+				"custom_model_data": 2200970,
+				"texture_size": 16
+			},
+			{
+				"name": "tiramisu_with_blackberries",
+				"custom_model_data": 2200969,
+				"texture_size": 16
+			},
+			{
+				"name": "chocolate_pear_cake",
+				"custom_model_data": 2200906,
+				"texture_size": 16
+			},
+			{
+				"name": "apple_pear_cake",
+				"custom_model_data": 2200872,
+				"texture_size": 16
+			},
+			{
+				"name": "stuffed_red_bell_pepper",
+				"custom_model_data": 2201285,
+				"texture_size": 16
+			},
+			{
+				"name": "sweetened_tea",
+				"custom_model_data": 2200868,
+				"texture_size": 16
+			},
+			{
+				"name": "hot_chocolate",
+				"custom_model_data": 2200846,
+				"texture_size": 16
+			},
+			{
+				"name": "pinacolada",
+				"custom_model_data": 2200857,
+				"texture_size": 16
+			}
+		],
+		"minecraft:brick": [
+			{
+				"name": "copper_ingot",
+				"custom_model_data": 2200105,
+				"texture_size": 32
+			},
+			{
+				"name": "bronze_ingot",
+				"custom_model_data": 2200081,
+				"texture_size": 32
+			},
+			{
+				"name": "redstone_alloy_ingot",
+				"custom_model_data": 2200217,
+				"texture_size": 32
+			}
+		],
+		"minecraft:diamond": [
+			{
+				"name": "synthetic_diamond",
+				"custom_model_data": 2200090,
+				"texture_size": 32
+			}
+		],
+		"minecraft:firework_star": [
+			{
+				"name": "silicon",
+				"custom_model_data": 2200156,
+				"texture_size": 32
+			},
+			{
+				"name": "blank_rune",
+				"custom_model_data": 2200156,
+				"texture_size": 16
+			},
+			{
+				"name": "ancient_rune_air",
+				"custom_model_data": 2200410,
+				"texture_size": 16
+			},
+			{
+				"name": "ancient_rune_earth",
+				"custom_model_data": 2200411,
+				"texture_size": 16
+			},
+			{
+				"name": "ancient_rune_fire",
+				"custom_model_data": 2200412,
+				"texture_size": 16
+			},
+			{
+				"name": "ancient_rune_water",
+				"custom_model_data": 2200413,
+				"texture_size": 16
+			},
+			{
+				"name": "ancient_rune_ender",
+				"custom_model_data": 2200414,
+				"texture_size": 16
+			},
+			{
+				"name": "ancient_rune_lightning",
+				"custom_model_data": 2200415,
+				"texture_size": 16
+			},
+			{
+				"name": "ancient_rune_rainbow",
+				"custom_model_data": 2200416,
+				"texture_size": 16
+			},
+			{
+				"name": "ancient_rune_soulbound",
+				"custom_model_data": 2200417,
+				"texture_size": 16
+			},
+			{
+				"name": "ancient_rune_enchantment",
+				"custom_model_data": 2200418,
+				"texture_size": 16
+			},
+			{
+				"name": "ancient_rune_villagers",
+				"custom_model_data": 2200543,
+				"texture_size": 16
+			}
+		],
+		"minecraft:emerald": [
+			{
+				"name": "synthetic_emerald",
+				"custom_model_data": 2200188,
+				"texture_size": 32
+			},
+			{
+				"name": "common_talisman",
+				"custom_model_data": 2200164,
+				"texture_size": 16
+			}
+		],
+		"minecraft:stick": [
+			{
+				"name": "grandmas_walking_stick",
+				"custom_model_data": 2200011,
+				"texture_size": 32
+			},
+			{
+				"name": "grandpas_walking_stick",
+				"custom_model_data": 2200012,
+				"texture_size": 32
+			},
+			{
+				"name": "splint",
+				"custom_model_data": 2200225,
+				"texture_size": 32
+			}
+		],
+		"minecraft:golden_sword": [
+			{
+				"name": "blade_of_vampires",
+				"custom_model_data": 2200237,
+				"texture_size": 32
+			}
+		],
+		"minecraft:iron_axe": [
+			{
+				"name": "seismic_axe",
+				"custom_model_data": 2200270,
+				"texture_size": 32
+			}
+		],
+		"minecraft:diamond_sword": [
+			{
+				"name": "soulbound_sword",
+				"custom_model_data": 2200272,
+				"texture_size": 32
+			}
+		],
+		"minecraft:trident": [
+			{
+				"name": "soulbound_trident",
+				"custom_model_data": 2200273,
+				"texture_size": 32
+			}
+		],
+		"minecraft:bow": [
+			{
+				"name": "soulbound_bow",
+				"custom_model_data": 2200274,
+				"texture_size": 32
+			},
+			{
+				"name": "explosive_bow",
+				"custom_model_data": 2200311,
+				"texture_size": 32
+			},
+			{
+				"name": "icy_bow",
+				"custom_model_data": 2200312,
+				"texture_size": 32
+			}
+		],
+		"minecraft:paper": [
+			{
+				"name": "rag",
+				"custom_model_data": 2200223,
+				"texture_size": 32
+			},
+			{
+				"name": "bandage",
+				"custom_model_data": 2200224,
+				"texture_size": 32
+			},
+			{
+				"name": "magical_book_cover",
+				"custom_model_data": 2200049,
+				"texture_size": 16
+			}
+		],
+		"minecraft:nether_wart": [
+			{
+				"name": "vitamins",
+				"custom_model_data": 2200227,
+				"texture_size": 32
+			}
+		],
+		"minecraft:potion": [
+			{
+				"name": "medicine",
+				"custom_model_data": 2200228,
+				"texture_size": 32
+			},
+			{
+				"name": "apple_juice",
+				"custom_model_data": 2200284,
+				"texture_size": 32
+			},
+			{
+				"name": "carrot_juice",
+				"custom_model_data": 2200285,
+				"texture_size": 32
+			},
+			{
+				"name": "melon_juice",
+				"custom_model_data": 2200286,
+				"texture_size": 32
+			},
+			{
+				"name": "pumpkin_juice",
+				"custom_model_data": 2200287,
+				"texture_size": 32
+			},
+			{
+				"name": "sweet_berry_juice",
+				"custom_model_data": 2200288,
+				"texture_size": 32
+			},
+			{
+				"name": "golden_apple_juice",
+				"custom_model_data": 2200289,
+				"texture_size": 16
+			},
+			{
+				"name": "grape_juice",
+				"custom_model_data": 2200844,
+				"texture_size": 16
+			},
+			{
+				"name": "grape_smoothie",
+				"custom_model_data": 2200845,
+				"texture_size": 16
+			},
+			{
+				"name": "blueberry_juice",
+				"custom_model_data": 2200832,
+				"texture_size": 16
+			},
+			{
+				"name": "blueberry_smoothie",
+				"custom_model_data": 2200833,
+				"texture_size": 16
+			},
+			{
+				"name": "elderberry_juice",
+				"custom_model_data": 2200842,
+				"texture_size": 16
+			},
+			{
+				"name": "elderberry_smoothie",
+				"custom_model_data": 2200843,
+				"texture_size": 16
+			},
+			{
+				"name": "raspberry_juice",
+				"custom_model_data": 2200863,
+				"texture_size": 16
+			},
+			{
+				"name": "raspberry_smoothie",
+				"custom_model_data": 2200864,
+				"texture_size": 16
+			},
+			{
+				"name": "blackberry_juice",
+				"custom_model_data": 2200830,
+				"texture_size": 16
+			},
+			{
+				"name": "blackberry_smoothie",
+				"custom_model_data": 2200831,
+				"texture_size": 16
+			},
+			{
+				"name": "cranberry_juice",
+				"custom_model_data": 2200839,
+				"texture_size": 16
+			},
+			{
+				"name": "cranberry_smoothie",
+				"custom_model_data": 2200840,
+				"texture_size": 16
+			},
+			{
+				"name": "cowberry_juice",
+				"custom_model_data": 2200837,
+				"texture_size": 16
+			},
+			{
+				"name": "cowberry_smoothie",
+				"custom_model_data": 2200838,
+				"texture_size": 16
+			},
+			{
+				"name": "strawberry_juice",
+				"custom_model_data": 2200866,
+				"texture_size": 16
+			},
+			{
+				"name": "strawberry_smoothie",
+				"custom_model_data": 2200867,
+				"texture_size": 16
+			},
+			{
+				"name": "oak_apple_juice",
+				"custom_model_data": 2200852,
+				"texture_size": 16
+			},
+			{
+				"name": "coconut_milk",
+				"custom_model_data": 2200836,
+				"texture_size": 16
+			},
+			{
+				"name": "cherry_juice",
+				"custom_model_data": 2200835,
+				"texture_size": 16
+			},
+			{
+				"name": "pomegranate_juice",
+				"custom_model_data": 2200861,
+				"texture_size": 16
+			},
+			{
+				"name": "lemon_juice",
+				"custom_model_data": 2200848,
+				"texture_size": 16
+			},
+			{
+				"name": "plum_juice",
+				"custom_model_data": 2200860,
+				"texture_size": 16
+			},
+			{
+				"name": "lime_juice",
+				"custom_model_data": 2200850,
+				"texture_size": 16
+			},
+			{
+				"name": "orange_juice",
+				"custom_model_data": 2200853,
+				"texture_size": 16
+			},
+			{
+				"name": "peach_juice",
+				"custom_model_data": 2200855,
+				"texture_size": 16
+			},
+			{
+				"name": "pear_juice",
+				"custom_model_data": 2200856,
+				"texture_size": 16
+			},
+			{
+				"name": "dragon_fruit_juice",
+				"custom_model_data": 2200841,
+				"texture_size": 16
+			},
+			{
+				"name": "lime_smoothie",
+				"custom_model_data": 2200851,
+				"texture_size": 16
+			},
+			{
+				"name": "tomato_juice",
+				"custom_model_data": 2200870,
+				"texture_size": 16
+			},
+			{
+				"name": "wine",
+				"custom_model_data": 2200871,
+				"texture_size": 16
+			},
+			{
+				"name": "lemon_iced_tea",
+				"custom_model_data": 2200847,
+				"texture_size": 16
+			},
+			{
+				"name": "raspberry_iced_tea",
+				"custom_model_data": 2200862,
+				"texture_size": 16
+			},
+			{
+				"name": "peach_iced_tea",
+				"custom_model_data": 2200854,
+				"texture_size": 16
+			},
+			{
+				"name": "strawberry_iced_tea",
+				"custom_model_data": 2200865,
+				"texture_size": 16
+			},
+			{
+				"name": "cherry_iced_tea",
+				"custom_model_data": 2200834,
+				"texture_size": 16
+			},
+			{
+				"name": "thai_tea",
+				"custom_model_data": 2200869,
+				"texture_size": 16
+			},
+			{
+				"name": "lemonade",
+				"custom_model_data": 2200849,
+				"texture_size": 16
+			},
+			{
+				"name": "pineapple_juice",
+				"custom_model_data": 2200858,
+				"texture_size": 16
+			},
+			{
+				"name": "pineapple_smoothie",
+				"custom_model_data": 2200859,
+				"texture_size": 16
+			}
+		],
+		"minecraft:chest": [
+			{
+				"name": "output_chest",
+				"custom_model_data": 2200016,
+				"texture_size": 32
+			}
+		],
+		"minecraft:crafting_table": [
+			{
+				"name": "enhanced_crafting_table",
+				"custom_model_data": 2200017,
+				"texture_size": 32
+			},
+			{
+				"name": "magic_workbench",
+				"custom_model_data": 2200132,
+				"texture_size": 32
+			}
+		],
+		"minecraft:dispenser": [
+			{
+				"name": "grind_stone",
+				"custom_model_data": 2200026,
+				"texture_size": 32
+			},
+			{
+				"name": "ore_crusher",
+				"custom_model_data": 2200028,
+				"texture_size": 32
+			},
+			{
+				"name": "automatic_ignition_chamber",
+				"custom_model_data": 2200058,
+				"texture_size": 32
+			},
+			{
+				"name": "block_placer",
+				"custom_model_data": 2200309,
+				"texture_size": 32
+			}
+		],
+		"minecraft:furnace": [
+			{
+				"name": "smeltery",
+				"custom_model_data": 2200057,
+				"texture_size": 32
+			},
+			{
+				"name": "enhanced_furnace",
+				"custom_model_data": 2200292,
+				"texture_size": 32
+			},
+			{
+				"name": "enhanced_furnace_2",
+				"custom_model_data": 2200293,
+				"texture_size": 32
+			},
+			{
+				"name": "enhanced_furnace_3",
+				"custom_model_data": 2200294,
+				"texture_size": 32
+			},
+			{
+				"name": "enhanced_furnace_4",
+				"custom_model_data": 2200295,
+				"texture_size": 32
+			},
+			{
+				"name": "enhanced_furnace_5",
+				"custom_model_data": 2200296,
+				"texture_size": 32
+			},
+			{
+				"name": "enhanced_furnace_6",
+				"custom_model_data": 2200297,
+				"texture_size": 32
+			},
+			{
+				"name": "enhanced_furnace_7",
+				"custom_model_data": 2200298,
+				"texture_size": 32
+			},
+			{
+				"name": "enhanced_furnace_8",
+				"custom_model_data": 2200299,
+				"texture_size": 32
+			},
+			{
+				"name": "enhanced_furnace_9",
+				"custom_model_data": 2200300,
+				"texture_size": 32
+			},
+			{
+				"name": "enhanced_furnace_10",
+				"custom_model_data": 2200301,
+				"texture_size": 32
+			},
+			{
+				"name": "enhanced_furnace_11",
+				"custom_model_data": 2200302,
+				"texture_size": 32
+			},
+			{
+				"name": "reinforced_furnace",
+				"custom_model_data": 2200303,
+				"texture_size": 32
+			},
+			{
+				"name": "carbonado_edged_furnace",
+				"custom_model_data": 2200304,
+				"texture_size": 32
+			}
+		],
+		"minecraft:anvil": [
+			{
+				"name": "armor_forge",
+				"custom_model_data": 2200027,
+				"texture_size": 32
+			}
+		],
+		"minecraft:piston": [
+			{
+				"name": "compressor",
+				"custom_model_data": 2200029,
+				"texture_size": 32
+			}
+		],
+		"minecraft:blast_furnace": [
+			{
+				"name": "makeshift_smeltery",
+				"custom_model_data": 2200056,
+				"texture_size": 32
+			}
+		],
+		"minecraft:glass": [
+			{
+				"name": "pressure_chamber",
+				"custom_model_data": 2200059,
+				"texture_size": 32
+			}
+		],
+		"minecraft:cauldron": [
+			{
+				"name": "ore_washer",
+				"custom_model_data": 2200143,
+				"texture_size": 32
+			},
+			{
+				"name": "composter",
+				"custom_model_data": 2200239,
+				"texture_size": 32
+			},
+			{
+				"name": "crucible",
+				"custom_model_data": 2200252,
+				"texture_size": 32
+			}
+		],
+		"minecraft:stonecutter": [
+			{
+				"name": "table_saw",
+				"custom_model_data": 2200232,
+				"texture_size": 32
+			}
+		],
+		"minecraft:bowl": [
+			{
+				"name": "automated_panning_machine",
+				"custom_model_data": 2200243,
+				"texture_size": 32
+			},
+			{
+				"name": "gold_pan",
+				"custom_model_data": 2200053,
+				"texture_size": 32
+			},
+			{
+				"name": "nether_gold_pan",
+				"custom_model_data": 2200054,
+				"texture_size": 32
+			}
+		],
+		"minecraft:golden_pickaxe": [
+			{
+				"name": "industrial_miner",
+				"custom_model_data": 2200244,
+				"texture_size": 32
+			}
+		],
+		"minecraft:diamond_pickaxe": [
+			{
+				"name": "advanced_industrial_miner",
+				"custom_model_data": 2200245,
+				"texture_size": 32
+			},
+			{
+				"name": "smelters_pickaxe",
+				"custom_model_data": 2200163,
+				"texture_size": 32
+			},
+			{
+				"name": "explosive_pickaxe",
+				"custom_model_data": 2200241,
+				"texture_size": 32
+			},
+			{
+				"name": "pickaxe_of_the_seeker",
+				"custom_model_data": 2200247,
+				"texture_size": 32
+			},
+			{
+				"name": "pickaxe_of_vein_mining",
+				"custom_model_data": 2200271,
+				"texture_size": 32
+			},
+			{
+				"name": "soulbound_pickaxe",
+				"custom_model_data": 2200275,
+				"texture_size": 32
+			}
+		],
+		"minecraft:glass_bottle": [
+			{
+				"name": "juicer",
+				"custom_model_data": 2200283,
+				"texture_size": 32
+			}
+		],
+		"minecraft:lead": [
+			{
+				"name": "grappling_hook",
+				"custom_model_data": 2200131,
+				"texture_size": 32
+			}
+		],
+		"minecraft:diamond_axe": [
+			{
+				"name": "lumber_axe",
+				"custom_model_data": 2200197,
+				"texture_size": 32
+			},
+			{
+				"name": "soulbound_axe",
+				"custom_model_data": 2200276,
+				"texture_size": 32
+			}
+		],
+		"minecraft:iron_pickaxe": [
+			{
+				"name": "pickaxe_of_containment",
+				"custom_model_data": 2200230,
+				"texture_size": 32
+			},
+			{
+				"name": "hercules_pickaxe",
+				"custom_model_data": 2200231,
+				"texture_size": 32
+			},
+			{
+				"name": "cobalt_pickaxe",
+				"custom_model_data": 2200258,
+				"texture_size": 32
+			},
+			{
+				"name": "climbing_pick",
+				"custom_model_data": 2200882,
+				"texture_size": 32
+			}
+		],
+		"minecraft:diamond_shovel": [
+			{
+				"name": "explosive_shovel",
+				"custom_model_data": 2200242,
+				"texture_size": 32
+			},
+			{
+				"name": "soulbound_shovel",
+				"custom_model_data": 2200277,
+				"texture_size": 32
+			}
+		],
+		"minecraft:diamond_hoe": [
+			{
+				"name": "soulbound_hoe",
+				"custom_model_data": 2200278,
+				"texture_size": 32
+			}
+		],
+		"minecraft:cookie": [
+			{
+				"name": "fortune_cookie",
+				"custom_model_data": 2200014,
+				"texture_size": 32
+			},
+			{
+				"name": "diet_cookie",
+				"custom_model_data": 2200015,
+				"texture_size": 32
+			},
+			{
+				"name": "kelp_cookie",
+				"custom_model_data": 2200025,
+				"texture_size": 32
+			}
+		],
+		"minecraft:cooked_beef": [
+			{
+				"name": "beef_jerky",
+				"custom_model_data": 2200019,
+				"texture_size": 32
+			}
+		],
+		"minecraft:cooked_porkchop": [
+			{
+				"name": "pork_jerky",
+				"custom_model_data": 2200020,
+				"texture_size": 32
+			}
+		],
+		"minecraft:cooked_chicken": [
+			{
+				"name": "chicken_jerky",
+				"custom_model_data": 2200021,
+				"texture_size": 32
+			}
+		],
+		"minecraft:cooked_mutton": [
+			{
+				"name": "mutton_jerky",
+				"custom_model_data": 2200022,
+				"texture_size": 32
+			}
+		],
+		"minecraft:cooked_rabbit": [
+			{
+				"name": "rabbit_jerky",
+				"custom_model_data": 2200023,
+				"texture_size": 32
+			}
+		],
+		"minecraft:cooked_cod": [
+			{
+				"name": "fish_jerky",
+				"custom_model_data": 2200024,
+				"texture_size": 32
+			}
+		],
+		"minecraft:rotten_flesh": [
+			{
+				"name": "monster_jerky",
+				"custom_model_data": 2200043,
+				"texture_size": 32
+			}
+		],
+		"minecraft:gold_nugget": [
+			{
+				"name": "magical_lump_1",
+				"custom_model_data": 2200030,
+				"texture_size": 16
+			},
+			{
+				"name": "magical_lump_2",
+				"custom_model_data": 2200031,
+				"texture_size": 16
+			},
+			{
+				"name": "magical_lump_3",
+				"custom_model_data": 2200032,
+				"texture_size": 16
+			},
+			{
+				"name": "ender_lump_1",
+				"custom_model_data": 2200033,
+				"texture_size": 16
+			},
+			{
+				"name": "ender_lump_2",
+				"custom_model_data": 2200034,
+				"texture_size": 16
+			},
+			{
+				"name": "ender_lump_3",
+				"custom_model_data": 2200035,
+				"texture_size": 16
+			}
+		],
+		"minecraft:glass_pane": [
+			{
+				"name": "magical_glass",
+				"custom_model_data": 2200050,
+				"texture_size": 16
+			}
+		],
+		"minecraft:shulker_shell": [
+			{
+				"name": "synthetic_shulker_shell",
+				"custom_model_data": 2200544,
+				"texture_size": 16
+			}
+		],
+		"minecraft:purple_dye": [
+			{
+				"name": "strange_nether_goo",
+				"custom_model_data": 2200534,
+				"texture_size": 16
+			}
+		],
+		"minecraft:golden_carrot": [
+			{
+				"name": "corn_on_the_cob",
+				"custom_model_data": 2200910,
+				"texture_size": 16
+			}
+		]
+	}
+}
