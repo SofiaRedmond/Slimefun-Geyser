@@ -43,6 +43,16 @@
 				"name": "magic_sugar",
 				"custom_model_data": 2200042,
 				"texture_size": 32
+			},
+			{
+				"name": "wheat_flour",
+				"custom_model_data": 2200114,
+				"texture_size": 32
+			},
+			{
+				"name": "salt",
+				"custom_model_data": 2200198,
+				"texture_size": 32
 			}
 		],
 		"minecraft:glowstone_dust": [
@@ -76,6 +86,26 @@
 			{
 				"name": "essence_of_afterlife",
 				"custom_model_data": 2200260,
+				"texture_size": 16
+			},
+			{
+				"name": "shifted_ore",
+				"custom_model_data": 2200055,
+				"texture_size": 16
+			},
+			{
+				"name": "crushed_ore",
+				"custom_model_data": 2200211,
+				"texture_size": 16
+			},
+			{
+				"name": "pulverized_ore",
+				"custom_model_data": 2200212,
+				"texture_size": 16
+			},
+			{
+				"name": "pure_ore_cluster",
+				"custom_model_data": 2200213,
 				"texture_size": 16
 			}
 		],
@@ -928,6 +958,191 @@
 				"name": "pinacolada",
 				"custom_model_data": 2200857,
 				"texture_size": 16
+			},
+			{
+				"name": "battery",
+				"custom_model_data": 2200060,
+				"texture_size": 16
+			},
+			{
+				"name": "power_crystal",
+				"custom_model_data": 2200119,
+				"texture_size": 16
+			},
+			{
+				"name": "magnet",
+				"custom_model_data": 2200256,
+				"texture_size": 16
+			},
+			{
+				"name": "electromagnet",
+				"custom_model_data": 2200305,
+				"texture_size": 16
+			},
+			{
+				"name": "electric_motor",
+				"custom_model_data": 2200306,
+				"texture_size": 16
+			},
+			{
+				"name": "heating_coil",
+				"custom_model_data": 2200307,
+				"texture_size": 16
+			},
+			{
+				"name": "cooling_unit",
+				"custom_model_data": 2200334,
+				"texture_size": 16
+			},
+			{
+				"name": "android_memory_core",
+				"custom_model_data": 2200386,
+				"texture_size": 16
+			},
+			{
+				"name": "reactor_coolant_cell",
+				"custom_model_data": 2200503,
+				"texture_size": 16
+			},
+			{
+				"name": "nether_ice_coolant_cell",
+				"custom_model_data": 2200504,
+				"texture_size": 16
+			},
+			{
+				"name": "stone_chunk",
+				"custom_model_data": 2200155,
+				"texture_size": 16
+			},
+			{
+				"name": "cheese",
+				"custom_model_data": 2200200,
+				"texture_size": 16
+			},
+			{
+				"name": "butter",
+				"custom_model_data": 2200201,
+				"texture_size": 16
+			},
+			{
+				"name": "tiny_pile_of_uranium",
+				"custom_model_data": 2200214,
+				"texture_size": 16
+			},
+			{
+				"name": "small_chunk_of_uranium",
+				"custom_model_data": 2200215,
+				"texture_size": 16
+			},
+			{
+				"name": "tin_can",
+				"custom_model_data": 2200226,
+				"texture_size": 16
+			},
+			{
+				"name": "duct_tape",
+				"custom_model_data": 2200340,
+				"texture_size": 16
+			},
+			{
+				"name": "organic_food_wheat",
+				"custom_model_data": 2200473,
+				"texture_size": 16
+			},
+			{
+				"name": "organic_food_carrtos",
+				"custom_model_data": 2200474,
+				"texture_size": 16
+			},
+			{
+				"name": "organic_food_potato",
+				"custom_model_data": 2200475,
+				"texture_size": 16
+			},
+			{
+				"name": "organic_food_seeds",
+				"custom_model_data": 2200476,
+				"texture_size": 16
+			},
+			{
+				"name": "organic_food_beetroot",
+				"custom_model_data": 2200477,
+				"texture_size": 16
+			},
+			{
+				"name": "organic_food_melon",
+				"custom_model_data": 2200478,
+				"texture_size": 16
+			},
+			{
+				"name": "organic_food_apple",
+				"custom_model_data": 2200479,
+				"texture_size": 16
+			},
+			{
+				"name": "organic_food_sweet_berries",
+				"custom_model_data": 2200480,
+				"texture_size": 16
+			},
+			{
+				"name": "organic_food_dried_kelp",
+				"custom_model_data": 2200481,
+				"texture_size": 16
+			},
+			{
+				"name": "organic_food_cocoa_beans",
+				"custom_model_data": 2200482,
+				"texture_size": 16
+			},
+			{
+				"name": "organic_fertilizer_wheat",
+				"custom_model_data": 2200489,
+				"texture_size": 16
+			},
+			{
+				"name": "organic_fertilizer_carrots",
+				"custom_model_data": 2200490,
+				"texture_size": 16
+			},
+			{
+				"name": "organic_fertilizer_potato",
+				"custom_model_data": 2200491,
+				"texture_size": 16
+			},
+			{
+				"name": "organic_fertilizer_seeds",
+				"custom_model_data": 2200492,
+				"texture_size": 16
+			},
+			{
+				"name": "organic_fertilizer_beetroot",
+				"custom_model_data": 2200493,
+				"texture_size": 16
+			},
+			{
+				"name": "organic_fertilizer_melon",
+				"custom_model_data": 2200494,
+				"texture_size": 16
+			},
+			{
+				"name": "organic_fertilizer_apple",
+				"custom_model_data": 2200495,
+				"texture_size": 16
+			},
+			{
+				"name": "organic_fertilizer_sweet_berries",
+				"custom_model_data": 2200496,
+				"texture_size": 16
+			},
+			{
+				"name": "organic_fertilizer_dried_kelp",
+				"custom_model_data": 2200497,
+				"texture_size": 16
+			},
+			{
+				"name": "organic_fertilizer_cocoa_beans",
+				"custom_model_data": 2200498,
+				"texture_size": 16
 			}
 		],
 		"minecraft:brick": [
@@ -962,7 +1177,7 @@
 			},
 			{
 				"name": "blank_rune",
-				"custom_model_data": 2200156,
+				"custom_model_data": 2200409,
 				"texture_size": 16
 			},
 			{
@@ -1104,6 +1319,31 @@
 			{
 				"name": "magical_book_cover",
 				"custom_model_data": 2200049,
+				"texture_size": 16
+			},
+			{
+				"name": "reinforced_cloth",
+				"custom_model_data": 2200206,
+				"texture_size": 16
+			},
+			{
+				"name": "plastic_sheet",
+				"custom_model_data": 2200385,
+				"texture_size": 16
+			},
+			{
+				"name": "steel_plate",
+				"custom_model_data": 2200115,
+				"texture_size": 16
+			},
+			{
+				"name": "cloth",
+				"custom_model_data": 2200222,
+				"texture_size": 16
+			},
+			{
+				"name": "reinforced_plate",
+				"custom_model_data": 2200332,
 				"texture_size": 16
 			}
 		],
@@ -1757,6 +1997,67 @@
 			{
 				"name": "corn_on_the_cob",
 				"custom_model_data": 2200910,
+				"texture_size": 16
+			}
+		],
+		"minecraft:activator_rail": [
+			{
+				"name": "basic_circuit_board",
+				"custom_model_data": 2200051,
+				"texture_size": 16
+			}
+		],
+		"minecraft:powered_rail": [
+			{
+				"name": "advanced_circuit_board",
+				"custom_model_data": 2200052,
+				"texture_size": 16
+			}
+		],
+		"minecraft:bucket": [
+			{
+				"name": "steel_thruster",
+				"custom_model_data": 2200118,
+				"texture_size": 16
+			}
+		],
+		"minecraft:string": [
+			{
+				"name": "copper_wire",
+				"custom_model_data": 2200308,
+				"texture_size": 16
+			},
+			{
+				"name": "chain",
+				"custom_model_data": 2200129,
+				"texture_size": 16
+			}
+		],
+		"minecraft:obsidian": [
+			{
+				"name": "wither_proof_obsidian",
+				"custom_model_data": 2200336,
+				"texture_size": 16
+			}
+		],
+		"minecraft:flint": [
+			{
+				"name": "hook",
+				"custom_model_data": 2200130,
+				"texture_size": 16
+			}
+		],
+		"minecraft:snowball": [
+			{
+				"name": "heavy_cream",
+				"custom_model_data": 2200199,
+				"texture_size": 16
+			}
+		],
+		"minecraft:gold_block_24": [
+			{
+				"name": "gold_block_24",
+				"custom_model_data": 2200238,
 				"texture_size": 16
 			}
 		]
