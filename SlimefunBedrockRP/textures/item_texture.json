@@ -1666,6 +1666,291 @@
 			"textures": [
 				"textures/items/jardin_exotico/bebida/pineapple_smoothie"
 			]
+		},
+		"battery": {
+			"textures": [
+				"textures/items/componentes_tecnicos/battery"
+			]
+		},
+		"power_crystal": {
+			"textures": [
+				"textures/items/componentes_tecnicos/power_crystal"
+			]
+		},
+		"magnet": {
+			"textures": [
+				"textures/items/componentes_tecnicos/magnet"
+			]
+		},
+		"electromagnet": {
+			"textures": [
+				"textures/items/componentes_tecnicos/electromagnet"
+			]
+		},
+		"electric_motor": {
+			"textures": [
+				"textures/items/componentes_tecnicos/electric_motor"
+			]
+		},
+		"heating_coil": {
+			"textures": [
+				"textures/items/componentes_tecnicos/heating_coil"
+			]
+		},
+		"cooling_unit": {
+			"textures": [
+				"textures/items/componentes_tecnicos/cooling_unit"
+			]
+		},
+		"android_memory_core": {
+			"textures": [
+				"textures/items/componentes_tecnicos/android_memory_core"
+			]
+		},
+		"reactor_coolant_cell": {
+			"textures": [
+				"textures/items/componentes_tecnicos/reactor_coolant_cell"
+			]
+		},
+		"nether_ice_coolant_cell": {
+			"textures": [
+				"textures/items/componentes_tecnicos/nether_ice_coolant_cell"
+			]
+		},
+		"reinforced_cloth": {
+			"textures": [
+				"textures/items/componentes_tecnicos/reinforced_cloth"
+			]
+		},
+		"plastic_sheet": {
+			"textures": [
+				"textures/items/componentes_tecnicos/plastic_sheet"
+			]
+		},
+		"basic_circuit_board": {
+			"textures": [
+				"textures/items/componentes_tecnicos/basic_circuit_board"
+			]
+		},
+		"advanced_circuit_board": {
+			"textures": [
+				"textures/items/componentes_tecnicos/advanced_circuit_board"
+			]
+		},
+		"steel_thruster": {
+			"textures": [
+				"textures/items/componentes_tecnicos/steel_thruster"
+			]
+		},
+		"copper_wire": {
+			"textures": [
+				"textures/items/componentes_tecnicos/copper_wire"
+			]
+		},
+		"wither_proof_obsidian": {
+			"textures": [
+				"textures/items/componentes_tecnicos/wither_proof_obsidian"
+			]
+		},
+		"wheat_flour": {
+			"textures": [
+				"textures/items/objetos_varios/wheat_flour"
+			]
+		},
+		"salt": {
+			"textures": [
+				"textures/items/objetos_varios/salt"
+			]
+		},
+		"stone_chunk": {
+			"textures": [
+				"textures/items/objetos_varios/stone_chunk"
+			]
+		},
+		"cheese": {
+			"textures": [
+				"textures/items/objetos_varios/cheese"
+			]
+		},
+		"butter": {
+			"textures": [
+				"textures/items/objetos_varios/butter"
+			]
+		},
+		"tiny_pile_of_uranium": {
+			"textures": [
+				"textures/items/objetos_varios/tiny_pile_of_uranium"
+			]
+		},
+		"small_chunk_of_uranium": {
+			"textures": [
+				"textures/items/objetos_varios/small_chunk_of_uranium"
+			]
+		},
+		"tin_can": {
+			"textures": [
+				"textures/items/objetos_varios/tin_can"
+			]
+		},
+		"duct_tape": {
+			"textures": [
+				"textures/items/objetos_varios/duct_tape"
+			]
+		},
+		"organic_food_wheat": {
+			"textures": [
+				"textures/items/objetos_varios/organic_food_wheat"
+			]
+		},
+		"organic_food_carrtos": {
+			"textures": [
+				"textures/items/objetos_varios/organic_food_carrots"
+			]
+		},
+		"organic_food_potato": {
+			"textures": [
+				"textures/items/objetos_varios/organic_food_potato"
+			]
+		},
+		"organic_food_seeds": {
+			"textures": [
+				"textures/items/objetos_varios/organic_food_seeds"
+			]
+		},
+		"organic_food_beetroot": {
+			"textures": [
+				"textures/items/objetos_varios/organic_food_beetroot"
+			]
+		},
+		"organic_food_melon": {
+			"textures": [
+				"textures/items/objetos_varios/organic_food_melon"
+			]
+		},
+		"organic_food_apple": {
+			"textures": [
+				"textures/items/objetos_varios/organic_food_apple"
+			]
+		},
+		"organic_food_sweet_berries": {
+			"textures": [
+				"textures/items/objetos_varios/organic_food_sweet_berries"
+			]
+		},
+		"organic_food_dried_kelp": {
+			"textures": [
+				"textures/items/objetos_varios/organic_food_dried_kelp"
+			]
+		},
+		"organic_food_cocoa_beans": {
+			"textures": [
+				"textures/items/objetos_varios/organic_food_cocoa_beans"
+			]
+		},
+		"organic_fertilizer_wheat": {
+			"textures": [
+				"textures/items/objetos_varios/organic_fertilizer_wheat"
+			]
+		},
+		"organic_fertilizer_carrots": {
+			"textures": [
+				"textures/items/objetos_varios/organic_fertilizer_carrots"
+			]
+		},
+		"organic_fertilizer_potato": {
+			"textures": [
+				"textures/items/objetos_varios/organic_fertilizer_potato"
+			]
+		},
+		"organic_fertilizer_seeds": {
+			"textures": [
+				"textures/items/objetos_varios/organic_fertilizer_seeds"
+			]
+		},
+		"organic_fertilizer_beetroot": {
+			"textures": [
+				"textures/items/objetos_varios/organic_fertilizer_beetroot"
+			]
+		},
+		"organic_fertilizer_melon": {
+			"textures": [
+				"textures/items/objetos_varios/organic_fertilizer_melon"
+			]
+		},
+		"organic_fertilizer_apple": {
+			"textures": [
+				"textures/items/objetos_varios/organic_fertilizer_apple"
+			]
+		},
+		"organic_fertilizer_sweet_berries": {
+			"textures": [
+				"textures/items/objetos_varios/organic_fertilizer_sweet_berries"
+			]
+		},
+		"organic_fertilizer_dried_kelp": {
+			"textures": [
+				"textures/items/objetos_varios/organic_fertilizer_dried_kelp"
+			]
+		},
+		"organic_fertilizer_cocoa_beans": {
+			"textures": [
+				"textures/items/objetos_varios/organic_fertilizer_cocoa_beans"
+			]
+		},
+		"plastic_sheet": {
+			"textures": [
+				"textures/items/objetos_varios/plastic_sheet"
+			]
+		},
+		"steel_plate": {
+			"textures": [
+				"textures/items/objetos_varios/steel_plate"
+			]
+		},
+		"cloth": {
+			"textures": [
+				"textures/items/objetos_varios/cloth"
+			]
+		},
+		"reinforced_plate": {
+			"textures": [
+				"textures/items/objetos_varios/reinforced_plate"
+			]
+		},
+		"chain": {
+			"textures": [
+				"textures/items/objetos_varios/chain"
+			]
+		},
+		"hook": {
+			"textures": [
+				"textures/items/objetos_varios/hook"
+			]
+		},
+		"heavy_cream": {
+			"textures": [
+				"textures/items/objetos_varios/heavy_cream"
+			]
+		},
+		"shifted_ore": {
+			"textures": [
+				"textures/items/objetos_varios/shifted_ore"
+			]
+		},
+		"crushed_ore": {
+			"textures": [
+				"textures/items/objetos_varios/crushed_ore"
+			]
+		},
+		"pulverized_ore": {
+			"textures": [
+				"textures/items/objetos_varios/pulverized_ore"
+			]
+		},
+		"pure_ore_cluster": {
+			"textures": [
+				"textures/items/objetos_varios/pure_ore_cluster"
+			]
 		}
 	}
 }
