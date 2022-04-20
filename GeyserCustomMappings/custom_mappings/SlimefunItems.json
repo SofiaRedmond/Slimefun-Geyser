@@ -1,13 +1,6 @@
 {
 	"format_version": "1.0.0",
 	"items": {
-		"minecraft:gray_stained_glass_pane": [
-			{
-				"name": "_UI_BACKGROUND",
-				"custom_model_data": 2200002,
-				"texture_size": 16
-			}
-		],
 		"minecraft:sugar": [
 			{
 				"name": "aluminum_dust",
@@ -1143,6 +1136,21 @@
 				"name": "organic_fertilizer_cocoa_beans",
 				"custom_model_data": 2200498,
 				"texture_size": 16
+			},
+			{
+				"name": "ender_backpack",
+				"custom_model_data": 2200036,
+				"texture_size": 16
+			},
+			{
+				"name": "infused_magnet",
+				"custom_model_data": 2200257,
+				"texture_size": 16
+			},
+			{
+				"name": "bound_backpack",
+				"custom_model_data": 2200261,
+				"texture_size": 16
 			}
 		],
 		"minecraft:brick": [
@@ -1258,6 +1266,31 @@
 				"name": "splint",
 				"custom_model_data": 2200225,
 				"texture_size": 32
+			},
+			{
+				"name": "elemental_staff",
+				"custom_model_data": 2200133,
+				"texture_size": 16
+			},
+			{
+				"name": "elemental_staff_wind",
+				"custom_model_data": 2200134,
+				"texture_size": 16
+			},
+			{
+				"name": "elemental_staff_water",
+				"custom_model_data": 2200135,
+				"texture_size": 16
+			},
+			{
+				"name": "elemental_staff_fire",
+				"custom_model_data": 2200160,
+				"texture_size": 16
+			},
+			{
+				"name": "elemental_staff_storm",
+				"custom_model_data": 2200161,
+				"texture_size": 16
 			}
 		],
 		"minecraft:golden_sword": [
@@ -1345,6 +1378,11 @@
 				"name": "reinforced_plate",
 				"custom_model_data": 2200332,
 				"texture_size": 16
+			},
+			{
+				"name": "scroll_of_dimensional_teleposition",
+				"custom_model_data": 2200310,
+				"texture_size": 16
 			}
 		],
 		"minecraft:nether_wart": [
@@ -1352,6 +1390,11 @@
 				"name": "vitamins",
 				"custom_model_data": 2200227,
 				"texture_size": 32
+			},
+			{
+				"name": "magical_zombie_pills",
+				"custom_model_data": 2200162,
+				"texture_size": 16
 			}
 		],
 		"minecraft:potion": [
@@ -1625,6 +1668,11 @@
 				"name": "block_placer",
 				"custom_model_data": 2200309,
 				"texture_size": 32
+			},
+			{
+				"name": "ancient_pedestal",
+				"custom_model_data": 2200337,
+				"texture_size": 32
 			}
 		],
 		"minecraft:furnace": [
@@ -1812,6 +1860,11 @@
 				"name": "juicer",
 				"custom_model_data": 2200283,
 				"texture_size": 32
+			},
+			{
+				"name": "flask_of_knowledge",
+				"custom_model_data": 2200314,
+				"texture_size": 16
 			}
 		],
 		"minecraft:lead": [
@@ -2058,6 +2111,67 @@
 			{
 				"name": "gold_block_24",
 				"custom_model_data": 2200238,
+				"texture_size": 16
+			}
+		],
+		"minecraft:ender_eye": [
+			{
+				"name": "magic_eye_of_ender",
+				"custom_model_data": 2200041,
+				"texture_size": 16
+			}
+		],
+		"minecraft:enchanted_book": [
+			{
+				"name": "tome_of_knowledge_sharing",
+				"custom_model_data": 2200313,
+				"texture_size": 16
+			}
+		],
+		"minecraft:enchanting_table": [
+			{
+				"name": "ancient_altar",
+				"custom_model_data": 2200338,
+				"texture_size": 16
+			}
+		],
+		"minecraft:bone_meal": [
+			{
+				"name": "infernal_bonemeal",
+				"custom_model_data": 2200419,
+				"texture_size": 16
+			}
+		],
+		"minecraft:feather": [
+			{
+				"name": "elytra_scale",
+				"custom_model_data": 2200420,
+				"texture_size": 16
+			}
+		],
+		"minecraft:elytra": [
+			{
+				"name": "infused_elytra",
+				"custom_model_data": 2200422,
+				"texture_size": 16
+			},
+			{
+				"name": "soulbound_elytra",
+				"custom_model_data": 2200423,
+				"texture_size": 16
+			}
+		],
+		"minecraft:hopper": [
+			{
+				"name": "infused_hopper",
+				"custom_model_data": 2200465,
+				"texture_size": 16
+			}
+		],
+		"minecraft:gray_stained_glass_pane": [
+			{
+				"name": "ui_background_2",
+				"custom_model_data": 1111111,
 				"texture_size": 16
 			}
 		]

@@ -2,6 +2,11 @@
 	"resource_pack_name": "prueba",
 	"texture_name": "atlas.items",
 	"texture_data": {
+		"ui_background": {
+			"textures": [
+				"textures/ui/test"
+			]
+		},
 		"aluminum_dust": {
 			"textures": [
 				"textures/items/polvos/aluminum_dust"
@@ -1951,6 +1956,110 @@
 			"textures": [
 				"textures/items/objetos_varios/pure_ore_cluster"
 			]
+		},
+		"ender_backpack": {
+			"textures": [
+				"textures/items/dispositivos_magicos/ender_backpack"
+			]
+		},
+		"infused_magnet": {
+			"textures": [
+				"textures/items/dispositivos_magicos/infused_magnet"
+			]
+		},
+		"bound_backpack": {
+			"textures": [
+				"textures/items/dispositivos_magicos/soulbound_backpack"
+			]
+		},
+		"elemental_staff": {
+			"textures": [
+				"textures/items/dispositivos_magicos/elemental_staff"
+			]
+		},
+		"elemental_staff_wind": {
+			"textures": [
+				"textures/items/dispositivos_magicos/elemental_staff_wind"
+			]
+		},
+		"elemental_staff_water": {
+			"textures": [
+				"textures/items/dispositivos_magicos/elemental_staff_water"
+			]
+		},
+		"elemental_staff_fire": {
+			"textures": [
+				"textures/items/dispositivos_magicos/elemental_staff_fire"
+			]
+		},
+		"elemental_staff_storm": {
+			"textures": [
+				"textures/items/dispositivos_magicos/elemental_staff_storm"
+			]
+		},
+		"scroll_of_dimensional_teleposition": {
+			"textures": [
+				"textures/items/dispositivos_magicos/scroll_of_dimensional_teleposition"
+			]
+		},
+		"magical_zombie_pills": {
+			"textures": [
+				"textures/items/dispositivos_magicos/magical_zombie_pills"
+			]
+		},
+		"flask_of_knowledge": {
+			"textures": [
+				"textures/items/dispositivos_magicos/flask_of_knowledge"
+			]
+		},
+		"ancient_pedestal": {
+			"textures": [
+				"textures/items/dispositivos_magicos/ancient_pedestal"
+			]
+		},
+		"ancient_altar": {
+			"textures": [
+				"textures/items/dispositivos_magicos/ancient_altar"
+			]
+		},
+		"infernal_bonemeal": {
+			"textures": [
+				"textures/items/dispositivos_magicos/infernal_bonemeal"
+			]
+		},
+		"elytra_scale": {
+			"textures": [
+				"textures/items/dispositivos_magicos/elytra_scale"
+			]
+		},
+		"infused_elytra": {
+			"textures": [
+				"textures/items/dispositivos_magicos/infused_elytra"
+			]
+		},
+		"soulbound_elytra": {
+			"textures": [
+				"textures/items/dispositivos_magicos/soulbound_elytra"
+			]
+		},
+		"infused_hopper": {
+			"textures": [
+				"textures/items/dispositivos_magicos/infused_hopper"
+			]
+		},
+		"tome_of_knowledge_sharing": {
+			"textures": [
+				"textures/items/dispositivos_magicos/tome_of_knowledge_sharing"
+			]
+		},
+		"magic_eye_of_ender": {
+			"textures": [
+				"textures/items/dispositivos_magicos/magic_eye_of_ender"
+			]
+		}
+	}
+}	}
+}		]
 		}
 	}
 }
