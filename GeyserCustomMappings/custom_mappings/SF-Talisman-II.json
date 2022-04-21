@@ -1,0 +1,88 @@
+{
+	"format_version": "1.0.0",
+	"items": {
+		"minecraft:emerald": [
+			{
+				"name": "ender_talisman_of_the_anvil",
+				"custom_model_data": 2200166,
+				"texture_size": 16
+			},
+			{
+				"name": "ender_talisman_of_the_miner",
+				"custom_model_data": 2200168,
+				"texture_size": 16
+			},
+			{
+				"name": "ender_talisman_of_the_farmer",
+				"custom_model_data": 1000002,
+				"texture_size": 16
+			},
+			{
+				"name": "ender_talisman_of_the_hunter",
+				"custom_model_data": 2200170,
+				"texture_size": 16
+			},
+			{
+				"name": "ender_talisman_of_the_lava_walker",
+				"custom_model_data": 2200172,
+				"texture_size": 16
+			},
+			{
+				"name": "ender_talisman_of_the_water_breather",
+				"custom_model_data": 2200174,
+				"texture_size": 16
+			},
+			{
+				"name": "ender_talisman_of_the_angel",
+				"custom_model_data": 2200176,
+				"texture_size": 16
+			},
+			{
+				"name": "ender_talisman_of_the_firefighter",
+				"custom_model_data": 2200178,
+				"texture_size": 16
+			},
+			{
+				"name": "ender_talisman_of_the_magician",
+				"custom_model_data": 2200180,
+				"texture_size": 16
+			},
+			{
+				"name": "ender_talisman_of_the_traveller",
+				"custom_model_data": 2200182,
+				"texture_size": 16
+			},
+			{
+				"comment": "by some reason, i must put the original name here or the game simply don't recognize the texture.",
+				"name": "ender_warrior_talisman",
+				"custom_model_data": 2200184,
+				"texture_size": 16
+			},
+			{
+				"name": "ender_talisman_of_the_knight",
+				"custom_model_data": 2200186,
+				"texture_size": 16
+			},
+			{
+				"name": "ender_talisman_of_the_caveman",
+				"custom_model_data": 2200530,
+				"texture_size": 16
+			},
+			{
+				"name": "ender_talisman_of_the_wise",
+				"custom_model_data": 2200532,
+				"texture_size": 16
+			},
+			{
+				"name": "ender_talisman_of_the_whirlwind",
+				"custom_model_data": 2200194,
+				"texture_size": 16
+			},
+			{
+				"name": "ender_talisman_of_the_wizard",
+				"custom_model_data": 2200196,
+				"texture_size": 16
+			}
+		]
+	}
+}
