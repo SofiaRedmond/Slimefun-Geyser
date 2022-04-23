@@ -734,7 +734,7 @@
 		},
 		"golden_apple_juice": {
 			"textures": [
-				"textures/items/comida/golden_apple_juice"
+				"textures/items/comida/NO_ICONO"
 			]
 		},
 		"fortune_cookie": {
@@ -2056,10 +2056,402 @@
 			"textures": [
 				"textures/items/dispositivos_magicos/magic_eye_of_ender"
 			]
+		},
+		"talisman_of_the_anvil": {
+			"textures": [
+				"textures/items/talisman-i/talisman_of_the_anvil"
+			]
+		},
+		"talisman_of_the_miner": {
+			"textures": [
+				"textures/items/talisman-i/talisman_of_the_miner"
+			]
+		},
+		"talisman_of_the_farmer": {
+			"textures": [
+				"textures/items/talisman-i/0_default"
+			]
+		},
+		"talisman_of_the_hunter": {
+			"textures": [
+				"textures/items/talisman-i/talisman_of_the_hunter"
+			]
+		},
+		"talisman_of_the_lava_walker": {
+			"textures": [
+				"textures/items/talisman-i/talisman_of_the_lava_walker"
+			]
+		},
+		"talisman_of_the_water_breather": {
+			"textures": [
+				"textures/items/talisman-i/talisman_of_the_water_breather"
+			]
+		},
+		"talisman_of_the_angel": {
+			"textures": [
+				"textures/items/talisman-i/talisman_of_the_angel"
+			]
+		},
+		"talisman_of_the_firefighter": {
+			"textures": [
+				"textures/items/talisman-i/talisman_of_the_firefighter"
+			]
+		},
+		"talisman_of_the_magician": {
+			"textures": [
+				"textures/items/talisman-i/talisman_of_the_magician"
+			]
+		},
+		"talisman_of_the_traveller": {
+			"textures": [
+				"textures/items/talisman-i/talisman_of_the_traveller"
+			]
+		},
+		"warrior_talisman": {
+			"textures": [
+				"textures/items/talisman-i/talisman_of_the_warrior"
+			]
+		},
+		"talisman_of_the_knight": {
+			"textures": [
+				"textures/items/talisman-i/talisman_of_the_knight"
+			]
+		},
+		"talisman_of_the_caveman": {
+			"textures": [
+				"textures/items/talisman-i/talisman_of_the_caveman"
+			]
+		},
+		"talisman_of_the_wise": {
+			"textures": [
+				"textures/items/talisman-i/talisman_of_the_wise"
+			]
+		},
+		"talisman_of_the_whirlwind": {
+			"textures": [
+				"textures/items/talisman-i/talisman_of_the_whirlwind"
+			]
+		},
+		"talisman_of_the_wizard": {
+			"textures": [
+				"textures/items/talisman-i/talisman_of_the_wizard"
+			]
+		},
+		"ender_talisman_of_the_anvil": {
+			"textures": [
+				"textures/items/talisman-ii/ender_talisman_of_the_anvil"
+			]
+		},
+		"ender_talisman_of_the_miner": {
+			"textures": [
+				"textures/items/talisman-ii/ender_talisman_of_the_miner"
+			]
+		},
+		"ender_talisman_of_the_farmer": {
+			"textures": [
+				"textures/items/talisman-ii/0_default"
+			]
+		},
+		"ender_talisman_of_the_hunter": {
+			"textures": [
+				"textures/items/talisman-ii/ender_talisman_of_the_hunter"
+			]
+		},
+		"ender_talisman_of_the_lava_walker": {
+			"textures": [
+				"textures/items/talisman-ii/ender_talisman_of_the_lava_walker"
+			]
+		},
+		"ender_talisman_of_the_water_breather": {
+			"textures": [
+				"textures/items/talisman-ii/ender_talisman_of_the_water_breather"
+			]
+		},
+		"ender_talisman_of_the_angel": {
+			"textures": [
+				"textures/items/talisman-ii/ender_talisman_of_the_angel"
+			]
+		},
+		"ender_talisman_of_the_firefighter": {
+			"textures": [
+				"textures/items/talisman-ii/ender_talisman_of_the_firefighter"
+			]
+		},
+		"ender_talisman_of_the_magician": {
+			"textures": [
+				"textures/items/talisman-ii/ender_talisman_of_the_magician"
+			]
+		},
+		"ender_talisman_of_the_traveller": {
+			"textures": [
+				"textures/items/talisman-ii/ender_talisman_of_the_traveller"
+			]
+		},
+		"ender_warrior_talisman": {
+			"textures": [
+				"textures/items/talisman-ii/ender_talisman_of_the_warrior"
+			]
+		},
+		"ender_talisman_of_the_knight": {
+			"textures": [
+				"textures/items/talisman-ii/ender_talisman_of_the_knight"
+			]
+		},
+		"ender_talisman_of_the_caveman": {
+			"textures": [
+				"textures/items/talisman-ii/ender_talisman_of_the_caveman"
+			]
+		},
+		"ender_talisman_of_the_wise": {
+			"textures": [
+				"textures/items/talisman-ii/ender_talisman_of_the_wise"
+			]
+		},
+		"ender_talisman_of_the_whirlwind": {
+			"textures": [
+				"textures/items/talisman-ii/ender_talisman_of_the_whirlwind"
+			]
+		},
+		"ender_talisman_of_the_wizard": {
+			"textures": [
+				"textures/items/talisman-ii/ender_talisman_of_the_wizard"
+			]
+		},
+		"energy_regulator": {
+			"textures": [
+				"textures/items/energia&electricidad/energy_regulator"
+			]
+		},
+		"energy_connector": {
+			"textures": [
+				"textures/items/energia&electricidad/energy_connector"
+			]
+		},
+		"small_energy_capacitor": {
+			"textures": [
+				"textures/items/energia&electricidad/small_energy_capacitor"
+			]
+		},
+		"medium_energy_capacitor": {
+			"textures": [
+				"textures/items/energia&electricidad/medium_energy_capacitor"
+			]
+		},
+		"big_energy_capacitor": {
+			"textures": [
+				"textures/items/energia&electricidad/big_energy_capacitor"
+			]
+		},
+		"large_energy_capacitor": {
+			"textures": [
+				"textures/items/energia&electricidad/large_energy_capacitor"
+			]
+		},
+		"carbonado_edged_energy_capacitor": {
+			"textures": [
+				"textures/items/energia&electricidad/carbonado_edged_energy_capacitor"
+			]
+		},
+		"energized_energy_capacitor": {
+			"textures": [
+				"textures/items/energia&electricidad/energized_energy_capacitor"
+			]
+		},
+		"coal_generator_i": {
+			"textures": [
+				"textures/items/energia&electricidad/coal_generator_i"
+			]
+		},
+		"coal_generator_ii": {
+			"textures": [
+				"textures/items/energia&electricidad/coal_generator_ii"
+			]
+		},
+		"electric_press_i": {
+			"textures": [
+				"textures/items/energia&electricidad/electric_press_i"
+			]
+		},
+		"electric_press_ii": {
+			"textures": [
+				"textures/items/energia&electricidad/electric_press_ii"
+			]
+		},
+		"magnesium_powered_generator": {
+			"textures": [
+				"textures/items/energia&electricidad/magnesium_powered_generator"
+			]
+		},
+		"lava_generator_i": {
+			"textures": [
+				"textures/items/energia&electricidad/lava_generator_i"
+			]
+		},
+		"lava_generator_ii": {
+			"textures": [
+				"textures/items/energia&electricidad/lava_generator_ii"
+			]
+		},
+		"combustion_reactor": {
+			"textures": [
+				"textures/items/energia&electricidad/combustion_reactor"
+			]
+		},
+		"exp_collector": {
+			"textures": [
+				"textures/items/energia&electricidad/exp_collector"
+			]
+		},
+		"nuclear_reactor": {
+			"textures": [
+				"textures/items/energia&electricidad/nuclear_reactor"
+			]
+		},
+		"nether_star_reactor": {
+			"textures": [
+				"textures/items/energia&electricidad/nether_star_reactor"
+			]
+		},
+		"solar_generator": {
+			"textures": [
+				"textures/items/energia&electricidad/solar_generator"
+			]
+		},
+		"advanced_solar_generator": {
+			"textures": [
+				"textures/items/energia&electricidad/advanced_solar_generator"
+			]
+		},
+		"carbonado_solar_generator": {
+			"textures": [
+				"textures/items/energia&electricidad/carbonado_solar_generator"
+			]
+		},
+		"energized_solar_generator": {
+			"textures": [
+				"textures/items/energia&electricidad/energized_solar_generator"
+			]
+		},
+		"charging_bench": {
+			"textures": [
+				"textures/items/energia&electricidad/charging_bench"
+			]
+		},
+		"electric_furnace_i": {
+			"textures": [
+				"textures/items/energia&electricidad/electric_furnace_i"
+			]
+		},
+		"electric_furnace_ii": {
+			"textures": [
+				"textures/items/energia&electricidad/electric_furnace_ii"
+			]
+		},
+		"electric_furnace_iii": {
+			"textures": [
+				"textures/items/energia&electricidad/electric_furnace_iii"
+			]
+		},
+		"electric_ore_grinder_i": {
+			"textures": [
+				"textures/items/energia&electricidad/electric_ore_grinder_i"
+			]
+		},
+		"electric_ore_grinder_ii": {
+			"textures": [
+				"textures/items/energia&electricidad/electric_ore_grinder_ii"
+			]
+		},
+		"electric_ore_grinder_iii": {
+			"textures": [
+				"textures/items/energia&electricidad/electric_ore_grinder_iii"
+			]
+		},
+		"electric_ingot_pulverizer": {
+			"textures": [
+				"textures/items/energia&electricidad/electric_ingot_pulverizer"
+			]
+		},
+		"electric_smeltery_i": {
+			"textures": [
+				"textures/items/energia&electricidad/electric_smeltery_i"
+			]
+		},
+		"electric_smeltery_ii": {
+			"textures": [
+				"textures/items/energia&electricidad/electric_smeltery_ii"
+			]
+		},
+		"electric_gold_pan_i": {
+			"textures": [
+				"textures/items/energia&electricidad/electric_gold_pan_i"
+			]
+		},
+		"electric_gold_pan_ii": {
+			"textures": [
+				"textures/items/energia&electricidad/electric_gold_pan_ii"
+			]
+		},
+		"electric_gold_pan_iii": {
+			"textures": [
+				"textures/items/energia&electricidad/electric_gold_pan_iii"
+			]
+		},
+		"tree_growth_accelerator": {
+			"textures": [
+				"textures/items/energia&electricidad/NO_ICONO"
+			]
+		},
+		"electric_ingot_factory_i": {
+			"textures": [
+				"textures/items/energia&electricidad/electric_ingot_factory_i"
+			]
+		},
+		"electric_ingot_factory_ii": {
+			"textures": [
+				"textures/items/energia&electricidad/electric_ingot_factory_ii"
+			]
+		},
+		"electric_ingot_factory_iii": {
+			"textures": [
+				"textures/items/energia&electricidad/electric_ingot_factory_iii"
+			]
+		},
+		"electrified_crucible_i": {
+			"textures": [
+				"textures/items/energia&electricidad/NO_ICONO"
+			]
+		},
+		"electrified_crucible_ii": {
+			"textures": [
+				"textures/items/energia&electricidad/NO_ICONO"
+			]
+		},
+		"electrified_crucible_iii": {
+			"textures": [
+				"textures/items/energia&electricidad/NO_ICONO"
+			]
+		},
+		"BASE": {
+			"textures": [
+				"textures/items/energia&electricidad/BASE"
+			]
 		}
 	}
-}	}
-}		]
+}]
+		}
+	}
+}/energia&electricidad/electrified_crucible_iii"
+			]
+		},
+		"BASE": {
+			"textures": [
+				"textures/items/energia&electricidad/BASE"
+			]
+		}
+	}
+}electricidad/BASE"
+			]
 		}
 	}
 }
