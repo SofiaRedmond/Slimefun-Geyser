@@ -2419,38 +2419,22 @@
 		},
 		"electrified_crucible_i": {
 			"textures": [
-				"textures/items/energia&electricidad/NO_ICONO"
+				"textures/items/energia&electricidad/electrified_crucible_i"
 			]
 		},
 		"electrified_crucible_ii": {
 			"textures": [
-				"textures/items/energia&electricidad/NO_ICONO"
+				"textures/items/energia&electricidad/electrified_crucible_ii"
 			]
 		},
 		"electrified_crucible_iii": {
 			"textures": [
-				"textures/items/energia&electricidad/NO_ICONO"
+				"textures/items/energia&electricidad/electrified_crucible_iii"
 			]
 		},
 		"BASE": {
 			"textures": [
 				"textures/items/energia&electricidad/BASE"
-			]
-		}
-	}
-}]
-		}
-	}
-}/energia&electricidad/electrified_crucible_iii"
-			]
-		},
-		"BASE": {
-			"textures": [
-				"textures/items/energia&electricidad/BASE"
-			]
-		}
-	}
-}electricidad/BASE"
 			]
 		}
 	}
