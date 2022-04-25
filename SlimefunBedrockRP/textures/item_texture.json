@@ -22,6 +22,11 @@
 				"textures/items/polvos/gold_dust"
 			]
 		},
+		"sulfate": {
+			"textures": [
+				"textures/items/polvos/sulfate"
+			]
+		},
 		"iron_dust": {
 			"textures": [
 				"textures/items/polvos/iron_dust"
