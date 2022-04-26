@@ -1,0 +1,90 @@
+{
+	"format_version": "1.0.0",
+	"items": {
+		"minecraft:player_head": [
+			{
+				"name": "portable_crafter",
+				"custom_model_data": 2200013,
+				"texture_size": 16
+			},
+			{
+				"name": "portable_dustbin",
+				"custom_model_data": 2200018,
+				"texture_size": 16
+			},
+			{
+				"name": "small_backpack",
+				"custom_model_data": 2200248,
+				"texture_size": 16
+			},
+			{
+				"name": "medium_backpack",
+				"custom_model_data": 2200249,
+				"texture_size": 16
+			},
+			{
+				"name": "large_backpack",
+				"custom_model_data": 2200250,
+				"texture_size": 16
+			},
+			{
+				"name": "woven_backpack",
+				"custom_model_data": 2200251,
+				"texture_size": 16
+			},
+			{
+				"name": "gilded_backpack",
+				"custom_model_data": 2200253,
+				"texture_size": 16
+			},
+			{
+				"name": "radiant_backpack",
+				"custom_model_data": 2200254,
+				"texture_size": 16
+			},
+			{
+				"name": "cooler",
+				"custom_model_data": 2200335,
+				"texture_size": 16
+			},
+			{
+				"name": "tape_measure",
+				"custom_model_data": 2200527,
+				"texture_size": 16
+			}
+		],
+		"minecraft:paper": [
+			{
+				"name": "rag",
+				"custom_model_data": 2200223,
+				"texture_size": 16
+			},
+			{
+				"name": "bandage",
+				"custom_model_data": 2200224,
+				"texture_size": 16
+			}
+		],
+		"minecraft:stick": [
+			{
+				"name": "splint",
+				"custom_model_data": 2200225,
+				"texture_size": 16
+			}
+		],
+		"minecraft:nether_wart": [
+			{
+				"name": "vitamins",
+				"custom_model_data": 2200227,
+				"texture_size": 16
+			}
+		],
+		"minecraft:potion": [
+			{
+				"name": "medicine",
+				"custom_model_data": 2200228,
+				"texture_size": 16
+			}
+		]
+	}
+}

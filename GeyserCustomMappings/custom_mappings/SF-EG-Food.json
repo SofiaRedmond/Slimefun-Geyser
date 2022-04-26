@@ -1,0 +1,539 @@
+{
+	"format_version": "1.0.0",
+	"items": {
+		"minecraft:player_head": [
+			{
+				"name": "grape_jelly_sandwich",
+				"custom_model_data": 2200927,
+				"texture_size": 16
+			},
+			{
+				"name": "grape_pie",
+				"custom_model_data": 2200928,
+				"texture_size": 16
+			},
+			{
+				"name": "grape_pie",
+				"custom_model_data": 2200928,
+				"texture_size": 16
+			},
+			{
+				"name": "blueberry_jelly_sandwich",
+				"custom_model_data": 2200886,
+				"texture_size": 16
+			},
+			{
+				"name": "blueberry_pie",
+				"custom_model_data": 2200889,
+				"texture_size": 16
+			},
+			{
+				"name": "elderberry_jelly_sandwich",
+				"custom_model_data": 2201282,
+				"texture_size": 16
+			},
+			{
+				"name": "elderberry_pie",
+				"custom_model_data": 2200921,
+				"texture_size": 16
+			},
+			{
+				"name": "raspberry_jelly_sandwich",
+				"custom_model_data": 2200958,
+				"texture_size": 16
+			},
+			{
+				"name": "raspberry_pie",
+				"custom_model_data": 2200959,
+				"texture_size": 16
+			},
+			{
+				"name": "blackberry_jelly_sandwich",
+				"custom_model_data": 2200882,
+				"texture_size": 16
+			},
+			{
+				"name": "blackberry_pie",
+				"custom_model_data": 2200883,
+				"texture_size": 16
+			},
+			{
+				"name": "cranberry_jelly_sandwich",
+				"custom_model_data": 2200913,
+				"texture_size": 16
+			},
+			{
+				"name": "cranberry_pie",
+				"custom_model_data": 2200914,
+				"texture_size": 16
+			},
+			{
+				"name": "cowberry_jelly_sandwich",
+				"custom_model_data": 2200911,
+				"texture_size": 16
+			},
+			{
+				"name": "cowberry_pie",
+				"custom_model_data": 2200912,
+				"texture_size": 16
+			},
+			{
+				"name": "strawberry_jelly_sandwich",
+				"custom_model_data": 2200962,
+				"texture_size": 16
+			},
+			{
+				"name": "strawberry_pie",
+				"custom_model_data": 2200963,
+				"texture_size": 16
+			},
+			{
+				"name": "oak_apple_pie",
+				"custom_model_data": 2200873,
+				"texture_size": 16
+			},
+			{
+				"name": "cherry_pie",
+				"custom_model_data": 2200896,
+				"texture_size": 16
+			},
+			{
+				"name": "pomegranate_pie",
+				"custom_model_data": 2200950,
+				"texture_size": 16
+			},
+			{
+				"name": "lemon_pie",
+				"custom_model_data": 2200942,
+				"texture_size": 16
+			},
+			{
+				"name": "plum_pie",
+				"custom_model_data": 2200949,
+				"texture_size": 16
+			},
+			{
+				"name": "lime_pie",
+				"custom_model_data": 2200943,
+				"texture_size": 16
+			},
+			{
+				"name": "orange_pie",
+				"custom_model_data": 2200944,
+				"texture_size": 16
+			},
+			{
+				"name": "peach_pie",
+				"custom_model_data": 2200947,
+				"texture_size": 16
+			},
+			{
+				"name": "pear_pie",
+				"custom_model_data": 2200948,
+				"texture_size": 16
+			},
+			{
+				"name": "dragon_fruit_pie",
+				"custom_model_data": 2200918,
+				"texture_size": 16
+			},
+			{
+				"name": "pumpkin_bread",
+				"custom_model_data": 2200955,
+				"texture_size": 16
+			},
+			{
+				"name": "chocolate_bar",
+				"custom_model_data": 2200903,
+				"texture_size": 16
+			},
+			{
+				"name": "potato_salad",
+				"custom_model_data": 2200954,
+				"texture_size": 16
+			},
+			{
+				"name": "chicken_sandwich",
+				"custom_model_data": 2200901,
+				"texture_size": 16
+			},
+			{
+				"name": "fish_sandwich",
+				"custom_model_data": 2200922,
+				"texture_size": 16
+			},
+			{
+				"name": "bagel",
+				"custom_model_data": 2200878,
+				"texture_size": 16
+			},
+			{
+				"name": "egg_salad",
+				"custom_model_data": 2200919,
+				"texture_size": 16
+			},
+			{
+				"name": "tomato_soup",
+				"custom_model_data": 2200972,
+				"texture_size": 16
+			},
+			{
+				"name": "strawberry_salad",
+				"custom_model_data": 2200964,
+				"texture_size": 16
+			},
+			{
+				"name": "grape_salad",
+				"custom_model_data": 2200929,
+				"texture_size": 16
+			},
+			{
+				"name": "chicken_curry",
+				"custom_model_data": 2200899,
+				"texture_size": 16
+			},
+			{
+				"name": "coconut_chicken_curry",
+				"custom_model_data": 2200909,
+				"texture_size": 16
+			},
+			{
+				"name": "biscuit",
+				"custom_model_data": 2200879,
+				"texture_size": 16
+			},
+			{
+				"name": "biscuits_and_country_gravy",
+				"custom_model_data": 2200880,
+				"texture_size": 16
+			},
+			{
+				"name": "cheesecake",
+				"custom_model_data": 2200894,
+				"texture_size": 16
+			},
+			{
+				"name": "cherry_cheesecake",
+				"custom_model_data": 2200895,
+				"texture_size": 16
+			},
+			{
+				"name": "blueberry_cheesecake",
+				"custom_model_data": 2200885,
+				"texture_size": 16
+			},
+			{
+				"name": "pumpkin_cheesecake",
+				"custom_model_data": 2200956,
+				"texture_size": 16
+			},
+			{
+				"name": "sweetened_pear_cheesecake",
+				"custom_model_data": 2200966,
+				"texture_size": 16
+			},
+			{
+				"name": "blackberry_cobbler",
+				"custom_model_data": 2200881,
+				"texture_size": 16
+			},
+			{
+				"name": "pavlova",
+				"custom_model_data": 2200946,
+				"texture_size": 16
+			},
+			{
+				"name": "creamed_corn",
+				"custom_model_data": 2200916,
+				"texture_size": 16
+			},
+			{
+				"name": "bacon",
+				"custom_model_data": 2200874,
+				"texture_size": 16
+			},
+			{
+				"name": "sandwich",
+				"custom_model_data": 2200960,
+				"texture_size": 16
+			},
+			{
+				"name": "blt",
+				"custom_model_data": 2200884,
+				"texture_size": 16
+			},
+			{
+				"name": "leafy_chicken_sandwich",
+				"custom_model_data": 2200940,
+				"texture_size": 16
+			},
+			{
+				"name": "leafy_fish_sandwich",
+				"custom_model_data": 2200941,
+				"texture_size": 16
+			},
+			{
+				"name": "hamburger",
+				"custom_model_data": 2200931,
+				"texture_size": 16
+			},
+			{
+				"name": "cheeseburger",
+				"custom_model_data": 2200893,
+				"texture_size": 16
+			},
+			{
+				"name": "bacon_cheeseburger",
+				"custom_model_data": 2200876,
+				"texture_size": 16
+			},
+			{
+				"name": "deluxe_cheeseburger",
+				"custom_model_data": 2200917,
+				"texture_size": 16
+			},
+			{
+				"name": "garlic_bread",
+				"custom_model_data": 2200925,
+				"texture_size": 16
+			},
+			{
+				"name": "garlic_cheese_bread",
+				"custom_model_data": 2200926,
+				"texture_size": 16
+			},
+			{
+				"name": "carrot_cake",
+				"custom_model_data": 2200892,
+				"texture_size": 16
+			},
+			{
+				"name": "chicken_burger",
+				"custom_model_data": 2200902,
+				"texture_size": 16
+			},
+			{
+				"name": "chicken_cheeseburger",
+				"custom_model_data": 2200898,
+				"texture_size": 16
+			},
+			{
+				"name": "bacon_burger",
+				"custom_model_data": 2200875,
+				"texture_size": 16
+			},
+			{
+				"name": "bacon_sandwich",
+				"custom_model_data": 2200877,
+				"texture_size": 16
+			},
+			{
+				"name": "taco",
+				"custom_model_data": 2200967,
+				"texture_size": 16
+			},
+			{
+				"name": "fish_taco",
+				"custom_model_data": 2200923,
+				"texture_size": 16
+			},
+			{
+				"name": "street_taco",
+				"custom_model_data": 2201283,
+				"texture_size": 16
+			},
+			{
+				"name": "jammy_dodger",
+				"custom_model_data": 2200937,
+				"texture_size": 16
+			},
+			{
+				"name": "pancakes",
+				"custom_model_data": 2200945,
+				"texture_size": 16
+			},
+			{
+				"name": "blueberry_pancakes",
+				"custom_model_data": 2200888,
+				"texture_size": 16
+			},
+			{
+				"name": "sweet_berry_pancakes",
+				"custom_model_data": 2200965,
+				"texture_size": 16
+			},
+			{
+				"name": "fries",
+				"custom_model_data": 2200924,
+				"texture_size": 16
+			},
+			{
+				"name": "popcorn",
+				"custom_model_data": 2200951,
+				"texture_size": 16
+			},
+			{
+				"name": "popcorn_sweet",
+				"custom_model_data": 2200953,
+				"texture_size": 16
+			},
+			{
+				"name": "popcorn_salty",
+				"custom_model_data": 2200952,
+				"texture_size": 16
+			},
+			{
+				"name": "shepards_pie",
+				"custom_model_data": 2200961,
+				"texture_size": 16
+			},
+			{
+				"name": "chicken_pot_pie",
+				"custom_model_data": 2200900,
+				"texture_size": 16
+			},
+			{
+				"name": "chocolate_cake",
+				"custom_model_data": 2200904,
+				"texture_size": 16
+			},
+			{
+				"name": "cream_cookie",
+				"custom_model_data": 2200915,
+				"texture_size": 16
+			},
+			{
+				"name": "blueberry_muffin",
+				"custom_model_data": 2200887,
+				"texture_size": 16
+			},
+			{
+				"name": "pumpkin_muffin",
+				"custom_model_data": 2200957,
+				"texture_size": 16
+			},
+			{
+				"name": "chocolate_chip_muffin",
+				"custom_model_data": 2200905,
+				"texture_size": 16
+			},
+			{
+				"name": "boston_cream_pie",
+				"custom_model_data": 2200890,
+				"texture_size": 16
+			},
+			{
+				"name": "hot_dog",
+				"custom_model_data": 2200932,
+				"texture_size": 16
+			},
+			{
+				"name": "bacon_wrapped_cheese_filled_hot_dog",
+				"custom_model_data": 2200933,
+				"texture_size": 16
+			},
+			{
+				"name": "bbq_bacon_wrapped_hot_dog",
+				"custom_model_data": 2200934,
+				"texture_size": 16
+			},
+			{
+				"name": "bbq_double_bacon_wrapped_hot_dog_in_a_tortilla_with_cheese",
+				"custom_model_data": 2200935,
+				"texture_size": 16
+			},
+			{
+				"name": "chocolate_strawberry",
+				"custom_model_data": 2200907,
+				"texture_size": 16
+			},
+			{
+				"name": "sweet_potato_pie",
+				"custom_model_data": 2201284,
+				"texture_size": 16
+			},
+			{
+				"name": "lamington",
+				"custom_model_data": 2200938,
+				"texture_size": 16
+			},
+			{
+				"name": "waffles",
+				"custom_model_data": 2200973,
+				"texture_size": 16
+			},
+			{
+				"name": "club_sandwich",
+				"custom_model_data": 2200908,
+				"texture_size": 16
+			},
+			{
+				"name": "burrito",
+				"custom_model_data": 2200891,
+				"texture_size": 16
+			},
+			{
+				"name": "chicken_burrito",
+				"custom_model_data": 2200897,
+				"texture_size": 16
+			},
+			{
+				"name": "grilled_sandwich",
+				"custom_model_data": 2200930,
+				"texture_size": 16
+			},
+			{
+				"name": "lasagna",
+				"custom_model_data": 2200939,
+				"texture_size": 16
+			},
+			{
+				"name": "ice_cream",
+				"custom_model_data": 2200936,
+				"texture_size": 16
+			},
+			{
+				"name": "tiramisu",
+				"custom_model_data": 2200968,
+				"texture_size": 16
+			},
+			{
+				"name": "tiramisu_with_strawberries",
+				"custom_model_data": 2200971,
+				"texture_size": 16
+			},
+			{
+				"name": "tiramisu_with_raspberries",
+				"custom_model_data": 2200970,
+				"texture_size": 16
+			},
+			{
+				"name": "tiramisu_with_blackberries",
+				"custom_model_data": 2200969,
+				"texture_size": 16
+			},
+			{
+				"name": "chocolate_pear_cake",
+				"custom_model_data": 2200906,
+				"texture_size": 16
+			},
+			{
+				"name": "apple_pear_cake",
+				"custom_model_data": 2200872,
+				"texture_size": 16
+			},
+			{
+				"name": "stuffed_red_bell_pepper",
+				"custom_model_data": 2201285,
+				"texture_size": 16
+			}
+		],
+		"minecraft:golden_carrot": [
+			{
+				"name": "corn_on_the_cob",
+				"custom_model_data": 2200910,
+				"texture_size": 16
+			}
+		]
+	}
+}

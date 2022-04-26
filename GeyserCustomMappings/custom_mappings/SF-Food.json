@@ -1,0 +1,110 @@
+{
+	"format_version": "1.0.0",
+	"items": {
+		"minecraft:cookie": [
+			{
+				"name": "fortune_cookie",
+				"custom_model_data": 2200014,
+				"texture_size": 32
+			},
+			{
+				"name": "diet_cookie",
+				"custom_model_data": 2200015,
+				"texture_size": 32
+			},
+			{
+				"name": "kelp_cookie",
+				"custom_model_data": 2200025,
+				"texture_size": 32
+			}
+		],
+		"minecraft:cooked_beef": [
+			{
+				"name": "beef_jerky",
+				"custom_model_data": 2200019,
+				"texture_size": 32
+			}
+		],
+		"minecraft:cooked_porkchop": [
+			{
+				"name": "pork_jerky",
+				"custom_model_data": 2200020,
+				"texture_size": 32
+			}
+		],
+		"minecraft:cooked_chicken": [
+			{
+				"name": "chicken_jerky",
+				"custom_model_data": 2200021,
+				"texture_size": 32
+			}
+		],
+		"minecraft:cooked_mutton": [
+			{
+				"name": "mutton_jerky",
+				"custom_model_data": 2200022,
+				"texture_size": 32
+			}
+		],
+		"minecraft:cooked_rabbit": [
+			{
+				"name": "rabbit_jerky",
+				"custom_model_data": 2200023,
+				"texture_size": 32
+			}
+		],
+		"minecraft:cooked_cod": [
+			{
+				"name": "fish_jerky",
+				"custom_model_data": 2200024,
+				"texture_size": 32
+			}
+		],
+		"minecraft:rotten_flesh": [
+			{
+				"name": "monster_jerky",
+				"custom_model_data": 2200043,
+				"texture_size": 32
+			}
+		],
+		"minecraft:sugar": [
+			{
+				"name": "magic_sugar",
+				"custom_model_data": 2200042,
+				"texture_size": 32
+			}
+		],
+		"minecraft:potion": [
+			{
+				"name": "apple_juice",
+				"custom_model_data": 2200284,
+				"texture_size": 32
+			},
+			{
+				"name": "carrot_juice",
+				"custom_model_data": 2200285,
+				"texture_size": 32
+			},
+			{
+				"name": "melon_juice",
+				"custom_model_data": 2200286,
+				"texture_size": 32
+			},
+			{
+				"name": "pumpkin_juice",
+				"custom_model_data": 2200287,
+				"texture_size": 32
+			},
+			{
+				"name": "sweet_berry_juice",
+				"custom_model_data": 2200288,
+				"texture_size": 32
+			},
+			{
+				"name": "golden_apple_juice",
+				"custom_model_data": 2200289,
+				"texture_size": 16
+			}
+		]
+	}
+}

@@ -1,0 +1,360 @@
+{
+	"format_version": "1.0.0",
+	"items": {
+		"minecraft:iron_ingot": [
+			{
+				"name": "tin_ingot",
+				"custom_model_data": 2200106,
+				"texture_size": 32
+			},
+			{
+				"name": "silver_ingot",
+				"custom_model_data": 2200107,
+				"texture_size": 32
+			},
+			{
+				"name": "lead_ingot",
+				"custom_model_data": 2200108,
+				"texture_size": 32
+			},
+			{
+				"name": "aluminum_ingot",
+				"custom_model_data": 2200109,
+				"texture_size": 32
+			},
+			{
+				"name": "zinc_ingot",
+				"custom_model_data": 2200110,
+				"texture_size": 32
+			},
+			{
+				"name": "magnesium_ingot",
+				"custom_model_data": 2200111,
+				"texture_size": 32
+			},
+			{
+				"name": "reinforced_alloy_ingot",
+				"custom_model_data": 2200077,
+				"texture_size": 16
+			},
+			{
+				"name": "hardened_metal",
+				"custom_model_data": 2200078,
+				"texture_size": 16
+			},
+			{
+				"name": "damascus_steel_ingot",
+				"custom_model_data": 2200079,
+				"texture_size": 16
+			},
+			{
+				"name": "steel_ingot",
+				"custom_model_data": 2200080,
+				"texture_size": 16
+			},
+			{
+				"name": "duralumin_ingot",
+				"custom_model_data": 2200082,
+				"texture_size": 16
+			},
+			{
+				"name": "billon_ingot",
+				"custom_model_data": 2200083,
+				"texture_size": 16
+			},
+			{
+				"name": "solder_ingot",
+				"custom_model_data": 2200088,
+				"texture_size": 16
+			},
+			{
+				"name": "nickel_ingot",
+				"custom_model_data": 2200092,
+				"texture_size": 16
+			},
+			{
+				"name": "cobalt_ingot",
+				"custom_model_data": 2200093,
+				"texture_size": 16
+			},
+			{
+				"name": "ferrosilicon_ingot",
+				"custom_model_data": 2200095,
+				"texture_size": 16
+			}
+		],
+		"minecraft:gold_ingot": [
+			{
+				"name": "brass_ingot",
+				"custom_model_data": 2200084,
+				"texture_size": 32
+			},
+			{
+				"name": "aluminum_brass_ingot",
+				"custom_model_data": 2200085,
+				"texture_size": 16
+			},
+			{
+				"name": "aluminum_bronze_ingot",
+				"custom_model_data": 2200086,
+				"texture_size": 16
+			},
+			{
+				"name": "corinthian_bronze_ingot",
+				"custom_model_data": 2200087,
+				"texture_size": 16
+			},
+			{
+				"name": "gold_ingot_4k",
+				"custom_model_data": 2200154,
+				"texture_size": 32
+			},
+			{
+				"name": "gold_ingot_6k",
+				"custom_model_data": 2200153,
+				"texture_size": 32
+			},
+			{
+				"name": "gold_ingot_8k",
+				"custom_model_data": 2200152,
+				"texture_size": 32
+			},
+			{
+				"name": "gold_ingot_10k",
+				"custom_model_data": 2200151,
+				"texture_size": 32
+			},
+			{
+				"name": "gold_ingot_12k",
+				"custom_model_data": 2200150,
+				"texture_size": 32
+			},
+			{
+				"name": "gold_ingot_14k",
+				"custom_model_data": 2200149,
+				"texture_size": 32
+			},
+			{
+				"name": "gold_ingot_16k",
+				"custom_model_data": 2200148,
+				"texture_size": 32
+			},
+			{
+				"name": "gold_ingot_18k",
+				"custom_model_data": 2200147,
+				"texture_size": 32
+			},
+			{
+				"name": "gold_ingot_20k",
+				"custom_model_data": 2200146,
+				"texture_size": 32
+			},
+			{
+				"name": "gold_ingot_22k",
+				"custom_model_data": 2200145,
+				"texture_size": 32
+			},
+			{
+				"name": "gold_ingot_24k",
+				"custom_model_data": 2200144,
+				"texture_size": 32
+			},
+			{
+				"name": "gilded_iron",
+				"custom_model_data": 2200187,
+				"texture_size": 16
+			},
+			{
+				"name": "blistering_ingot_33",
+				"custom_model_data": 2200466,
+				"texture_size": 32
+			},
+			{
+				"name": "blistering_ingot_66",
+				"custom_model_data": 2200467,
+				"texture_size": 32
+			},
+			{
+				"name": "blistering_ingot_100",
+				"custom_model_data": 2200468,
+				"texture_size": 32
+			}
+		],
+		"minecraft:brick": [
+			{
+				"name": "copper_ingot",
+				"custom_model_data": 2200105,
+				"texture_size": 32
+			},
+			{
+				"name": "bronze_ingot",
+				"custom_model_data": 2200081,
+				"texture_size": 16
+			},
+			{
+				"name": "redstone_alloy_ingot",
+				"custom_model_data": 2200217,
+				"texture_size": 16
+			}
+		],
+		"minecraft:player_head": [
+			{
+				"name": "synthetic_sapphire",
+				"custom_model_data": 2200089,
+				"texture_size": 32
+			},
+			{
+				"name": "raw_carbonado",
+				"custom_model_data": 2200091,
+				"texture_size": 32
+			},
+			{
+				"name": "carbonado",
+				"custom_model_data": 2200094,
+				"texture_size": 32
+			},
+			{
+				"name": "carbon",
+				"custom_model_data": 2200113,
+				"texture_size": 32
+			},
+			{
+				"name": "compressed_carbon",
+				"custom_model_data": 2200116,
+				"texture_size": 32
+			},
+			{
+				"name": "carbon_chunk",
+				"custom_model_data": 2200117,
+				"texture_size": 32
+			},
+			{
+				"name": "uranium",
+				"custom_model_data": 2200216,
+				"texture_size": 32
+			},
+			{
+				"name": "bucket_of_oil",
+				"custom_model_data": 2200454,
+				"texture_size": 32
+			},
+			{
+				"name": "bucket_of_fuel",
+				"custom_model_data": 2200455,
+				"texture_size": 32
+			},
+			{
+				"name": "nether_ice",
+				"custom_model_data": 2200456,
+				"texture_size": 32
+			},
+			{
+				"name": "enriched_nether_ice",
+				"custom_model_data": 2200469,
+				"texture_size": 32
+			},
+			{
+				"name": "neptunium",
+				"custom_model_data": 2200505,
+				"texture_size": 32
+			},
+			{
+				"name": "plutonium",
+				"custom_model_data": 2200506,
+				"texture_size": 32
+			},
+			{
+				"name": "boosted_uranium",
+				"custom_model_data": 2200507,
+				"texture_size": 32
+			}
+		],
+		"minecraft:diamond": [
+			{
+				"name": "synthetic_diamond",
+				"custom_model_data": 2200090,
+				"texture_size": 32
+			}
+		],
+		"minecraft:firework_star": [
+			{
+				"name": "silicon",
+				"custom_model_data": 2200156,
+				"texture_size": 32
+			}
+		],
+		"minecraft:emerald": [
+			{
+				"name": "synthetic_emerald",
+				"custom_model_data": 2200188,
+				"texture_size": 32
+			}
+		],
+		"minecraft:gunpowder": [
+			{
+				"name": "iron_dust",
+				"custom_model_data": 2200096,
+				"texture_size": 32
+			},
+			{
+				"name": "lead_dust",
+				"custom_model_data": 2200100,
+				"texture_size": 32
+			},
+			{
+				"name": "zinc_dust",
+				"custom_model_data": 2200103,
+				"texture_size": 32
+			}
+		],
+		"minecraft:glowstone_dust": [
+			{
+				"name": "copper_dust",
+				"custom_model_data": 2200098,
+				"texture_size": 32
+			},
+			{
+				"name": "gold_dust",
+				"custom_model_data": 2200097,
+				"texture_size": 32
+			},
+			{
+				"name": "sulfate",
+				"custom_model_data": 2200112,
+				"texture_size": 32
+			}
+		],
+		"minecraft:sugar": [
+			{
+				"name": "aluminum_dust",
+				"custom_model_data": 2200102,
+				"texture_size": 32
+			},
+			{
+				"name": "magnesium_dust",
+				"custom_model_data": 2200104,
+				"texture_size": 32
+			},
+			{
+				"name": "silver_dust",
+				"custom_model_data": 2200101,
+				"texture_size": 32
+			},
+			{
+				"name": "tin_dust",
+				"custom_model_data": 2200099,
+				"texture_size": 32
+			},
+			{
+				"name": "zinc_dust",
+				"custom_model_data": 2200103,
+				"texture_size": 32
+			},
+			{
+				"name": "magnesium_salt",
+				"custom_model_data": 2200378,
+				"texture_size": 32
+			}
+		]
+	}
+}

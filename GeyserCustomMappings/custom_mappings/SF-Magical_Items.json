@@ -1,0 +1,148 @@
+{
+	"format_version": "1.0.0",
+	"items": {
+		"minecraft:gold_nugget": [
+			{
+				"name": "magical_lump_1",
+				"custom_model_data": 2200030,
+				"texture_size": 16
+			},
+			{
+				"name": "magical_lump_2",
+				"custom_model_data": 2200031,
+				"texture_size": 16
+			},
+			{
+				"name": "magical_lump_3",
+				"custom_model_data": 2200032,
+				"texture_size": 16
+			},
+			{
+				"name": "ender_lump_1",
+				"custom_model_data": 2200033,
+				"texture_size": 16
+			},
+			{
+				"name": "ender_lump_2",
+				"custom_model_data": 2200034,
+				"texture_size": 16
+			},
+			{
+				"name": "ender_lump_3",
+				"custom_model_data": 2200035,
+				"texture_size": 16
+			}
+		],
+		"minecraft:paper": [
+			{
+				"name": "magical_book_cover",
+				"custom_model_data": 2200049,
+				"texture_size": 16
+			}
+		],
+		"minecraft:glass_pane": [
+			{
+				"name": "magical_glass",
+				"custom_model_data": 2200050,
+				"texture_size": 16
+			}
+		],
+		"minecraft:player_head": [
+			{
+				"name": "lava_crystal",
+				"custom_model_data": 2200159,
+				"texture_size": 16
+			},
+			{
+				"name": "necrotic_skull",
+				"custom_model_data": 2200259,
+				"texture_size": 32
+			}
+		],
+		"minecraft:emerald": [
+			{
+				"name": "common_talisman",
+				"custom_model_data": 2200164,
+				"texture_size": 16
+			}
+		],
+		"minecraft:gunpowder": [
+			{
+				"name": "essence_of_afterlife",
+				"custom_model_data": 2200260,
+				"texture_size": 16
+			}
+		],
+		"minecraft:shulker_shell": [
+			{
+				"name": "synthetic_shulker_shell",
+				"custom_model_data": 2200544,
+				"texture_size": 16
+			}
+		],
+		"minecraft:firework_star": [
+			{
+				"name": "blank_rune",
+				"custom_model_data": 2200409,
+				"texture_size": 16
+			},
+			{
+				"name": "ancient_rune_air",
+				"custom_model_data": 2200410,
+				"texture_size": 16
+			},
+			{
+				"name": "ancient_rune_earth",
+				"custom_model_data": 2200411,
+				"texture_size": 16
+			},
+			{
+				"name": "ancient_rune_fire",
+				"custom_model_data": 2200412,
+				"texture_size": 16
+			},
+			{
+				"name": "ancient_rune_water",
+				"custom_model_data": 2200413,
+				"texture_size": 16
+			},
+			{
+				"name": "ancient_rune_ender",
+				"custom_model_data": 2200414,
+				"texture_size": 16
+			},
+			{
+				"name": "ancient_rune_lightning",
+				"custom_model_data": 2200415,
+				"texture_size": 16
+			},
+			{
+				"name": "ancient_rune_rainbow",
+				"custom_model_data": 2200416,
+				"texture_size": 16
+			},
+			{
+				"name": "ancient_rune_soulbound",
+				"custom_model_data": 2200417,
+				"texture_size": 16
+			},
+			{
+				"name": "ancient_rune_enchantment",
+				"custom_model_data": 2200418,
+				"texture_size": 16
+			},
+			{
+				"name": "ancient_rune_villagers",
+				"custom_model_data": 2200543,
+				"texture_size": 16
+			}
+		],
+		"minecraft:purple_dye": [
+			{
+				"name": "strange_nether_goo",
+				"custom_model_data": 2200534,
+				"texture_size": 16
+			}
+		]
+	}
+}
