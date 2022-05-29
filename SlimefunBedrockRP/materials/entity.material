@@ -1,0 +1,30 @@
+{
+	"materials": {
+		"version": "1.0.0",
+		"custom_armor:entity": {
+			"+defines": [
+				"ALPHA_TEST"
+			],
+			"+samplerStates": [
+				{
+					"samplerIndex": 1,
+					"textureWrap": "Repeat"
+				}
+			],
+			"msaaSupport": "Both"
+		},
+		"custom_armor_enchanted:entity": {
+			"+defines": [
+				"ALPHA_TEST",
+				"GLINT"
+			],
+			"+samplerStates": [
+				{
+					"samplerIndex": 1,
+					"textureWrap": "Repeat"
+				}
+			],
+			"msaaSupport": "Both"
+		}
+	}
+}}

@@ -1,0 +1,24 @@
+{
+	"format_version": "1.8.0",
+	"minecraft:attachable": {
+		"description": {
+			"identifier": "geyser_custom:damascus_steel_helmet",
+			"materials": {
+				"default": "custom_armor",
+				"enchanted": "custom_armor_enchanted"
+			},
+			"textures": {
+				"default": "textures/models/armor/damascus_armor/damascus_steel_helmet",
+				"enchanted": "textures/misc/enchanted_item_glint"
+			},
+			"geometry": {
+				"default": "geometry.humanoid.armor.helmet",
+				"none": "geometry.none"
+			},
+			"scripts": {
+				"parent_setup": "variable.helmet_layer_visible = 0.0;"
+			},
+			"render_controllers": ["controller.render.damascus_steel_helmet"]
+		}
+	}
+}

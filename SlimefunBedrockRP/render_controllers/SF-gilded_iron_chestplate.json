@@ -1,0 +1,16 @@
+{
+	"format_version": "1.8.0",
+	"render_controllers": {
+		"controller.render.gilded_iron_chestplate": {
+			"textures": [
+				"texture.default"
+			],
+			"geometry": "query.is_item_name_any('slot.armor.chest','1','geyser_custom:gilded_iron_chestplate') ? geometry.default : geometry.none",
+			"materials": [
+				{
+					"*": "Material.default"
+				}
+			]
+		}
+	}
+}

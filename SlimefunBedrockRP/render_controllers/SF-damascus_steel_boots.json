@@ -1,0 +1,16 @@
+{
+	"format_version": "1.8.0",
+	"render_controllers": {
+		"controller.render.damascus_steel_boots": {
+			"textures": [
+				"texture.default"
+			],
+			"geometry": "query.is_item_name_any('slot.armor.feet','1','geyser_custom:damascus_steel_boots') ? geometry.default : geometry.none",
+			"materials": [
+				{
+					"*": "Material.default"
+				}
+			]
+		}
+	}
+}

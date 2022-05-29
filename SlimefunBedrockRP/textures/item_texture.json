@@ -7,6 +7,11 @@
 				"textures/ui/test"
 			]
 		},
+		"hat": {
+			"textures": [
+				"textures/items/stick"
+			]
+		},
 		"aluminum_dust": {
 			"textures": [
 				"textures/items/polvos/aluminum_dust"
@@ -20,11 +25,6 @@
 		"gold_dust": {
 			"textures": [
 				"textures/items/polvos/gold_dust"
-			]
-		},
-		"sulfate": {
-			"textures": [
-				"textures/items/polvos/sulfate"
 			]
 		},
 		"iron_dust": {
@@ -300,6 +300,11 @@
 		"synthetic_emerald": {
 			"textures": [
 				"textures/items/valuables/synthetic_emerald"
+			]
+		},
+		"sulfate": {
+			"textures": [
+				"textures/items/valuables/sulfate"
 			]
 		},
 		"uranium": {
@@ -739,7 +744,7 @@
 		},
 		"golden_apple_juice": {
 			"textures": [
-				"textures/items/comida/NO_ICONO"
+				"textures/items/comida/golden_apple_juice"
 			]
 		},
 		"fortune_cookie": {
@@ -1445,11 +1450,6 @@
 		"stuffed_red_bell_pepper": {
 			"textures": [
 				"textures/items/jardin_exotico/comida/stuffed_red_bell_pepper"
-			]
-		},
-		"golden_apple_juice": {
-			"textures": [
-				"textures/items/jardin_exotico/bebida/golden_apple_juice"
 			]
 		},
 		"grape_juice": {
@@ -2437,9 +2437,129 @@
 				"textures/items/energia&electricidad/electrified_crucible_iii"
 			]
 		},
+		"damascus_steel_helmet": {
+			"textures": [
+				"textures/items/armaduras/damascus_armor/damascus_steel_helmet"
+			]
+		},
+		"damascus_steel_chestplate": {
+			"textures": [
+				"textures/items/armaduras/damascus_armor/damascus_steel_chestplate"
+			]
+		},
+		"damascus_steel_leggings": {
+			"textures": [
+				"textures/items/armaduras/damascus_armor/damascus_steel_leggings"
+			]
+		},
+		"damascus_steel_boots": {
+			"textures": [
+				"textures/items/armaduras/damascus_armor/damascus_steel_boots"
+			]
+		},
+		"cactus_helmet": {
+			"textures": [
+				"textures/items/armaduras/cactus_armor/cactus_helmet"
+			]
+		},
+		"cactus_chestplate": {
+			"textures": [
+				"textures/items/armaduras/cactus_armor/cactus_chestplate"
+			]
+		},
+		"cactus_leggings": {
+			"textures": [
+				"textures/items/armaduras/cactus_armor/cactus_leggings"
+			]
+		},
+		"cactus_boots": {
+			"textures": [
+				"textures/items/armaduras/cactus_armor/cactus_boots"
+			]
+		},
+		"reinforced_helmet": {
+			"textures": [
+				"textures/items/armaduras/reinforced_armor/reinforced_helmet"
+			]
+		},
+		"reinforced_chestplate": {
+			"textures": [
+				"textures/items/armaduras/reinforced_armor/reinforced_chestplate"
+			]
+		},
+		"reinforced_leggings": {
+			"textures": [
+				"textures/items/armaduras/reinforced_armor/reinforced_leggings"
+			]
+		},
+		"reinforced_boots": {
+			"textures": [
+				"textures/items/armaduras/reinforced_armor/reinforced_boots"
+			]
+		},
+		"scuba_helmet": {
+			"textures": [
+				"textures/items/armaduras/hazmat_suit/scuba_helmet"
+			]
+		},
+		"hazmat_chestplate": {
+			"textures": [
+				"textures/items/armaduras/hazmat_suit/hazmat_chestplate"
+			]
+		},
+		"hazmat_leggings": {
+			"textures": [
+				"textures/items/armaduras/hazmat_suit/hazmat_leggings"
+			]
+		},
+		"rubber_boots": {
+			"textures": [
+				"textures/items/armaduras/hazmat_suit/rubber_boots"
+			]
+		},
+		"gilded_iron_helmet": {
+			"textures": [
+				"textures/items/armaduras/gilded_armor/gilded_iron_helmet"
+			]
+		},
+		"gilded_iron_chestplate": {
+			"textures": [
+				"textures/items/armaduras/gilded_armor/gilded_iron_chestplate"
+			]
+		},
+		"gilded_iron_leggings": {
+			"textures": [
+				"textures/items/armaduras/gilded_armor/gilded_iron_leggings"
+			]
+		},
+		"gilded_iron_boots": {
+			"textures": [
+				"textures/items/armaduras/gilded_armor/gilded_iron_boots"
+			]
+		},
+		"gold_12k_helmet": {
+			"textures": [
+				"textures/items/armaduras/golden_armor/gold_12k_helmet"
+			]
+		},
+		"gold_12k_chestplate": {
+			"textures": [
+				"textures/items/armaduras/golden_armor/gold_12k_chestplate"
+			]
+		},
+		"gold_12k_leggings": {
+			"textures": [
+				"textures/items/armaduras/golden_armor/gold_12k_leggings"
+			]
+		},
+		"gold_12k_boots": {
+			"textures": [
+				"textures/items/armaduras/golden_armor/gold_12k_boots"
+			]
+		},
 		"BASE": {
 			"textures": [
-				"textures/items/energia&electricidad/BASE"
+				"textures/items/armaduras/_armor/BASE"
 			]
 		}
 	}

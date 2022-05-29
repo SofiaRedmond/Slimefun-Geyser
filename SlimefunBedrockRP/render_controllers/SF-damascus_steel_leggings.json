@@ -1,0 +1,16 @@
+{
+	"format_version": "1.8.0",
+	"render_controllers": {
+		"controller.render.damascus_steel_leggings": {
+			"textures": [
+				"texture.default"
+			],
+			"geometry": "query.is_item_name_any('slot.armor.legs','1','geyser_custom:damascus_steel_leggings') ? geometry.default : geometry.none",
+			"materials": [
+				{
+					"*": "Material.default"
+				}
+			]
+		}
+	}
+}
