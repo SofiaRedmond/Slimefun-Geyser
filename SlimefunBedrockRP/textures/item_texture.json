@@ -187,6 +187,71 @@
 				"textures/items/androids/android3/butcher"
 			]
 		},
+		"motor":{
+			"textures": [
+				"textures/items/cargo/motor"
+			]
+		},
+		"manager":{
+			"textures": [
+				"textures/items/cargo/manager"
+			]
+		},
+		"connector":{
+			"textures": [
+				"textures/items/cargo/connector"
+			]
+		},
+		"input":{
+			"textures": [
+				"textures/items/cargo/input"
+			]
+		},
+		"output":{
+			"textures": [
+				"textures/items/cargo/output"
+			]
+		},
+		"output2":{
+			"textures": [
+				"textures/items/cargo/output2"
+			]
+		},
+		"automated_crafting_chamber":{
+			"textures": [
+				"textures/items/cargo/automated_crafting_chamber"
+			]
+		},
+		"reactor_access_port":{
+			"textures": [
+				"textures/items/cargo/reactor_access_port"
+			]
+		},
+		"trash":{
+			"textures": [
+				"textures/items/cargo/trash"
+			]
+		},
+		"crafting_motor":{
+			"textures": [
+				"textures/items/cargo/crafting_motor"
+			]
+		},
+		"vanilla_auto_crafter":{
+			"textures": [
+				"textures/items/cargo/vanilla_auto_crafter"
+			]
+		},
+		"enhanced_auto_crafter":{
+			"textures": [
+				"textures/items/cargo/enhanced_auto_crafter"
+			]
+		},
+		"armor_auto_crafter":{
+			"textures": [
+				"textures/items/cargo/armor_auto_crafter"
+			]
+		},
 		"hat": {
 			"textures": [
 				"textures/items/stick"
