@@ -122,6 +122,71 @@
 				"textures/items/gps/teleporter_matrix"
 			]
 		},
+		"interface_items":{
+			"textures": [
+				"textures/items/androids/interface_items"
+			]
+		},
+		"interface_fuel":{
+			"textures": [
+				"textures/items/androids/interface_fuel"
+			]
+		},
+		"normal1":{
+			"textures": [
+				"textures/items/androids/android/normal"
+			]
+		},
+		"miner":{
+			"textures": [
+				"textures/items/androids/android/miner"
+			]
+		},
+		"farmer1":{
+			"textures": [
+				"textures/items/androids/android/farmer"
+			]
+		},
+		"woodcutter":{
+			"textures": [
+				"textures/items/androids/android/woodcutter"
+			]
+		},
+		"fisherman1":{
+			"textures": [
+				"textures/items/androids/android/fisherman"
+			]
+		},
+		"butcher1":{
+			"textures": [
+				"textures/items/androids/android/butcher"
+			]
+		},
+		"normal2":{
+			"textures": [
+				"textures/items/androids/android2/normal"
+			]
+		},
+		"butcher2":{
+			"textures": [
+				"textures/items/androids/android2/butcher"
+			]
+		},
+		"farmer2":{
+			"textures": [
+				"textures/items/androids/android2/farmer"
+			]
+		},
+		"normal3":{
+			"textures": [
+				"textures/items/androids/android3/normal"
+			]
+		},
+		"butcher3":{
+			"textures": [
+				"textures/items/androids/android3/butcher"
+			]
+		},
 		"hat": {
 			"textures": [
 				"textures/items/stick"

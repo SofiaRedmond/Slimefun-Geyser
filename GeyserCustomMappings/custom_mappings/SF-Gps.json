@@ -1,7 +1,7 @@
 {
 	"format_version": "1.0.0",
 	"items": {
-		"minecraft:player_head":[
+		"minecraft:player_head": [
 			{
 				"name": "gps_transmitter",
 				"custom_model_data": 2200387,
