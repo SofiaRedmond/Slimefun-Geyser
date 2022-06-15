@@ -2,9 +2,44 @@
 	"resource_pack_name": "prueba",
 	"texture_name": "atlas.items",
 	"texture_data": {
-		"ui_background": {
+		"slimefun_guide": {
 			"textures": [
-				"textures/ui/test"
+				"textures/item/slimefun_guide"
+			]
+		},
+		"slimefun_guide_icon": {
+			"textures": [
+				"textures/item/slimefun_guide"
+			]
+		},
+		"background": {
+			"textures": [
+				"textures/item/background"
+			]
+		},
+		"back": {
+			"textures": [
+				"textures/item/background"
+			]
+		},
+		"previous_on": {
+			"textures": [
+				"textures/item/previous_on"
+			]
+		},
+		"next_on": {
+			"textures": [
+				"textures/item/next_on"
+			]
+		},
+		"previous_off": {
+			"textures": [
+				"textures/item/previous_off"
+			]
+		},
+		"next_off": {
+			"textures": [
+				"textures/item/next_off"
 			]
 		},
 		"hat": {
@@ -360,11 +395,6 @@
 		"large_backpack": {
 			"textures": [
 				"textures/items/objetos/large_backpack"
-			]
-		},
-		"small_backpack": {
-			"textures": [
-				"textures/items/objetos/small_backpack"
 			]
 		},
 		"woven_backpack": {
@@ -1342,11 +1372,6 @@
 				"textures/items/jardin_exotico/comida/boston_cream_pie"
 			]
 		},
-		"boston_cream_pie": {
-			"textures": [
-				"textures/items/jardin_exotico/comida/boston_cream_pie"
-			]
-		},
 		"hot_dog": {
 			"textures": [
 				"textures/items/jardin_exotico/comida/hot_dog"
@@ -1470,21 +1495,6 @@
 		"blueberry_smoothie": {
 			"textures": [
 				"textures/items/jardin_exotico/bebida/blueberry_smoothie"
-			]
-		},
-		"elderberry_juice": {
-			"textures": [
-				"textures/items/jardin_exotico/bebida/elderberry_juice"
-			]
-		},
-		"elderberry_smoothie": {
-			"textures": [
-				"textures/items/jardin_exotico/bebida/elderberry_smoothie"
-			]
-		},
-		"raspberry_juice": {
-			"textures": [
-				"textures/items/jardin_exotico/bebida/raspberry_juice"
 			]
 		},
 		"elderberry_juice": {
@@ -1905,11 +1915,6 @@
 		"organic_fertilizer_cocoa_beans": {
 			"textures": [
 				"textures/items/objetos_varios/organic_fertilizer_cocoa_beans"
-			]
-		},
-		"plastic_sheet": {
-			"textures": [
-				"textures/items/objetos_varios/plastic_sheet"
 			]
 		},
 		"steel_plate": {
