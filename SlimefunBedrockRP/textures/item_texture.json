@@ -177,6 +177,11 @@
 				"textures/items/androids/android2/butcher"
 			]
 		},
+		"fisherman2":{
+			"textures": [
+				"textures/items/androids/android2/fisherman"
+			]
+		},
 		"farmer2":{
 			"textures": [
 				"textures/items/androids/android2/farmer"
@@ -185,6 +190,11 @@
 		"normal3":{
 			"textures": [
 				"textures/items/androids/android3/normal"
+			]
+		},
+		"fisherman3":{
+			"textures": [
+				"textures/items/androids/android3/fisherman"
 			]
 		},
 		"butcher3":{
