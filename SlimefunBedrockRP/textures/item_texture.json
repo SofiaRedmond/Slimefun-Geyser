@@ -4,42 +4,122 @@
 	"texture_data": {
 		"slimefun_guide": {
 			"textures": [
-				"textures/item/slimefun_guide"
+				"textures/items/gui/slimefun_guide"
 			]
 		},
 		"slimefun_guide_icon": {
 			"textures": [
-				"textures/item/slimefun_guide"
+				"textures/items/gui/slimefun_guide"
 			]
 		},
 		"background": {
 			"textures": [
-				"textures/item/background"
+				"textures/items/gui/background"
 			]
 		},
 		"back": {
 			"textures": [
-				"textures/item/background"
+				"textures/items/gui/back"
+			]
+		},
+		"menu": {
+			"textures": [
+				"textures/items/gui/menu"
+			]
+		},
+		"search": {
+			"textures": [
+				"textures/items/gui/search"
 			]
 		},
 		"previous_on": {
 			"textures": [
-				"textures/item/previous_on"
+				"textures/items/gui/previous_on"
 			]
 		},
 		"next_on": {
 			"textures": [
-				"textures/item/next_on"
+				"textures/items/gui/next_on"
 			]
 		},
 		"previous_off": {
 			"textures": [
-				"textures/item/previous_off"
+				"textures/items/gui/previous_off"
 			]
 		},
 		"next_off": {
 			"textures": [
-				"textures/item/next_off"
+				"textures/items/gui/next_off"
+			]
+		},
+		"gps_transmitter": {
+			"textures": [
+				"textures/items/gps/gps_transmitter"
+			]
+		},
+		"gps_transmitter_advanced": {
+			"textures": [
+				"textures/items/gps/gps_transmitter_advanced"
+			]
+		},
+		"gps_transmitter_carbonado": {
+			"textures": [
+				"textures/items/gps/gps_transmitter_carbonado"
+			]
+		},
+		"gps_transmitter_energized": {
+			"textures": [
+				"textures/items/gps/gps_transmitter_energized"
+			]
+		},
+		"gps_control_panel": {
+			"textures": [
+				"textures/items/gps/gps_control_panel"
+			]
+		},
+		"gps_emergency_transmitter": {
+			"textures": [
+				"textures/items/gps/gps_emergency_transmitter"
+			]
+		},
+		"gps_geo_scanner": {
+			"textures": [
+				"textures/items/gps/gps_geo_scanner"
+			]
+		},
+		"oil_pump": {
+			"textures": [
+				"textures/items/gps/oil_pump"
+			]
+		},
+		"geo_miner": {
+			"textures": [
+				"textures/items/gps/geo_miner"
+			]
+		},
+		"elevator_plate":{
+			"textures": [
+				"textures/items/gps/elevator_plate"
+			]
+		},
+		"gps_activation_device_shared":{
+			"textures": [
+				"textures/items/gps/gps_activation_device_shared"
+			]
+		},
+		"gps_marker":{
+			"textures": [
+				"textures/items/gps/gps_marker"
+			]
+		},
+		"teleporter_pylon":{
+			"textures": [
+				"textures/items/gps/teleporter_pylon"
+			]
+		},
+		"teleporter_matrix":{
+			"textures": [
+				"textures/items/gps/teleporter_matrix"
 			]
 		},
 		"hat": {
