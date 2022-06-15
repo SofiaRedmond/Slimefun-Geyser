@@ -107,6 +107,11 @@
 				"textures/items/gps/gps_activation_device_shared"
 			]
 		},
+		"gps_activation_device_personal":{
+			"textures": [
+				"textures/items/gps/gps_activation_device_personal"
+			]
+		},
 		"gps_marker":{
 			"textures": [
 				"textures/items/gps/gps_marker"
@@ -2289,7 +2294,7 @@
 		},
 		"talisman_of_the_farmer": {
 			"textures": [
-				"textures/items/talisman-i/0_default"
+				"textures/items/talisman-i/talisman_of_the_farmer"
 			]
 		},
 		"talisman_of_the_hunter": {
@@ -2367,11 +2372,6 @@
 				"textures/items/talisman-ii/ender_talisman_of_the_miner"
 			]
 		},
-		"ender_talisman_of_the_farmer": {
-			"textures": [
-				"textures/items/talisman-ii/0_default"
-			]
-		},
 		"ender_talisman_of_the_hunter": {
 			"textures": [
 				"textures/items/talisman-ii/ender_talisman_of_the_hunter"
@@ -2427,9 +2427,19 @@
 				"textures/items/talisman-ii/ender_talisman_of_the_wise"
 			]
 		},
+		"ender_talisman": {
+			"textures": [
+				"textures/items/talisman-ii/0_default"
+			]
+		},
 		"ender_talisman_of_the_whirlwind": {
 			"textures": [
 				"textures/items/talisman-ii/ender_talisman_of_the_whirlwind"
+			]
+		},
+		"ender_talisman_of_the_farmer": {
+			"textures": [
+				"textures/items/talisman-ii/ender_talisman_of_the_farmer"
 			]
 		},
 		"ender_talisman_of_the_wizard": {
