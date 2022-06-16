@@ -14,7 +14,7 @@
 			},
 			{
 				"name": "ender_talisman_of_the_farmer",
-				"custom_model_data": 1000002,
+				"custom_model_data": 2200546,
 				"texture_size": 16
 			},
 			{
@@ -71,6 +71,11 @@
 			{
 				"name": "ender_talisman_of_the_wise",
 				"custom_model_data": 2200532,
+				"texture_size": 16
+			},
+			{
+				"name": "ender_talisman",
+				"custom_model_data": 2200533,
 				"texture_size": 16
 			},
 			{

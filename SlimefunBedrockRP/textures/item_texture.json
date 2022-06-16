@@ -2,9 +2,269 @@
 	"resource_pack_name": "prueba",
 	"texture_name": "atlas.items",
 	"texture_data": {
-		"ui_background": {
+		"slimefun_guide": {
 			"textures": [
-				"textures/ui/test"
+				"textures/items/gui/slimefun_guide"
+			]
+		},
+		"slimefun_guide_icon": {
+			"textures": [
+				"textures/items/gui/slimefun_guide"
+			]
+		},
+		"background": {
+			"textures": [
+				"textures/items/gui/background"
+			]
+		},
+		"back": {
+			"textures": [
+				"textures/items/gui/back"
+			]
+		},
+		"menu": {
+			"textures": [
+				"textures/items/gui/menu"
+			]
+		},
+		"search": {
+			"textures": [
+				"textures/items/gui/search"
+			]
+		},
+		"previous_on": {
+			"textures": [
+				"textures/items/gui/previous_on"
+			]
+		},
+		"next_on": {
+			"textures": [
+				"textures/items/gui/next_on"
+			]
+		},
+		"previous_off": {
+			"textures": [
+				"textures/items/gui/previous_off"
+			]
+		},
+		"next_off": {
+			"textures": [
+				"textures/items/gui/next_off"
+			]
+		},
+		"gps_transmitter": {
+			"textures": [
+				"textures/items/gps/gps_transmitter"
+			]
+		},
+		"gps_transmitter_advanced": {
+			"textures": [
+				"textures/items/gps/gps_transmitter_advanced"
+			]
+		},
+		"gps_transmitter_carbonado": {
+			"textures": [
+				"textures/items/gps/gps_transmitter_carbonado"
+			]
+		},
+		"gps_transmitter_energized": {
+			"textures": [
+				"textures/items/gps/gps_transmitter_energized"
+			]
+		},
+		"gps_control_panel": {
+			"textures": [
+				"textures/items/gps/gps_control_panel"
+			]
+		},
+		"gps_emergency_transmitter": {
+			"textures": [
+				"textures/items/gps/gps_emergency_transmitter"
+			]
+		},
+		"gps_geo_scanner": {
+			"textures": [
+				"textures/items/gps/gps_geo_scanner"
+			]
+		},
+		"oil_pump": {
+			"textures": [
+				"textures/items/gps/oil_pump"
+			]
+		},
+		"geo_miner": {
+			"textures": [
+				"textures/items/gps/geo_miner"
+			]
+		},
+		"elevator_plate":{
+			"textures": [
+				"textures/items/gps/elevator_plate"
+			]
+		},
+		"gps_activation_device_shared":{
+			"textures": [
+				"textures/items/gps/gps_activation_device_shared"
+			]
+		},
+		"gps_activation_device_personal":{
+			"textures": [
+				"textures/items/gps/gps_activation_device_personal"
+			]
+		},
+		"gps_marker":{
+			"textures": [
+				"textures/items/gps/gps_marker"
+			]
+		},
+		"teleporter_pylon":{
+			"textures": [
+				"textures/items/gps/teleporter_pylon"
+			]
+		},
+		"teleporter_matrix":{
+			"textures": [
+				"textures/items/gps/teleporter_matrix"
+			]
+		},
+		"interface_items":{
+			"textures": [
+				"textures/items/androids/interface_items"
+			]
+		},
+		"interface_fuel":{
+			"textures": [
+				"textures/items/androids/interface_fuel"
+			]
+		},
+		"normal1":{
+			"textures": [
+				"textures/items/androids/android/normal"
+			]
+		},
+		"miner":{
+			"textures": [
+				"textures/items/androids/android/miner"
+			]
+		},
+		"farmer1":{
+			"textures": [
+				"textures/items/androids/android/farmer"
+			]
+		},
+		"woodcutter":{
+			"textures": [
+				"textures/items/androids/android/woodcutter"
+			]
+		},
+		"fisherman1":{
+			"textures": [
+				"textures/items/androids/android/fisherman"
+			]
+		},
+		"butcher1":{
+			"textures": [
+				"textures/items/androids/android/butcher"
+			]
+		},
+		"normal2":{
+			"textures": [
+				"textures/items/androids/android2/normal"
+			]
+		},
+		"butcher2":{
+			"textures": [
+				"textures/items/androids/android2/butcher"
+			]
+		},
+		"fisherman2":{
+			"textures": [
+				"textures/items/androids/android2/fisherman"
+			]
+		},
+		"farmer2":{
+			"textures": [
+				"textures/items/androids/android2/farmer"
+			]
+		},
+		"normal3":{
+			"textures": [
+				"textures/items/androids/android3/normal"
+			]
+		},
+		"fisherman3":{
+			"textures": [
+				"textures/items/androids/android3/fisherman"
+			]
+		},
+		"butcher3":{
+			"textures": [
+				"textures/items/androids/android3/butcher"
+			]
+		},
+		"motor":{
+			"textures": [
+				"textures/items/cargo/motor"
+			]
+		},
+		"manager":{
+			"textures": [
+				"textures/items/cargo/manager"
+			]
+		},
+		"connector":{
+			"textures": [
+				"textures/items/cargo/connector"
+			]
+		},
+		"input":{
+			"textures": [
+				"textures/items/cargo/input"
+			]
+		},
+		"output":{
+			"textures": [
+				"textures/items/cargo/output"
+			]
+		},
+		"output2":{
+			"textures": [
+				"textures/items/cargo/output2"
+			]
+		},
+		"automated_crafting_chamber":{
+			"textures": [
+				"textures/items/cargo/automated_crafting_chamber"
+			]
+		},
+		"reactor_access_port":{
+			"textures": [
+				"textures/items/cargo/reactor_access_port"
+			]
+		},
+		"trash":{
+			"textures": [
+				"textures/items/cargo/trash"
+			]
+		},
+		"crafting_motor":{
+			"textures": [
+				"textures/items/cargo/crafting_motor"
+			]
+		},
+		"vanilla_auto_crafter":{
+			"textures": [
+				"textures/items/cargo/vanilla_auto_crafter"
+			]
+		},
+		"enhanced_auto_crafter":{
+			"textures": [
+				"textures/items/cargo/enhanced_auto_crafter"
+			]
+		},
+		"armor_auto_crafter":{
+			"textures": [
+				"textures/items/cargo/armor_auto_crafter"
 			]
 		},
 		"hat": {
@@ -360,11 +620,6 @@
 		"large_backpack": {
 			"textures": [
 				"textures/items/objetos/large_backpack"
-			]
-		},
-		"small_backpack": {
-			"textures": [
-				"textures/items/objetos/small_backpack"
 			]
 		},
 		"woven_backpack": {
@@ -1342,11 +1597,6 @@
 				"textures/items/jardin_exotico/comida/boston_cream_pie"
 			]
 		},
-		"boston_cream_pie": {
-			"textures": [
-				"textures/items/jardin_exotico/comida/boston_cream_pie"
-			]
-		},
 		"hot_dog": {
 			"textures": [
 				"textures/items/jardin_exotico/comida/hot_dog"
@@ -1470,21 +1720,6 @@
 		"blueberry_smoothie": {
 			"textures": [
 				"textures/items/jardin_exotico/bebida/blueberry_smoothie"
-			]
-		},
-		"elderberry_juice": {
-			"textures": [
-				"textures/items/jardin_exotico/bebida/elderberry_juice"
-			]
-		},
-		"elderberry_smoothie": {
-			"textures": [
-				"textures/items/jardin_exotico/bebida/elderberry_smoothie"
-			]
-		},
-		"raspberry_juice": {
-			"textures": [
-				"textures/items/jardin_exotico/bebida/raspberry_juice"
 			]
 		},
 		"elderberry_juice": {
@@ -1907,11 +2142,6 @@
 				"textures/items/objetos_varios/organic_fertilizer_cocoa_beans"
 			]
 		},
-		"plastic_sheet": {
-			"textures": [
-				"textures/items/objetos_varios/plastic_sheet"
-			]
-		},
 		"steel_plate": {
 			"textures": [
 				"textures/items/objetos_varios/steel_plate"
@@ -2074,7 +2304,7 @@
 		},
 		"talisman_of_the_farmer": {
 			"textures": [
-				"textures/items/talisman-i/0_default"
+				"textures/items/talisman-i/talisman_of_the_farmer"
 			]
 		},
 		"talisman_of_the_hunter": {
@@ -2152,11 +2382,6 @@
 				"textures/items/talisman-ii/ender_talisman_of_the_miner"
 			]
 		},
-		"ender_talisman_of_the_farmer": {
-			"textures": [
-				"textures/items/talisman-ii/0_default"
-			]
-		},
 		"ender_talisman_of_the_hunter": {
 			"textures": [
 				"textures/items/talisman-ii/ender_talisman_of_the_hunter"
@@ -2212,9 +2437,19 @@
 				"textures/items/talisman-ii/ender_talisman_of_the_wise"
 			]
 		},
+		"ender_talisman": {
+			"textures": [
+				"textures/items/talisman-ii/0_default"
+			]
+		},
 		"ender_talisman_of_the_whirlwind": {
 			"textures": [
 				"textures/items/talisman-ii/ender_talisman_of_the_whirlwind"
+			]
+		},
+		"ender_talisman_of_the_farmer": {
+			"textures": [
+				"textures/items/talisman-ii/ender_talisman_of_the_farmer"
 			]
 		},
 		"ender_talisman_of_the_wizard": {
