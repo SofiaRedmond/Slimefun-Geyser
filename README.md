@@ -3,36 +3,36 @@ Customs Mappings of Slimefun on GeyserMC servers (include resource pack for bedr
 
 ### To-do list:
 - [ ] Texturice all items.
-- [ ] Customice the guide GUI.
+- [x] Customice the guide GUI.
 - [ ] Unnest the mappings.
-- [ ] Make things easier to understand.
-- [ ] Learn how to speak english.
+- [x] Make things easier to understand.
+- [x] Learn how to speak english.
 - [ ] Translate the file names.
 
 ## SCREENSHOTS
 ### Principal (unfinished)
-![5118693263065328050_121](https://user-images.githubusercontent.com/86848962/164426122-743e5fc4-23ff-41c7-ac40-885160bca0cc.jpg)
+![image](https://user-images.githubusercontent.com/86848962/178095545-d5d8d506-cc42-402d-8944-07aa3f10c4dc.png)
 ---
 ### Weapons
-![5118693263065328051_121](https://user-images.githubusercontent.com/86848962/164426123-883b1e2b-8c1a-48fa-8b2a-6a3c3a132939.jpg)
+![image](https://user-images.githubusercontent.com/86848962/178095563-f5270b8b-befe-4f4c-b3cb-103d68e353f3.png)
 ---
 ### Items
-![5118693263065328052_121](https://user-images.githubusercontent.com/86848962/164429862-1c94c8ae-2360-4162-84ba-cae7079fa5cc.jpg)
+![image](https://user-images.githubusercontent.com/86848962/178095577-d6e2088e-7c4d-4618-82cb-f7c2a223ec29.png)
 ---
 ### Basic Machines
-![5118693263065328053_121](https://user-images.githubusercontent.com/86848962/164430423-2f8d15f9-9e7a-4356-ba12-29def5e7399e.jpg)
+![image](https://user-images.githubusercontent.com/86848962/178095592-37b5662a-6020-4551-8fce-c9d6b48ae2d7.png)
 ---
 ### Tools
-![5118693263065328054_121](https://user-images.githubusercontent.com/86848962/164430540-f7db576b-60a0-4a1f-8a26-6eb4cc95f599.jpg)
+![image](https://user-images.githubusercontent.com/86848962/178095601-359bb946-4978-4f83-b522-5c0e18a7a3d1.png)
 ---
 ### Resources pg.1
-![5118693263065328055_121](https://user-images.githubusercontent.com/86848962/164430647-26b973a2-b47a-429c-8e70-27642f173642.jpg)
+![image](https://user-images.githubusercontent.com/86848962/178095628-d6563678-4a35-43e1-97dc-fafd3927c45b.png)
 ---
 ### Resources pg.2
-![5118693263065328056_121](https://user-images.githubusercontent.com/86848962/164430717-bc0d6183-9541-4a82-ad64-7a457dcf0515.jpg)
+![image](https://user-images.githubusercontent.com/86848962/178095649-48ccfff9-b14d-4299-9605-569d33988e8f.png)
 ---
-### Food (One icon is missing for unknow reasons)
-![5118693263065328057_121](https://user-images.githubusercontent.com/86848962/164430875-5567fd69-444a-4367-99f2-7ba13d24a9c3.jpg)
+### Food
+![image](https://user-images.githubusercontent.com/86848962/178095666-84a8963d-076b-439d-a533-b2db09d6ab44.png)
 ---
 ### Magical Items
 ![5118693263065328058_121](https://user-images.githubusercontent.com/86848962/164431163-1a1af0c6-3bb1-448e-8d11-b9a01658d5c1.jpg)
