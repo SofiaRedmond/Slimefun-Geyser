@@ -1,34 +1,42 @@
 # Slimefun-Geyser
-Customs Mappings of Slimefun on GeyserMC servers (include resource pack for bedrock clients), this project use [this resource pack](https://github.com/xMikux/Slimefun-Resourcepack) as base.
+
+## ⚠ WARNING ⚠
+## DUE TO SOME CHANGES ON THE LATEST VERSIONS OF GEYSERMC, THIS MAPPINGS NO LONGER WORKS AS EXPECTED, MAKING ME TO NEST ALL MAPPINGS INTO A EXTENSION, PLEASE BE PATIENT WHILE THE EXTENSION IS MADED.
+
+All mappings will still present for older versions of Geyser.
+
+
+~~Customs Mappings~~ Extension of Slimefun for GeyserMC servers (include resource pack for bedrock clients), this project use [this resource pack](https://github.com/xMikux/Slimefun-Resourcepack) as base.
 
 ### To-do list:
 - [ ] Texturice all items.
 - [x] Customice the guide GUI.
-- [ ] Unnest the mappings.
+- [ ] ~~Unnest the mappings.~~ Nest the mappings
 - [x] Make things easier to understand.
 - [x] Learn how to speak english.
 - [ ] Translate the file names.
 
 ## SCREENSHOTS
+✅ = **Mapping completely nested into the extension.**
 ### Principal (unfinished)
 ![image](https://user-images.githubusercontent.com/86848962/178095545-d5d8d506-cc42-402d-8944-07aa3f10c4dc.png)
 ---
-### Weapons
+### Weapons ✅
 ![image](https://user-images.githubusercontent.com/86848962/178095563-f5270b8b-befe-4f4c-b3cb-103d68e353f3.png)
 ---
-### Items
+### Items ✅
 ![image](https://user-images.githubusercontent.com/86848962/178095577-d6e2088e-7c4d-4618-82cb-f7c2a223ec29.png)
 ---
-### Basic Machines
+### Basic Machines ✅
 ![image](https://user-images.githubusercontent.com/86848962/178095592-37b5662a-6020-4551-8fce-c9d6b48ae2d7.png)
 ---
-### Tools
+### Tools ✅
 ![image](https://user-images.githubusercontent.com/86848962/178095601-359bb946-4978-4f83-b522-5c0e18a7a3d1.png)
 ---
-### Resources pg.1
+### Resources pg.1 ✅
 ![image](https://user-images.githubusercontent.com/86848962/178095628-d6563678-4a35-43e1-97dc-fafd3927c45b.png)
 ---
-### Resources pg.2
+### Resources pg.2 ✅
 ![image](https://user-images.githubusercontent.com/86848962/178095649-48ccfff9-b14d-4299-9605-569d33988e8f.png)
 ---
 ### Food
