@@ -115,7 +115,7 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:player_head", battery);
 		
-                CustomItemData synthetic_sapphire = CustomItemData.builder()
+        CustomItemData synthetic_sapphire = CustomItemData.builder()
                 .name("synthetic_sapphire")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200089).build())
                 .textureSize(32)
@@ -136,7 +136,7 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:player_head", carbonado);
 
-                CustomItemData carbon = CustomItemData.builder()
+        CustomItemData carbon = CustomItemData.builder()
                 .name("carbon")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200113).build())
                 .textureSize(32)
@@ -206,7 +206,7 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:player_head", small_chunk_of_uranium);
 		
-                CustomItemData uranium = CustomItemData.builder()
+        CustomItemData uranium = CustomItemData.builder()
                 .name("uranium")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200216).build())
                 .textureSize(32)
@@ -325,7 +325,7 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:player_head", android_memory_core);
 		
-                CustomItemData bucket_of_oil = CustomItemData.builder()
+        CustomItemData bucket_of_oil = CustomItemData.builder()
                 .name("bucket_of_oil")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200454).build())
                 .textureSize(32)
@@ -1071,7 +1071,7 @@ public class Slimefun implements Extension {
 		// IRON_INGOT
 		//
 		
-                CustomItemData reinforced_alloy_ingot = CustomItemData.builder()
+        CustomItemData reinforced_alloy_ingot = CustomItemData.builder()
                 .name("reinforced_alloy_ingot")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200077).build())
                 .textureSize(32)
@@ -1222,70 +1222,70 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:gold_ingot", gold_ingot_24k);
 
-                CustomItemData gold_ingot_22k = CustomItemData.builder()
+        CustomItemData gold_ingot_22k = CustomItemData.builder()
                 .name("gold_ingot_22k")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200145).build())
                 .textureSize(32)
                 .build();
         event.register("minecraft:gold_ingot", gold_ingot_22k);
 
-                CustomItemData gold_ingot_20k = CustomItemData.builder()
+        CustomItemData gold_ingot_20k = CustomItemData.builder()
                 .name("gold_ingot_20k")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200146).build())
                 .textureSize(32)
                 .build();
         event.register("minecraft:gold_ingot", gold_ingot_20k);
 
-                CustomItemData gold_ingot_18k = CustomItemData.builder()
+        CustomItemData gold_ingot_18k = CustomItemData.builder()
                 .name("gold_ingot_18k")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200147).build())
                 .textureSize(32)
                 .build();
         event.register("minecraft:gold_ingot", gold_ingot_18k);
 
-                CustomItemData gold_ingot_16k = CustomItemData.builder()
+        CustomItemData gold_ingot_16k = CustomItemData.builder()
                 .name("gold_ingot_16k")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200148).build())
                 .textureSize(32)
                 .build();
         event.register("minecraft:gold_ingot", gold_ingot_16k);
 
-                CustomItemData gold_ingot_14k = CustomItemData.builder()
+        CustomItemData gold_ingot_14k = CustomItemData.builder()
                 .name("gold_ingot_14k")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200149).build())
                 .textureSize(32)
                 .build();
         event.register("minecraft:gold_ingot", gold_ingot_14k);
 
-                CustomItemData gold_ingot_12k = CustomItemData.builder()
+        CustomItemData gold_ingot_12k = CustomItemData.builder()
                 .name("gold_ingot_12k")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200150).build())
                 .textureSize(32)
                 .build();
         event.register("minecraft:gold_ingot", gold_ingot_12k);
 
-                CustomItemData gold_ingot_10k = CustomItemData.builder()
+        CustomItemData gold_ingot_10k = CustomItemData.builder()
                 .name("gold_ingot_10k")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200151).build())
                 .textureSize(32)
                 .build();
         event.register("minecraft:gold_ingot", gold_ingot_10k);
 
-                CustomItemData gold_ingot_8k = CustomItemData.builder()
+        CustomItemData gold_ingot_8k = CustomItemData.builder()
                 .name("gold_ingot_8k")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200152).build())
                 .textureSize(32)
                 .build();
         event.register("minecraft:gold_ingot", gold_ingot_8k);
 
-                CustomItemData gold_ingot_6k = CustomItemData.builder()
+        CustomItemData gold_ingot_6k = CustomItemData.builder()
                 .name("gold_ingot_6k")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200153).build())
                 .textureSize(32)
                 .build();
         event.register("minecraft:gold_ingot", gold_ingot_6k);
 
-                CustomItemData gold_ingot_4k = CustomItemData.builder()
+        CustomItemData gold_ingot_4k = CustomItemData.builder()
                 .name("gold_ingot_4k")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200154).build())
                 .textureSize(32)
@@ -1331,7 +1331,7 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:brick", bronze_ingot);
 
-                CustomItemData copper_ingot = CustomItemData.builder()
+        CustomItemData copper_ingot = CustomItemData.builder()
                 .name("copper_ingot")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200105).build())
                 .textureSize(32)
@@ -1455,12 +1455,243 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:emerald", common_talisman);
 		
+		CustomItemData talisman_of_the_anvil = CustomItemData.builder()
+                .name("talisman_of_the_anvil")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200165).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:emerald", talisman_of_the_anvil);
+		
+		CustomItemData ender_talisman_of_the_anvil = CustomItemData.builder()
+                .name("ender_talisman_of_the_anvil")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200166).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:emerald", ender_talisman_of_the_anvil);
+		
+		CustomItemData talisman_of_the_miner = CustomItemData.builder()
+                .name("talisman_of_the_miner")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200167).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:emerald", talisman_of_the_miner);
+		
+		CustomItemData ender_talisman_of_the_miner = CustomItemData.builder()
+                .name("ender_talisman_of_the_miner")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200168).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:emerald", ender_talisman_of_the_miner);		
+				
+		CustomItemData talisman_of_the_hunter = CustomItemData.builder()
+                .name("talisman_of_the_hunter")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200169).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:emerald", talisman_of_the_hunter);
+		
+		CustomItemData ender_talisman_of_the_hunter = CustomItemData.builder()
+                .name("ender_talisman_of_the_hunter")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200170).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:emerald", ender_talisman_of_the_hunter);
+		
+		CustomItemData talisman_of_the_lava_walker = CustomItemData.builder()
+                .name("talisman_of_the_lava_walker")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200171).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:emerald", talisman_of_the_lava_walker);
+		
+		CustomItemData ender_talisman_of_the_lava_walker = CustomItemData.builder()
+                .name("ender_talisman_of_the_lava_walker")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200172).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:emerald", ender_talisman_of_the_lava_walker);		
+		
+		CustomItemData talisman_of_the_water_breather = CustomItemData.builder()
+                .name("talisman_of_the_water_breather")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200173).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:emerald", talisman_of_the_water_breather);
+		
+		CustomItemData ender_talisman_of_the_water_breather = CustomItemData.builder()
+                .name("ender_talisman_of_the_water_breather")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200174).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:emerald", ender_talisman_of_the_water_breather);
+		
+		CustomItemData talisman_of_the_angel = CustomItemData.builder()
+                .name("talisman_of_the_angel")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200175).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:emerald", talisman_of_the_angel);
+		
+		CustomItemData ender_talisman_of_the_angel = CustomItemData.builder()
+                .name("ender_talisman_of_the_angel")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200176).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:emerald", ender_talisman_of_the_angel);		
+		
+		CustomItemData talisman_of_the_firefighter = CustomItemData.builder()
+                .name("talisman_of_the_firefighter")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200177).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:emerald", talisman_of_the_firefighter);
+		
+		CustomItemData ender_talisman_of_the_firefighter = CustomItemData.builder()
+                .name("ender_talisman_of_the_firefighter")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200178).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:emerald", ender_talisman_of_the_firefighter);
+		
+		CustomItemData talisman_of_the_magician = CustomItemData.builder()
+                .name("talisman_of_the_magician")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200179).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:emerald", talisman_of_the_magician);
+		
+		CustomItemData ender_talisman_of_the_magician = CustomItemData.builder()
+                .name("ender_talisman_of_the_magician")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200180).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:emerald", ender_talisman_of_the_magician);		
+		
+		CustomItemData talisman_of_the_traveller = CustomItemData.builder()
+                .name("talisman_of_the_traveller")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200181).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:emerald", talisman_of_the_traveller);
+		
+		CustomItemData ender_talisman_of_the_traveller = CustomItemData.builder()
+                .name("ender_talisman_of_the_traveller")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200182).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:emerald", ender_talisman_of_the_traveller);
+		
+		CustomItemData warrior_talisman = CustomItemData.builder()
+                .name("warrior_talisman")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200183).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:emerald", warrior_talisman);
+		
+		CustomItemData ender_warrior_talisman = CustomItemData.builder()
+                .name("ender_warrior_talisman")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200184).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:emerald", ender_warrior_talisman);		
+		
+		CustomItemData talisman_of_the_knight = CustomItemData.builder()
+                .name("talisman_of_the_knight")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200185).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:emerald", talisman_of_the_knight);
+		
+		CustomItemData ender_talisman_of_the_knight = CustomItemData.builder()
+                .name("ender_talisman_of_the_knight")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200186).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:emerald", ender_talisman_of_the_knight);
+		
 		CustomItemData synthetic_emerald = CustomItemData.builder()
                 .name("synthetic_emerald")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200188).build())
                 .textureSize(32)
                 .build();
         event.register("minecraft:emerald", synthetic_emerald);
+		
+		CustomItemData talisman_of_the_whirlwind = CustomItemData.builder()
+                .name("talisman_of_the_whirlwind")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200193).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:emerald", talisman_of_the_whirlwind);
+		
+		CustomItemData ender_talisman_of_the_whirlwind = CustomItemData.builder()
+                .name("ender_talisman_of_the_whirlwind")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200194).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:emerald", ender_talisman_of_the_whirlwind);		
+		
+		CustomItemData talisman_of_the_wizard = CustomItemData.builder()
+                .name("talisman_of_the_wizard")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200195).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:emerald", talisman_of_the_wizard);
+		
+		CustomItemData ender_talisman_of_the_wizard = CustomItemData.builder()
+                .name("ender_talisman_of_the_wizard")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200196).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:emerald", ender_talisman_of_the_wizard);		
+		
+		CustomItemData talisman_of_the_caveman = CustomItemData.builder()
+                .name("talisman_of_the_caveman")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200529).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:emerald", talisman_of_the_caveman);
+		
+		CustomItemData ender_talisman_of_the_caveman = CustomItemData.builder()
+                .name("ender_talisman_of_the_caveman")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200530).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:emerald", ender_talisman_of_the_caveman);
+		
+		CustomItemData talisman_of_the_wise = CustomItemData.builder()
+                .name("talisman_of_the_wise")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200531).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:emerald", talisman_of_the_wise);
+		
+		CustomItemData ender_talisman_of_the_wise = CustomItemData.builder()
+                .name("ender_talisman_of_the_wise")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200532).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:emerald", ender_talisman_of_the_wise);		
+		
+		CustomItemData ender_talisman = CustomItemData.builder()
+                .name("ender_talisman")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200533).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:emerald", ender_talisman);
+		
+		CustomItemData talisman_of_the_farmer = CustomItemData.builder()
+                .name("talisman_of_the_farmer")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200545).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:emerald", talisman_of_the_farmer);
+		
+		CustomItemData ender_talisman_of_the_farmer = CustomItemData.builder()
+                .name("ender_talisman_of_the_farmer")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200546).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:emerald", ender_talisman_of_the_farmer);	
 		
 		
 
@@ -1530,7 +1761,7 @@ public class Slimefun implements Extension {
 		// GLOWSTONE_DUST
 		//
 		
-                CustomItemData gold_dust = CustomItemData.builder()
+        CustomItemData gold_dust = CustomItemData.builder()
                 .name("gold_dust")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200097).build())
                 .textureSize(32)
@@ -1555,7 +1786,7 @@ public class Slimefun implements Extension {
 		// SUGAR
 		//
 		
-                CustomItemData magic_sugar = CustomItemData.builder()
+        CustomItemData magic_sugar = CustomItemData.builder()
                 .name("magic_sugar")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200042).build())
                 .textureSize(32)
@@ -1569,7 +1800,7 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:sugar", tin_dust);
 		
-                CustomItemData silver_dust = CustomItemData.builder()
+        CustomItemData silver_dust = CustomItemData.builder()
                 .name("silver_dust")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200101).build())
                 .textureSize(32)
@@ -1582,6 +1813,13 @@ public class Slimefun implements Extension {
                 .textureSize(32)
                 .build();
         event.register("minecraft:sugar", aluminum_dust);
+		
+		CustomItemData zinc_dust = CustomItemData.builder()
+                .name("zinc_dust")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200103).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:sugar", zinc_dust);
 		
 		CustomItemData magnesium_dust = CustomItemData.builder()
                 .name("magnesium_dust")
@@ -1869,21 +2107,21 @@ public class Slimefun implements Extension {
 		CustomItemData soulbound_bow = CustomItemData.builder()
                 .name("soulbound_bow")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200274).build())
-                .textureSize(32)
+                .textureSize(16)
                 .build();
         event.register("minecraft:bow", soulbound_bow);
 		
 		CustomItemData explosive_bow = CustomItemData.builder()
                 .name("explosive_bow")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200311).build())
-                .textureSize(32)
+                .textureSize(16)
                 .build();
         event.register("minecraft:bow", explosive_bow);
 		
 		CustomItemData icy_bow = CustomItemData.builder()
                 .name("icy_bow")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200312).build())
-                .textureSize(32)
+                .textureSize(16)
                 .build();
         event.register("minecraft:bow", icy_bow);
 		
