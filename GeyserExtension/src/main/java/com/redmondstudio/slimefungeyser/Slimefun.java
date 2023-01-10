@@ -39,7 +39,42 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:stick", grandpas_walking_stick);
 
-                CustomItemData splint = CustomItemData.builder()
+		CustomItemData elemental_staff = CustomItemData.builder()
+                .name("elemental_staff")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200133).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:stick", elemental_staff);
+
+		CustomItemData elemental_staff_wind = CustomItemData.builder()
+                .name("elemental_staff_wind")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200134).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:stick", elemental_staff_wind);
+
+		CustomItemData elemental_staff_water = CustomItemData.builder()
+                .name("elemental_staff_water")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200135).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:stick", elemental_staff_water);
+
+		CustomItemData elemental_staff_fire = CustomItemData.builder()
+                .name("elemental_staff_fire")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200160).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:stick", elemental_staff_fire);
+
+		CustomItemData elemental_staff_storm = CustomItemData.builder()
+                .name("elemental_staff_storm")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200161).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:stick", elemental_staff_storm);
+
+        CustomItemData splint = CustomItemData.builder()
                 .name("splint")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200225).build())
                 .textureSize(16)
@@ -108,6 +143,13 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:player_head", portable_dustbin);
 		
+		CustomItemData ender_backpack = CustomItemData.builder()
+                .name("ender_backpack")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200036).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", ender_backpack);
+		
 		CustomItemData battery = CustomItemData.builder()
                 .name("battery")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200060).build())
@@ -174,7 +216,7 @@ public class Slimefun implements Extension {
 		CustomItemData lava_crystal = CustomItemData.builder()
                 .name("lava_crystal")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200159).build())
-                .textureSize(32)
+                .textureSize(16)
                 .build();
         event.register("minecraft:player_head", lava_crystal);
 		
@@ -269,12 +311,26 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:player_head", magnet);
 		
+		CustomItemData infused_magnet = CustomItemData.builder()
+                .name("infused_magnet")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200257).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", infused_magnet);
+		
 		CustomItemData necrotic_skull = CustomItemData.builder()
                 .name("necrotic_skull")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200259).build())
                 .textureSize(32)
                 .build();
         event.register("minecraft:player_head", necrotic_skull);
+		
+		CustomItemData bound_backpack = CustomItemData.builder()
+                .name("bound_backpack")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200261).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", bound_backpack);
 		
 		CustomItemData electromagnet = CustomItemData.builder()
                 .name("electromagnet")
@@ -581,6 +637,13 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:paper", bandage);
 		
+		CustomItemData scroll_of_dimensional_teleposition = CustomItemData.builder()
+                .name("scroll_of_dimensional_teleposition")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200310).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:paper", scroll_of_dimensional_teleposition);
+		
 		CustomItemData reinforced_plate = CustomItemData.builder()
                 .name("reinforced_plate")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200332).build())
@@ -594,10 +657,39 @@ public class Slimefun implements Extension {
                 .textureSize(16)
                 .build();
         event.register("minecraft:paper", plastic_sheet);
+				
+                //
+		// ENCHANTED_BOOK
+		//
 		
+		CustomItemData tome_of_knowledge_sharing = CustomItemData.builder()
+                .name("tome_of_knowledge_sharing")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200313).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:enchanted_book", tome_of_knowledge_sharing);
+
+                //
+		// ENCHANTING_TABLE
+		//
+		
+		CustomItemData ancient_altar = CustomItemData.builder()
+                .name("ancient_altar")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200338).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:enchanting_table", ancient_altar);
+
                 //
 		// NETHER_WART
 		//
+		
+		CustomItemData magical_zombie_pills = CustomItemData.builder()
+                .name("magical_zombie_pills")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200162).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:nether_wart", magical_zombie_pills);
 		
 		CustomItemData vitamins = CustomItemData.builder()
                 .name("vitamins")
@@ -606,6 +698,46 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:nether_wart", vitamins);
 
+                //
+		// BONE_MEAL
+		//
+		
+		CustomItemData infernal_bonemeal = CustomItemData.builder()
+                .name("infernal_bonemeal")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200419).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:bone_meal", infernal_bonemeal);
+		
+                //
+		// FEATHER
+		//
+		
+		CustomItemData infused_elytra = CustomItemData.builder()
+                .name("infused_elytra")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200422).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:elytra", infused_elytra);
+		
+		CustomItemData soulbound_elytra = CustomItemData.builder()
+                .name("soulbound_elytra")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200423).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:elytra", soulbound_elytra);
+		
+                //
+		// ELYTRA
+		//
+		
+		CustomItemData elytra_scale = CustomItemData.builder()
+                .name("elytra_scale")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200420).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:feather", elytra_scale);
+		
                 //
 		// POTION
 		//
@@ -671,6 +803,17 @@ public class Slimefun implements Extension {
         event.register("minecraft:chest", output_chest);
 
                 //
+		// HOPPER
+		//
+		
+		CustomItemData infused_hopper = CustomItemData.builder()
+                .name("infused_hopper")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200465).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:hopper", infused_hopper);
+
+                //
 		// CRAFTING_TABLE
 		//
 		
@@ -712,6 +855,13 @@ public class Slimefun implements Extension {
                 .textureSize(32)
                 .build();
         event.register("minecraft:dispenser", block_placer);
+		
+		CustomItemData ancient_pedestal = CustomItemData.builder()
+                .name("ancient_pedestal")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200337).build())
+                .textureSize(32)
+                .build();
+        event.register("minecraft:dispenser", ancient_pedestal);
 
                 //
 		// ANVIL
@@ -976,7 +1126,14 @@ public class Slimefun implements Extension {
                 .textureSize(32)
                 .build();
         event.register("minecraft:glass_bottle", juicer);
-				
+		
+		CustomItemData flask_of_knowledge = CustomItemData.builder()
+                .name("flask_of_knowledge")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200314).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:glass_bottle", flask_of_knowledge);
+		
 	        //
 		// LEAD
 		//
@@ -1753,7 +1910,7 @@ public class Slimefun implements Extension {
 		CustomItemData essence_of_afterlife = CustomItemData.builder()
                 .name("essence_of_afterlife")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200260).build())
-                .textureSize(32)
+                .textureSize(16)
                 .build();
         event.register("minecraft:gunpowder", essence_of_afterlife);
 
@@ -1817,7 +1974,7 @@ public class Slimefun implements Extension {
 		CustomItemData zinc_dust = CustomItemData.builder()
                 .name("zinc_dust")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200103).build())
-                .textureSize(16)
+                .textureSize(32)
                 .build();
         event.register("minecraft:sugar", zinc_dust);
 		
@@ -1841,15 +1998,7 @@ public class Slimefun implements Extension {
                 .textureSize(32)
                 .build();
         event.register("minecraft:sugar", salt);
-		
-		
-		/*CustomItemData zinc_dust = CustomItemData.builder()
-                .name("zinc_dust")
-                .customItemOptions(CustomItemOptions.builder().customModelData(2200103).build())
-                .textureSize(32)
-                .build();
-        event.register("minecraft:sugar", zinc_dust);*/
-		
+				
 		CustomItemData magnesium_salt = CustomItemData.builder()
                 .name("magnesium_salt")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200378).build())
@@ -2157,6 +2306,17 @@ public class Slimefun implements Extension {
                 .textureSize(32)
                 .build();
         event.register("minecraft:snowball", heavy_cream);
+		
+		//
+                // ENDER_EYE
+                //
+		
+		CustomItemData magic_eye_of_ender = CustomItemData.builder()
+                .name("magic_eye_of_ender")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200041).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:ender_eye", magic_eye_of_ender);
 		
 		//
                 // GRAY_STAINED_GLASS_PANE
