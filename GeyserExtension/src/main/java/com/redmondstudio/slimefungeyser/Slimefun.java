@@ -81,9 +81,16 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:stick", splint);
 
-        	//
+        //
 		// GOLDEN_SWORD
 		//
+		
+		CustomItemData slimefun_guide_icon = CustomItemData.builder()
+                .name("slimefun_guide_icon")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200001).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:golden_sword", slimefun_guide_icon);
 		
 		CustomItemData blade_of_vampires = CustomItemData.builder()
                 .name("blade_of_vampires")
@@ -92,7 +99,7 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:golden_sword", blade_of_vampires);
 
-        	//
+        //
 		// IRON_AXE
 		//
 		
@@ -103,7 +110,7 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:iron_axe", seismic_axe);
 
-        	//
+        //
 		// DIAMOND_SWORD
 		//
 		
@@ -114,7 +121,7 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:diamond_sword", soulbound_sword);
 
-        	//
+        //
 		// TRIDENT
 		//
 		
@@ -128,6 +135,13 @@ public class Slimefun implements Extension {
 		//
 		// PLAYER_HEAD
 		//
+		
+		CustomItemData wiki = CustomItemData.builder()
+                .name("wiki")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200006).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", wiki);
 		
 		CustomItemData portable_crafter = CustomItemData.builder()
                 .name("portable_crafter")
@@ -591,7 +605,7 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:player_head", tape_measure);
 
-                //
+        //
 		// PAPER
 		//
 		
@@ -658,9 +672,23 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:paper", plastic_sheet);
 				
-                //
+        //
 		// ENCHANTED_BOOK
 		//
+		
+		CustomItemData slimefun_guide = CustomItemData.builder()
+                .name("slimefun_guide")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200001).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:enchanted_book", slimefun_guide);
+		
+		CustomItemData back = CustomItemData.builder()
+                .name("back")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200003).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:enchanted_book", back);
 		
 		CustomItemData tome_of_knowledge_sharing = CustomItemData.builder()
                 .name("tome_of_knowledge_sharing")
@@ -669,7 +697,7 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:enchanted_book", tome_of_knowledge_sharing);
 
-                //
+        //
 		// ENCHANTING_TABLE
 		//
 		
@@ -680,7 +708,7 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:enchanting_table", ancient_altar);
 
-                //
+        //
 		// NETHER_WART
 		//
 		
@@ -698,7 +726,7 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:nether_wart", vitamins);
 
-                //
+        //
 		// BONE_MEAL
 		//
 		
@@ -709,8 +737,8 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:bone_meal", infernal_bonemeal);
 		
-                //
-		// FEATHER
+        //
+		// ELYTRA
 		//
 		
 		CustomItemData infused_elytra = CustomItemData.builder()
@@ -727,8 +755,8 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:elytra", soulbound_elytra);
 		
-                //
-		// ELYTRA
+        //
+		// FEATHER
 		//
 		
 		CustomItemData elytra_scale = CustomItemData.builder()
@@ -738,7 +766,7 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:feather", elytra_scale);
 		
-                //
+        //
 		// POTION
 		//
 		
@@ -802,7 +830,18 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:chest", output_chest);
 
-                //
+        //
+		// COMPARATOR
+		//
+		
+		CustomItemData menu = CustomItemData.builder()
+                .name("menu")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200004).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:comparator", menu);
+
+        //
 		// HOPPER
 		//
 		
@@ -813,7 +852,7 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:hopper", infused_hopper);
 
-                //
+        //
 		// CRAFTING_TABLE
 		//
 		
@@ -831,7 +870,7 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:crafting_table", magic_workbench);
 
-                //
+        //
 		// DISPENSER
 		//
 		
@@ -863,7 +902,18 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:dispenser", ancient_pedestal);
 
-                //
+		//
+		// NAME_TAG
+		//
+		
+		CustomItemData search = CustomItemData.builder()
+                .name("search")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200027).build())
+                .textureSize(32)
+                .build();
+        event.register("minecraft:anvil", search);
+
+        //
 		// ANVIL
 		//
 		
@@ -874,7 +924,7 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:anvil", armor_forge);
 
-                //
+        //
 		// PISTON
 		//
 		
@@ -885,7 +935,7 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:piston", compressor);
 
-                //
+        //
 		// BLAST_FURNACE
 		//
 		
@@ -896,7 +946,7 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:blast_furnace", makeshift_smeltery);
 
-                //
+        //
 		// FURNACE
 		//
 		
@@ -998,7 +1048,7 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:furnace", carbonado_edged_furnace);
 
-                //
+        //
 		// CAULDRON
 		//
 		
@@ -1023,7 +1073,7 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:cauldron", crucible);
 
-                //
+        //
 		// STONECUTTER
 		//
 		
@@ -1034,7 +1084,7 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:stonecutter", table_saw);
 
-                //
+        //
 		// BOWL
 		//
 	
@@ -1059,7 +1109,7 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:bowl", automated_panning_machine);
 
-                //
+        //
 		// GOLDEN_PICKAXE
 		//
 		
@@ -1070,7 +1120,7 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:golden_pickaxe", industrial_miner);
 
-                //
+        //
 		// DIAMOND_PICKAXE
 		//
 
@@ -1116,7 +1166,7 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:diamond_pickaxe", soulbound_pickaxe);
 
-                //
+        //
 		// GLASS_BOTTLE
 		//
 		
@@ -1134,7 +1184,7 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:glass_bottle", flask_of_knowledge);
 		
-	        //
+	    //
 		// LEAD
 		//
 		
@@ -1145,7 +1195,7 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:lead", grappling_hook);
 		
-	        //
+	    //
 		// DIAMOND_AXE
 		//	
 		
@@ -1163,7 +1213,7 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:diamond_axe", soulbound_axe);
 
-                //
+        //
 		// IRON_PICKAXE
 		//
 		
@@ -1195,7 +1245,7 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:iron_pickaxe", climbing_pick);
 
-                //
+        //
 		// DIAMOND_SHOVEL
 		//
 		
@@ -1213,7 +1263,7 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:diamond_shovel", soulbound_shovel);
 
-                //
+        //
 		// DIAMOND_HOE
 		//
 		
@@ -1340,7 +1390,7 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:iron_ingot", magnesium_ingot);
 		
-                //
+        //
 		// GOLD_INGOT
 		//
 		
@@ -1477,7 +1527,7 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:gold_ingot", blistering_ingot_100);
 
-                //
+        //
 		// BRICK
 		//
 		
@@ -1502,7 +1552,7 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:brick", redstone_alloy_ingot);
 
-                //
+        //
 		// DIAMOND
 		//
 		
@@ -1513,7 +1563,7 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:diamond", synthetic_diamond);
 
-                //
+        //
 		// FIREWORK_STAR
 		//
 		
@@ -1601,7 +1651,7 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:firework_star", ancient_rune_villagers);
 		
-                //
+        //
 		// EMERALD
 		//
 		
@@ -1852,7 +1902,7 @@ public class Slimefun implements Extension {
 		
 		
 
-                //
+        //
 		// GUNPOWDER
 		//
 		
@@ -1914,7 +1964,7 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:gunpowder", essence_of_afterlife);
 
-                //
+        //
 		// GLOWSTONE_DUST
 		//
 		
@@ -1939,7 +1989,7 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:glowstone_dust", sulfate);
 
-                //
+        //
 		// SUGAR
 		//
 		
@@ -2007,8 +2057,8 @@ public class Slimefun implements Extension {
         event.register("minecraft:sugar", magnesium_salt);
 		
 		//
-                // COOKIE
-                //
+        // COOKIE
+        //
 		
 		CustomItemData fortune_cookie = CustomItemData.builder()
                 .name("fortune_cookie")
@@ -2032,8 +2082,8 @@ public class Slimefun implements Extension {
         event.register("minecraft:cookie", kelp_cookie);
 		
 		//
-                // COOKED_BEEF
-                //
+        // COOKED_BEEF
+        //
 		
 		CustomItemData beef_jerky = CustomItemData.builder()
                 .name("beef_jerky")
@@ -2043,8 +2093,8 @@ public class Slimefun implements Extension {
         event.register("minecraft:cooked_beef", beef_jerky);
 		
 		//
-                // COOKED_PORKCHOP
-                //
+        // COOKED_PORKCHOP
+        //
 		
 		CustomItemData pork_jerky = CustomItemData.builder()
                 .name("pork_jerky")
@@ -2054,8 +2104,8 @@ public class Slimefun implements Extension {
         event.register("minecraft:cooked_porkchop", pork_jerky);
 		
 		//
-                // COOKED_CHICKEN
-                //
+        // COOKED_CHICKEN
+        //
 		
 		CustomItemData chicken_jerky = CustomItemData.builder()
                 .name("chicken_jerky")
@@ -2065,8 +2115,8 @@ public class Slimefun implements Extension {
         event.register("minecraft:cooked_chicken", chicken_jerky);
 		
 		//
-                // COOKED_MUTTON
-                //
+        // COOKED_MUTTON
+        //
 		
 		CustomItemData mutton_jerky = CustomItemData.builder()
                 .name("mutton_jerky")
@@ -2076,8 +2126,8 @@ public class Slimefun implements Extension {
         event.register("minecraft:cooked_mutton", mutton_jerky);
 		
 		//
-                // COOKED_RABBIT
-                //
+        // COOKED_RABBIT
+        //
 		
 		CustomItemData rabbit_jerky = CustomItemData.builder()
                 .name("rabbit_jerky")
@@ -2087,8 +2137,8 @@ public class Slimefun implements Extension {
         event.register("minecraft:cooked_rabbit", rabbit_jerky);
 		
 		//
-                // COOKED_COD
-                //
+        // COOKED_COD
+        //
 		
 		CustomItemData fish_jerky = CustomItemData.builder()
                 .name("fish_jerky")
@@ -2098,8 +2148,8 @@ public class Slimefun implements Extension {
         event.register("minecraft:cooked_cod", fish_jerky);
 		
 		//
-                // ROTTEN_FLESH
-                //
+        // ROTTEN_FLESH
+        //
 		
 		CustomItemData monster_jerky = CustomItemData.builder()
                 .name("monster_jerky")
@@ -2109,8 +2159,8 @@ public class Slimefun implements Extension {
         event.register("minecraft:rotten_flesh", monster_jerky);
 		
 		//
-                // GOLD_NUGGET
-                //
+        // GOLD_NUGGET
+        //
 		
 		CustomItemData magical_lump_1 = CustomItemData.builder()
                 .name("magical_lump_1")
@@ -2155,8 +2205,8 @@ public class Slimefun implements Extension {
         event.register("minecraft:gold_nugget", ender_lump_3);
 		
 		//
-                // GLASS_PANE
-                //
+        // GLASS_PANE
+        //
 		
 		CustomItemData magical_glass = CustomItemData.builder()
                 .name("magical_glass")
@@ -2166,8 +2216,8 @@ public class Slimefun implements Extension {
         event.register("minecraft:glass_pane", magical_glass);
 		
 		//
-                // SHULKER_SHELL
-                //
+        // SHULKER_SHELL
+        //
 		
 		CustomItemData synthetic_shulker_shell = CustomItemData.builder()
                 .name("synthetic_shulker_shell")
@@ -2177,8 +2227,8 @@ public class Slimefun implements Extension {
         event.register("minecraft:shulker_shell", synthetic_shulker_shell);
 		
 		//
-                // PURPLE_DYE
-                //
+        // PURPLE_DYE
+        //
 		
 		CustomItemData strange_nether_goo = CustomItemData.builder()
                 .name("strange_nether_goo")
@@ -2188,8 +2238,8 @@ public class Slimefun implements Extension {
         event.register("minecraft:purple_dye", strange_nether_goo);
 		
 		//
-                // ACTIVATOR_RAIL
-                //
+        // ACTIVATOR_RAIL
+        //
 		
 		CustomItemData basic_circuit_board = CustomItemData.builder()
                 .name("basic_circuit_board")
@@ -2199,8 +2249,8 @@ public class Slimefun implements Extension {
         event.register("minecraft:activator_rail", basic_circuit_board);
 		
 		//
-                // POWERED_RAIL
-                //
+        // POWERED_RAIL
+        //
 		
 		CustomItemData advanced_circuit_board = CustomItemData.builder()
                 .name("advanced_circuit_board")
@@ -2210,8 +2260,8 @@ public class Slimefun implements Extension {
         event.register("minecraft:powered_rail", advanced_circuit_board);
 		
 		//
-                // BUCKET
-                //
+        // BUCKET
+        //
 		
 		CustomItemData steel_thruster = CustomItemData.builder()
                 .name("steel_thruster")
@@ -2221,8 +2271,8 @@ public class Slimefun implements Extension {
         event.register("minecraft:bucket", steel_thruster);
 		
 		//
-                // STRING
-                //
+        // STRING
+        //
 		
 		CustomItemData chain = CustomItemData.builder()
                 .name("chain")
@@ -2239,8 +2289,8 @@ public class Slimefun implements Extension {
         event.register("minecraft:string", copper_wire);
 		
 		//
-                // OBSIDIAN
-                //
+        // OBSIDIAN
+        //
 		
 		CustomItemData wither_proof_obsidian = CustomItemData.builder()
                 .name("wither_proof_obsidian")
@@ -2250,8 +2300,8 @@ public class Slimefun implements Extension {
         event.register("minecraft:obsidian", wither_proof_obsidian);
 		
 		//
-                // BOW
-                //
+        // BOW
+        //
 		
 		CustomItemData soulbound_bow = CustomItemData.builder()
                 .name("soulbound_bow")
@@ -2275,8 +2325,8 @@ public class Slimefun implements Extension {
         event.register("minecraft:bow", icy_bow);
 		
 		//
-                // GLASS
-                //
+        // GLASS
+        //
 		
 		CustomItemData pressure_chamber = CustomItemData.builder()
                 .name("pressure_chamber")
@@ -2286,8 +2336,8 @@ public class Slimefun implements Extension {
         event.register("minecraft:glass", pressure_chamber);
 		
 		//
-                // GLASS
-                //
+        // GLASS
+        //
 		
 		CustomItemData hook = CustomItemData.builder()
                 .name("hook")
@@ -2297,8 +2347,8 @@ public class Slimefun implements Extension {
         event.register("minecraft:glass", hook);
 		
 		//
-                // SNOWBALL
-                //
+        // SNOWBALL
+        //
 		
 		CustomItemData heavy_cream = CustomItemData.builder()
                 .name("heavy_cream")
@@ -2308,8 +2358,8 @@ public class Slimefun implements Extension {
         event.register("minecraft:snowball", heavy_cream);
 		
 		//
-                // ENDER_EYE
-                //
+        // ENDER_EYE
+        //
 		
 		CustomItemData magic_eye_of_ender = CustomItemData.builder()
                 .name("magic_eye_of_ender")
@@ -2319,8 +2369,26 @@ public class Slimefun implements Extension {
         event.register("minecraft:ender_eye", magic_eye_of_ender);
 		
 		//
-                // GRAY_STAINED_GLASS_PANE
-                //
+        // LIME_STAINED_GLASS_PANE
+        //
+		
+		CustomItemData previous_on = CustomItemData.builder()
+                .name("previous_on")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200007).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:lime_stained_glass_pane", previous_on);
+		
+		CustomItemData next_on = CustomItemData.builder()
+                .name("next_on")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200002).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:lime_stained_glass_pane", next_on);
+		
+		//
+		// GRAY_STAINED_GLASS_PANE
+        //
 		
 		CustomItemData ui_background_2 = CustomItemData.builder()
                 .name("ui_background_2")
@@ -2328,6 +2396,31 @@ public class Slimefun implements Extension {
                 .textureSize(16)
                 .build();
         event.register("minecraft:gray_stained_glass_pane", ui_background_2);
+		
+		CustomItemData background = CustomItemData.builder()
+                .name("background")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200002).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:gray_stained_glass_pane", background);
+		
+		//
+		// BLACK_STAINED_GLASS_PANE
+        //
+		
+		CustomItemData previous_off = CustomItemData.builder()
+                .name("previous_off")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200008).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:black_stained_glass_pane", previous_off);
+		
+		CustomItemData next_off = CustomItemData.builder()
+                .name("next_off")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200010).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:black_stained_glass_pane", next_off);
 		
 		//
                 //
