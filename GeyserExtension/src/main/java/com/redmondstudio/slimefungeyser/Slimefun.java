@@ -136,6 +136,13 @@ public class Slimefun implements Extension {
 		// PLAYER_HEAD
 		//
 		
+		CustomItemData BASE = CustomItemData.builder()
+                .name("BASE")
+                .customItemOptions(CustomItemOptions.builder().customModelData(1111).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", BASE);
+		
 		CustomItemData wiki = CustomItemData.builder()
                 .name("wiki")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200006).build())
@@ -381,6 +388,13 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:player_head", cooler);
 		
+		CustomItemData energy_regulator = CustomItemData.builder()
+                .name("energy_regulator")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200339).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", energy_regulator);
+		
 		CustomItemData duct_tape = CustomItemData.builder()
                 .name("duct_tape")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200340).build())
@@ -388,12 +402,145 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:player_head", duct_tape);
 		
+		CustomItemData small_energy_capacitor = CustomItemData.builder()
+                .name("small_energy_capacitor")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200341).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", small_energy_capacitor);
+		
+		CustomItemData medium_energy_capacitor = CustomItemData.builder()
+                .name("medium_energy_capacitor")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200342).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", medium_energy_capacitor);
+		
+		CustomItemData big_energy_capacitor = CustomItemData.builder()
+                .name("big_energy_capacitor")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200343).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", big_energy_capacitor);
+		
+		CustomItemData large_energy_capacitor = CustomItemData.builder()
+                .name("large_energy_capacitor")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200344).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", large_energy_capacitor);
+		
+		CustomItemData carbonado_edged_energy_capacitor = CustomItemData.builder()
+                .name("carbonado_edged_energy_capacitor")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200345).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", carbonado_edged_energy_capacitor);
+		
+		CustomItemData coal_generator_i = CustomItemData.builder()
+                .name("coal_generator_i")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200371).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", coal_generator_i);
+		
+		CustomItemData coal_generator_ii = CustomItemData.builder()
+                .name("coal_generator_ii")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200372).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", coal_generator_ii);
+		
+		CustomItemData electric_press_i = CustomItemData.builder()
+                .name("electric_press_i")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200376).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", electric_press_i);
+		
+		CustomItemData electric_press_ii = CustomItemData.builder()
+                .name("electric_press_ii")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200377).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", electric_press_ii);
+		
+		CustomItemData magnesium_powered_generator = CustomItemData.builder()
+                .name("magnesium_powered_generator")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200379).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", magnesium_powered_generator);
+				
 		CustomItemData android_memory_core = CustomItemData.builder()
                 .name("android_memory_core")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200386).build())
                 .textureSize(16)
                 .build();
         event.register("minecraft:player_head", android_memory_core);
+		
+		CustomItemData gps_transmitter = CustomItemData.builder()
+                .name("gps_transmitter")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200387).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", gps_transmitter);
+		
+		CustomItemData gps_transmitter_advanced = CustomItemData.builder()
+                .name("gps_transmitter_advanced")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200388).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", gps_transmitter_advanced);
+		
+		CustomItemData gps_transmitter_carbonado = CustomItemData.builder()
+                .name(gps_transmitter_carbonado)
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200389).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", gps_transmitter_carbonado);
+		
+		CustomItemData gps_transmitter_energized = CustomItemData.builder()
+                .name(gps_transmitter_energized)
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200390).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", gps_transmitter_energized);
+		
+		CustomItemData gps_control_panel = CustomItemData.builder()
+                .name(gps_control_panel)
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200391).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", gps_control_panel);
+		
+		CustomItemData gps_emergency_transmitter = CustomItemData.builder()
+                .name(gps_emergency_transmitter)
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200393).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", gps_emergency_transmitter);
+		
+		CustomItemData gps_geo_scanner = CustomItemData.builder()
+                .name(gps_geo_scanner)
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200450).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", gps_geo_scanner);
+		
+		CustomItemData oil_pump = CustomItemData.builder()
+                .name(oil_pump)
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200452).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", oil_pump);
+		
+		CustomItemData geo_miner = CustomItemData.builder()
+                .name(geo_miner)
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200453).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", geo_miner);
 		
         CustomItemData bucket_of_oil = CustomItemData.builder()
                 .name("bucket_of_oil")
@@ -415,6 +562,27 @@ public class Slimefun implements Extension {
                 .textureSize(32)
                 .build();
         event.register("minecraft:player_head", nether_ice);
+		
+		CustomItemData lava_generator_i = CustomItemData.builder()
+                .name("lava_generator_i")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200458).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", lava_generator_i);
+		
+		CustomItemData lava_generator_ii = CustomItemData.builder()
+                .name("lava_generator_ii")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200459).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", lava_generator_ii);
+		
+		CustomItemData combustion_reactor = CustomItemData.builder()
+                .name("combustion_reactor")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200460).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", combustion_reactor);
 		
 		CustomItemData enriched_nether_ice = CustomItemData.builder()
                 .name("enriched_nether_ice")
@@ -493,6 +661,13 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:player_head", organic_food_cocoa_beans);
 		
+		CustomItemData exp_collector = CustomItemData.builder()
+                .name("exp_collector")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200486).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", exp_collector);
+				
 		CustomItemData organic_fertilizer_wheat = CustomItemData.builder()
                 .name("organic_fertilizer_wheat")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200489).build())
@@ -598,12 +773,891 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:player_head", boosted_uranium);
 
-                CustomItemData tape_measure = CustomItemData.builder()
+		CustomItemData nuclear_reactor = CustomItemData.builder()
+                .name("nuclear_reactor")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200508).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", nuclear_reactor);
+
+		CustomItemData nether_star_reactor = CustomItemData.builder()
+                .name("nether_star_reactor")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200509).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", nether_star_reactor);
+
+		CustomItemData motor = CustomItemData.builder()
+                .name("motor")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200510).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", motor);
+
+		CustomItemData manager = CustomItemData.builder()
+                .name("manager")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200511).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", manager);
+
+		CustomItemData connector = CustomItemData.builder()
+                .name("connector")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200512).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", connector);
+
+		CustomItemData input = CustomItemData.builder()
+                .name("input")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200513).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", input);
+
+		CustomItemData output = CustomItemData.builder()
+                .name("output")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200514).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", output);
+
+		CustomItemData output2 = CustomItemData.builder()
+                .name("output2")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200515).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", output2);
+
+		CustomItemData automated_crafting_chamber = CustomItemData.builder()
+                .name("automated_crafting_chamber")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200516).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", automated_crafting_chamber);
+
+		CustomItemData reactor_access_port = CustomItemData.builder()
+                .name("reactor_access_port")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200517).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", reactor_access_port);
+
+		CustomItemData trash = CustomItemData.builder()
+                .name("trash")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200519).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", trash);
+
+        CustomItemData tape_measure = CustomItemData.builder()
                 .name("tape_measure")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200527).build())
                 .textureSize(16)
                 .build();
         event.register("minecraft:player_head", tape_measure);
+
+        CustomItemData energized_energy_capacitor = CustomItemData.builder()
+                .name("energized_energy_capacitor")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200537).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", energized_energy_capacitor);
+
+        CustomItemData energy_connector = CustomItemData.builder()
+                .name("energy_connector")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200538).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", energy_connector);
+
+        CustomItemData crafting_motor = CustomItemData.builder()
+                .name("crafting_motor")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200539).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", crafting_motor);
+
+        CustomItemData vanilla_auto_crafter = CustomItemData.builder()
+                .name("vanilla_auto_crafter")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200540).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", vanilla_auto_crafter);
+
+        CustomItemData enhanced_auto_crafter = CustomItemData.builder()
+                .name("enhanced_auto_crafter")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200541).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", enhanced_auto_crafter);
+
+        CustomItemData armor_auto_crafter = CustomItemData.builder()
+                .name("armor_auto_crafter")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200542).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", armor_auto_crafter);
+
+        CustomItemData hot_chocolate = CustomItemData.builder()
+                .name("hot_chocolate")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200846).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", hot_chocolate);
+
+        CustomItemData pinacolada = CustomItemData.builder()
+                .name("pinacolada")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200857).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", pinacolada);
+
+        CustomItemData sweetened_tea = CustomItemData.builder()
+                .name("sweetened_tea")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200868).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", sweetened_tea);
+
+        CustomItemData apple_pear_cake = CustomItemData.builder()
+                .name("apple_pear_cake")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200872).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", apple_pear_cake);
+
+        CustomItemData oak_apple_pie = CustomItemData.builder()
+                .name("oak_apple_pie")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200873).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", oak_apple_pie);
+
+        CustomItemData bacon = CustomItemData.builder()
+                .name("bacon")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200874).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", bacon);
+
+        CustomItemData bacon_burger = CustomItemData.builder()
+                .name("bacon_burger")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200875).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", bacon_burger);
+
+        CustomItemData bacon_cheeseburger = CustomItemData.builder()
+                .name("bacon_cheeseburger")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200876).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", bacon_cheeseburger);
+
+        CustomItemData bacon_sandwich = CustomItemData.builder()
+                .name("bacon_sandwich")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200877).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", bacon_sandwich);
+
+        CustomItemData bagel = CustomItemData.builder()
+                .name("bagel")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200878).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", bagel);
+
+        CustomItemData biscuit = CustomItemData.builder()
+                .name("biscuit")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200879).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", biscuit);
+
+        CustomItemData biscuits_and_country_gravy = CustomItemData.builder()
+                .name("biscuits_and_country_gravy")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200880).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", biscuits_and_country_gravy);
+
+        CustomItemData blackberry_cobbler = CustomItemData.builder()
+                .name("blackberry_cobbler")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200881).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", blackberry_cobbler);
+
+        CustomItemData blackberry_jelly_sandwich = CustomItemData.builder()
+                .name("blackberry_jelly_sandwich")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200882).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", blackberry_jelly_sandwich);
+
+        CustomItemData blackberry_pie = CustomItemData.builder()
+                .name("blackberry_pie")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200883).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", blackberry_pie);
+
+        CustomItemData blt = CustomItemData.builder()
+                .name("blt")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200884).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", blt);
+
+        CustomItemData blueberry_cheesecake = CustomItemData.builder()
+                .name("blueberry_cheesecake")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200885).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", blueberry_cheesecake);
+
+        CustomItemData blueberry_jelly_sandwich = CustomItemData.builder()
+                .name("blueberry_jelly_sandwich")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200886).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", blueberry_jelly_sandwich);
+
+        CustomItemData blueberry_muffin = CustomItemData.builder()
+                .name("blueberry_muffin")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200887).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", blueberry_muffin);
+
+        CustomItemData blueberry_pancakes = CustomItemData.builder()
+                .name("blueberry_pancakes")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200888).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", blueberry_pancakes);
+
+        CustomItemData blueberry_pie = CustomItemData.builder()
+                .name("blueberry_pie")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200889).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", blueberry_pie);
+
+        CustomItemData boston_cream_pie = CustomItemData.builder()
+                .name("boston_cream_pie")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200890).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", boston_cream_pie);
+
+        CustomItemData burrito = CustomItemData.builder()
+                .name("burrito")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200891).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", burrito);
+
+        CustomItemData carrot_cake = CustomItemData.builder()
+                .name("carrot_cake")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200892).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", carrot_cake);
+
+        CustomItemData cheeseburger = CustomItemData.builder()
+                .name("cheeseburger")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200893).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", cheeseburger);
+
+        CustomItemData cheesecake = CustomItemData.builder()
+                .name("cheesecake")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200894).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", cheesecake);
+
+        CustomItemData cherry_cheesecake = CustomItemData.builder()
+                .name("cherry_cheesecake")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200895).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", cherry_cheesecake);
+
+        CustomItemData cherry_pie = CustomItemData.builder()
+                .name("cherry_pie")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200896).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", cherry_pie);
+
+        CustomItemData chicken_burrito = CustomItemData.builder()
+                .name("chicken_burrito")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200897).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", chicken_burrito);
+
+        CustomItemData chicken_cheeseburger = CustomItemData.builder()
+                .name("chicken_cheeseburger")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200898).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", chicken_cheeseburger);
+
+        CustomItemData chicken_curry = CustomItemData.builder()
+                .name("chicken_curry")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200899).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", chicken_curry);
+
+        CustomItemData chicken_pot_pie = CustomItemData.builder()
+                .name("chicken_pot_pie")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200900).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", chicken_pot_pie);
+
+        CustomItemData chicken_sandwich = CustomItemData.builder()
+                .name("chicken_sandwich")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200901).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", chicken_sandwich);
+
+        CustomItemData chicken_burger = CustomItemData.builder()
+                .name("chicken_burger")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200902).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", chicken_burger);
+
+        CustomItemData chocolate_bar = CustomItemData.builder()
+                .name("chocolate_bar")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200903).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", chocolate_bar);
+
+        CustomItemData chocolate_cake = CustomItemData.builder()
+                .name("chocolate_cake")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200904).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", chocolate_cake);
+
+        CustomItemData chocolate_chip_muffin = CustomItemData.builder()
+                .name("chocolate_chip_muffin")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200905).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", chocolate_chip_muffin);
+
+        CustomItemData chocolate_pear_cake = CustomItemData.builder()
+                .name("chocolate_pear_cake")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200906).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", chocolate_pear_cake);
+
+        CustomItemData chocolate_strawberry = CustomItemData.builder()
+                .name("chocolate_strawberry")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200907).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", chocolate_strawberry);
+
+        CustomItemData club_sandwich = CustomItemData.builder()
+                .name("club_sandwich")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200908).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", club_sandwich);
+
+        CustomItemData coconut_chicken_curry = CustomItemData.builder()
+                .name("coconut_chicken_curry")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200909).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", coconut_chicken_curry);
+
+        CustomItemData cowberry_jelly_sandwich = CustomItemData.builder()
+                .name("cowberry_jelly_sandwich")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200911).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", cowberry_jelly_sandwich);
+
+        CustomItemData cowberry_pie = CustomItemData.builder()
+                .name("cowberry_pie")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200912).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", cowberry_pie);
+
+        CustomItemData cranberry_jelly_sandwich = CustomItemData.builder()
+                .name("cranberry_jelly_sandwich")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200913).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", cranberry_jelly_sandwich);
+
+        CustomItemData cranberry_pie = CustomItemData.builder()
+                .name("cranberry_pie")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200914).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", cranberry_pie);
+
+        CustomItemData cream_cookie = CustomItemData.builder()
+                .name("cream_cookie")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200915).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", cream_cookie);
+
+        CustomItemData creamed_corn = CustomItemData.builder()
+                .name("creamed_corn")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200916).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", creamed_corn);
+
+        CustomItemData deluxe_cheeseburger = CustomItemData.builder()
+                .name("deluxe_cheeseburger")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200917).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", deluxe_cheeseburger);
+
+        CustomItemData dragon_fruit_pie = CustomItemData.builder()
+                .name("dragon_fruit_pie")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200918).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", dragon_fruit_pie);
+
+        CustomItemData egg_salad = CustomItemData.builder()
+                .name("egg_salad")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200919).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", egg_salad);
+
+        CustomItemData elderberry_pie = CustomItemData.builder()
+                .name("elderberry_pie")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200921).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", elderberry_pie);
+
+        CustomItemData fish_sandwich = CustomItemData.builder()
+                .name("fish_sandwich")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200922).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", fish_sandwich);
+
+        CustomItemData fish_taco = CustomItemData.builder()
+                .name("fish_taco")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200923).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", fish_taco);
+
+        CustomItemData fries = CustomItemData.builder()
+                .name("fries")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200924).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", fries);
+
+        CustomItemData garlic_bread = CustomItemData.builder()
+                .name("garlic_bread")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200925).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", garlic_bread);
+		
+		CustomItemData garlic_cheese_bread = CustomItemData.builder()
+                .name("garlic_cheese_bread")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200926).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", garlic_cheese_bread);
+		
+        CustomItemData grape_jelly_sandwich = CustomItemData.builder()
+                .name("grape_jelly_sandwich")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200927).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", grape_jelly_sandwich);
+
+        CustomItemData grape_pie = CustomItemData.builder()
+                .name("grape_pie")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200928).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", grape_pie);
+
+        CustomItemData grape_salad = CustomItemData.builder()
+                .name("grape_salad")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200929).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", grape_salad);
+
+        CustomItemData grilled_sandwich = CustomItemData.builder()
+                .name("grilled_sandwich")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200930).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", grilled_sandwich);
+
+        CustomItemData hamburger = CustomItemData.builder()
+                .name("hamburger")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200931).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", hamburger);
+
+        CustomItemData hot_dog = CustomItemData.builder()
+                .name("hot_dog")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200932).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", hot_dog);
+		
+		CustomItemData bacon_wrapped_cheese_filled_hot_dog = CustomItemData.builder()
+                .name("bacon_wrapped_cheese_filled_hot_dog")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200933).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", bacon_wrapped_cheese_filled_hot_dog);
+
+		CustomItemData bbq_bacon_wrapped_hot_dog = CustomItemData.builder()
+                .name("bbq_bacon_wrapped_hot_dog")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200934).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", bbq_bacon_wrapped_hot_dog);
+
+		CustomItemData bbq_double_bacon_wrapped_hot_dog_in_a_tortilla_with_cheese = CustomItemData.builder()
+                .name("bbq_double_bacon_wrapped_hot_dog_in_a_tortilla_with_cheese")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200935).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", bbq_double_bacon_wrapped_hot_dog_in_a_tortilla_with_cheese);
+
+        CustomItemData ice_cream = CustomItemData.builder()
+                .name("ice_cream")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200936).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", ice_cream);
+
+        CustomItemData jammy_dodger = CustomItemData.builder()
+                .name("jammy_dodger")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200937).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", jammy_dodger);
+
+        CustomItemData lamington = CustomItemData.builder()
+                .name("lamington")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200938).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", lamington);
+
+        CustomItemData lasagna = CustomItemData.builder()
+                .name("lasagna")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200939).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", lasagna);
+
+        CustomItemData leafy_chicken_sandwich = CustomItemData.builder()
+                .name("leafy_chicken_sandwich")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200940).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", leafy_chicken_sandwich);
+
+        CustomItemData leafy_fish_sandwich = CustomItemData.builder()
+                .name("leafy_fish_sandwich")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200941).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", leafy_fish_sandwich);
+
+        CustomItemData lemon_pie = CustomItemData.builder()
+                .name("lemon_pie")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200942).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", lemon_pie);
+
+        CustomItemData lime_pie = CustomItemData.builder()
+                .name("lime_pie")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200943).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", lime_pie);
+
+        CustomItemData orange_pie = CustomItemData.builder()
+                .name("orange_pie")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200944).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", orange_pie);
+
+        CustomItemData pancakes = CustomItemData.builder()
+                .name("pancakes")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200945).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", pancakes);
+
+        CustomItemData pavlova = CustomItemData.builder()
+                .name("pavlova")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200946).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", pavlova);
+
+        CustomItemData peach_pie = CustomItemData.builder()
+                .name("peach_pie")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200947).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", peach_pie);
+
+        CustomItemData pear_pie = CustomItemData.builder()
+                .name("pear_pie")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200948).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", pear_pie);
+
+        CustomItemData plum_pie = CustomItemData.builder()
+                .name("plum_pie")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200949).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", plum_pie);
+
+        CustomItemData pomegranate_pie = CustomItemData.builder()
+                .name("pomegranate_pie")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200950).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", pomegranate_pie);
+
+        CustomItemData popcorn = CustomItemData.builder()
+                .name("popcorn")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200951).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", popcorn);
+
+        CustomItemData popcorn_salty = CustomItemData.builder()
+                .name("popcorn_salty")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200952).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", popcorn_salty);
+
+        CustomItemData popcorn_sweet = CustomItemData.builder()
+                .name("popcorn_sweet")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200953).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", popcorn_sweet);
+
+        CustomItemData potato_salad = CustomItemData.builder()
+                .name("potato_salad")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200954).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", potato_salad);
+
+        CustomItemData pumpkin_bread = CustomItemData.builder()
+                .name("pumpkin_bread")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200955).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", pumpkin_bread);
+
+        CustomItemData pumpkin_cheesecake = CustomItemData.builder()
+                .name("pumpkin_cheesecake")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200956).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", pumpkin_cheesecake);
+
+        CustomItemData pumpkin_muffin = CustomItemData.builder()
+                .name("pumpkin_muffin")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200957).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", pumpkin_muffin);
+
+        CustomItemData raspberry_jelly_sandwich = CustomItemData.builder()
+                .name("raspberry_jelly_sandwich")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200958).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", raspberry_jelly_sandwich);
+
+        CustomItemData raspberry_pie = CustomItemData.builder()
+                .name("raspberry_pie")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200959).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", raspberry_pie);
+
+        CustomItemData sandwich = CustomItemData.builder()
+                .name("sandwich")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200960).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", sandwich);
+
+        CustomItemData shepards_pie = CustomItemData.builder()
+                .name("shepards_pie")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200961).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", shepards_pie);
+
+        CustomItemData strawberry_jelly_sandwich = CustomItemData.builder()
+                .name("strawberry_jelly_sandwich")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200962).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", strawberry_jelly_sandwich);
+
+        CustomItemData strawberry_pie = CustomItemData.builder()
+                .name("strawberry_pie")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200963).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", strawberry_pie);
+
+        CustomItemData strawberry_salad = CustomItemData.builder()
+                .name("strawberry_salad")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200964).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", strawberry_salad);
+
+        CustomItemData sweet_berry_pancakes = CustomItemData.builder()
+                .name("sweet_berry_pancakes")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200965).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", sweet_berry_pancakes);
+
+        CustomItemData sweetened_pear_cheesecake = CustomItemData.builder()
+                .name("sweetened_pear_cheesecake")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200966).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", sweetened_pear_cheesecake);
+
+        CustomItemData taco = CustomItemData.builder()
+                .name("taco")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200967).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", taco);
+
+        CustomItemData tiramisu = CustomItemData.builder()
+                .name("tiramisu")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200968).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", tiramisu);
+
+        CustomItemData tiramisu_with_blackberries = CustomItemData.builder()
+                .name("tiramisu_with_blackberries")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200969).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", tiramisu_with_blackberries);
+
+        CustomItemData tiramisu_with_raspberries = CustomItemData.builder()
+                .name("tiramisu_with_raspberries")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200970).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", tiramisu_with_raspberries);
+
+        CustomItemData tiramisu_with_strawberries = CustomItemData.builder()
+                .name("tiramisu_with_strawberries")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200971).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", tiramisu_with_strawberries);
+
+        CustomItemData tomato_soup = CustomItemData.builder()
+                .name("tomato_soup")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200972).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", tomato_soup);
+
+        CustomItemData waffles = CustomItemData.builder()
+                .name("waffles")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200973).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", waffles);
+
+        CustomItemData elderberry_jelly_sandwich = CustomItemData.builder()
+                .name("elderberry_jelly_sandwich")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2201282).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", elderberry_jelly_sandwich);
+
+        CustomItemData street_taco = CustomItemData.builder()
+                .name("street_taco")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2201283).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", street_taco);
+
+        CustomItemData sweet_potato_pie = CustomItemData.builder()
+                .name("sweet_potato_pie")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2201284).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", sweet_potato_pie);
+
+        CustomItemData stuffed_red_bell_pepper = CustomItemData.builder()
+                .name("stuffed_red_bell_pepper")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2201285).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", stuffed_red_bell_pepper);
+
+        //
+		// GOLDEN_CARROT
+		//
+		
+		CustomItemData corn_on_the_cob = CustomItemData.builder()
+                .name("corn_on_the_cob")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200910).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:golden_carrot", corn_on_the_cob);
 
         //
 		// PAPER
@@ -819,6 +1873,279 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:potion", golden_apple_juice);
 		
+		CustomItemData blackberry_juice = CustomItemData.builder()
+                .name("blackberry_juice")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200830).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:potion", blackberry_juice);
+		
+		CustomItemData blackberry_smoothie = CustomItemData.builder()
+                .name("blackberry_smoothie")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200831).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:potion", blackberry_smoothie);
+		
+		CustomItemData blueberry_juice = CustomItemData.builder()
+                .name("blueberry_juice")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200832).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:potion", blueberry_juice);
+		
+		CustomItemData blueberry_smoothie = CustomItemData.builder()
+                .name("blueberry_smoothie")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200833).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:potion", blueberry_smoothie);
+		
+		CustomItemData cherry_iced_tea = CustomItemData.builder()
+                .name("cherry_iced_tea")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200834).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:potion", cherry_iced_tea);
+		
+		CustomItemData cherry_juice = CustomItemData.builder()
+                .name("cherry_juice")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200835).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:potion", cherry_juice);
+		
+		CustomItemData coconut_milk = CustomItemData.builder()
+                .name("coconut_milk")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200836).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:potion", coconut_milk);
+		
+		CustomItemData cowberry_juice = CustomItemData.builder()
+                .name("cowberry_juice")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200837).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:potion", cowberry_juice);
+		
+		CustomItemData cowberry_smoothie = CustomItemData.builder()
+                .name("cowberry_smoothie")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200838).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:potion", cowberry_smoothie);
+		
+		CustomItemData cranberry_juice = CustomItemData.builder()
+                .name("cranberry_juice")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200839).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:potion", cranberry_juice);
+		
+		CustomItemData cranberry_smoothie = CustomItemData.builder()
+                .name("cranberry_smoothie")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200840).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:potion", cranberry_smoothie);
+		
+		CustomItemData dragon_fruit_juice = CustomItemData.builder()
+                .name("dragon_fruit_juice")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200841).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:potion", dragon_fruit_juice);
+		
+		CustomItemData elderberry_juice = CustomItemData.builder()
+                .name("elderberry_juice")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200842).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:potion", elderberry_juice);
+		
+		CustomItemData elderberry_smoothie = CustomItemData.builder()
+                .name("elderberry_smoothie")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200843).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:potion", elderberry_smoothie);
+		
+		CustomItemData grape_juice = CustomItemData.builder()
+                .name("grape_juice")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200844).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:potion", grape_juice);
+		
+		CustomItemData grape_smoothie = CustomItemData.builder()
+                .name("grape_smoothie")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200845).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:potion", grape_smoothie);
+		
+		CustomItemData lemon_iced_tea = CustomItemData.builder()
+                .name("lemon_iced_tea")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200847).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:potion", lemon_iced_tea);
+		
+		CustomItemData lemon_juice = CustomItemData.builder()
+                .name("lemon_juice")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200848).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:potion", lemon_juice);
+		
+		CustomItemData lemonade = CustomItemData.builder()
+                .name("lemonade")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200849).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:potion", lemonade);
+		
+		CustomItemData lime_juice = CustomItemData.builder()
+                .name("lime_juice")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200850).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:potion", lime_juice);
+		
+		CustomItemData lime_smoothie = CustomItemData.builder()
+                .name("lime_smoothie")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200851).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:potion", lime_smoothie);
+		
+		CustomItemData oak_apple_juice = CustomItemData.builder()
+                .name("oak_apple_juice")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200852).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:potion", oak_apple_juice);
+		
+		CustomItemData orange_juice = CustomItemData.builder()
+                .name("orange_juice")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200853).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:potion", orange_juice);
+		
+		CustomItemData peach_iced_tea = CustomItemData.builder()
+                .name("peach_iced_tea")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200854).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:potion", peach_iced_tea);
+		
+		CustomItemData peach_juice = CustomItemData.builder()
+                .name("peach_juice")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200855).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:potion", peach_juice);
+		
+		CustomItemData pear_juice = CustomItemData.builder()
+                .name("pear_juice")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200856).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:potion", pear_juice);
+		
+		CustomItemData pineapple_juice = CustomItemData.builder()
+                .name("pineapple_juice")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200858).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:potion", pineapple_juice);
+		
+		CustomItemData pineapple_smoothie = CustomItemData.builder()
+                .name("pineapple_smoothie")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200859).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:potion", pineapple_smoothie);
+		
+		CustomItemData plum_juice = CustomItemData.builder()
+                .name("plum_juice")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200860).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:potion", plum_juice);
+		
+		CustomItemData pomegranate_juice = CustomItemData.builder()
+                .name("pomegranate_juice")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200861).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:potion", pomegranate_juice);
+		
+		CustomItemData raspberry_iced_tea = CustomItemData.builder()
+                .name("raspberry_iced_tea")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200862).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:potion", raspberry_iced_tea);
+		
+		CustomItemData raspberry_juice = CustomItemData.builder()
+                .name("raspberry_juice")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200863).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:potion", raspberry_juice);
+		
+		CustomItemData raspberry_smoothie = CustomItemData.builder()
+                .name("raspberry_smoothie")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200864).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:potion", raspberry_smoothie);
+		
+		CustomItemData strawberry_iced_tea = CustomItemData.builder()
+                .name(strawberry_iced_tea)
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200865).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:potion", strawberry_iced_tea);
+		
+		CustomItemData strawberry_juice = CustomItemData.builder()
+                .name("strawberry_juice")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200866).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:potion", strawberry_juice);
+		
+		CustomItemData strawberry_smoothie = CustomItemData.builder()
+                .name("strawberry_smoothie")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200867).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:potion", strawberry_smoothie);
+		
+		CustomItemData thai_tea = CustomItemData.builder()
+                .name("thai_tea")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200869).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:potion", thai_tea);
+		
+		CustomItemData tomato_juice = CustomItemData.builder()
+                .name("tomato_juice")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200870).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:potion", tomato_juice);
+		
+		CustomItemData wine = CustomItemData.builder()
+                .name("wine")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200871).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:potion", wine);
+		
 		//
 		// CHEST
 		//
@@ -840,6 +2167,74 @@ public class Slimefun implements Extension {
                 .textureSize(16)
                 .build();
         event.register("minecraft:comparator", menu);
+
+        //
+		// DAYLIGHT_DETECTOR
+		//
+		
+		CustomItemData solar_generator = CustomItemData.builder()
+                .name("solar_generator")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200346).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:daylight_detector", solar_generator);
+
+		CustomItemData advanced_solar_generator = CustomItemData.builder()
+                .name("advanced_solar_generator")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200347).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:daylight_detector", advanced_solar_generator);
+
+		CustomItemData carbonado_solar_generator = CustomItemData.builder()
+                .name("carbonado_solar_generator")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200348).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:daylight_detector", carbonado_solar_generator);
+
+		CustomItemData energized_solar_generator = CustomItemData.builder()
+                .name("energized_solar_generator")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200349).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:daylight_detector", energized_solar_generator);
+
+        //
+		// REDSTONE_TORCH
+		//
+		
+		CustomItemData gps_marker = CustomItemData.builder()
+                .name("gps_marker")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200392).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:redstone_torch", gps_marker);
+
+        //
+		// STONE_PRESSURE_PLATE
+		//
+		
+		CustomItemData gps_activation_device_shared = CustomItemData.builder()
+                .name("gps_activation_device_shared")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200463).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:stone_pressure_plate", gps_activation_device_shared);
+
+		CustomItemData gps_activation_device_personal = CustomItemData.builder()
+                .name("gps_activation_device_personal")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200464).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:stone_pressure_plate", gps_activation_device_personal);
+
+		CustomItemData elevator_plate = CustomItemData.builder()
+                .name("elevator_plate")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200470).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:stone_pressure_plate", elevator_plate);
 
         //
 		// HOPPER
@@ -869,6 +2264,13 @@ public class Slimefun implements Extension {
                 .textureSize(32)
                 .build();
         event.register("minecraft:crafting_table", magic_workbench);
+
+		CustomItemData charging_bench = CustomItemData.builder()
+                .name("charging_bench")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200350).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:crafting_table", charging_bench);
 
         //
 		// DISPENSER
@@ -1047,6 +2449,69 @@ public class Slimefun implements Extension {
                 .textureSize(32)
                 .build();
         event.register("minecraft:furnace", carbonado_edged_furnace);
+
+		CustomItemData electric_furnace_i = CustomItemData.builder()
+                .name("electric_furnace_i")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200351).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:furnace", electric_furnace_i);
+
+		CustomItemData electric_furnace_ii = CustomItemData.builder()
+                .name("electric_furnace_ii")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200352).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:furnace", electric_furnace_ii);
+
+		CustomItemData electric_furnace_iii = CustomItemData.builder()
+                .name("electric_furnace_iii")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200353).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:furnace", electric_furnace_iii);
+
+		CustomItemData electric_ore_grinder_i = CustomItemData.builder()
+                .name("electric_ore_grinder_i")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200366).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:furnace", electric_ore_grinder_i);
+
+		CustomItemData electric_ore_grinder_ii = CustomItemData.builder()
+                .name("electric_ore_grinder_ii")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200367).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:furnace", electric_ore_grinder_ii);
+
+		CustomItemData electric_ingot_pulverizer = CustomItemData.builder()
+                .name("electric_ingot_pulverizer")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200370).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:furnace", electric_ingot_pulverizer);
+
+		CustomItemData electric_smeltery_i = CustomItemData.builder()
+                .name("electric_smeltery_i")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200523).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:furnace", electric_smeltery_i);
+
+		CustomItemData electric_smeltery_ii = CustomItemData.builder()
+                .name("electric_smeltery_ii")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200524).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:furnace", electric_smeltery_ii);
+
+		CustomItemData electric_ore_grinder_iii = CustomItemData.builder()
+                .name("electric_ore_grinder_iii")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200528).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:furnace", electric_ore_grinder_iii);
 
         //
 		// CAULDRON
@@ -1273,7 +2738,7 @@ public class Slimefun implements Extension {
                 .textureSize(16)
                 .build();
         event.register("minecraft:diamond_hoe", soulbound_hoe);
-				
+		
 		//
 		// IRON_INGOT
 		//
@@ -1391,6 +2856,17 @@ public class Slimefun implements Extension {
         event.register("minecraft:iron_ingot", magnesium_ingot);
 		
         //
+		// IRON_BLOCK
+		//
+		
+		CustomItemData teleporter_matrix = CustomItemData.builder()
+                .name("teleporter_matrix")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200462).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:iron_block", teleporter_matrix);
+		
+		//
 		// GOLD_INGOT
 		//
 		
@@ -2368,6 +3844,95 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:ender_eye", magic_eye_of_ender);
 		
+		//
+		// RED_TERRACOTTA
+        //
+		
+		CustomItemData electric_ingot_factory_i = CustomItemData.builder()
+                .name(electric_ingot_factory_i)
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200360).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:red_terracotta", electric_ingot_factory_i);
+		
+		CustomItemData electric_ingot_factory_ii = CustomItemData.builder()
+                .name("electric_ingot_factory_ii")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200361).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:red_terracotta", electric_ingot_factory_ii);
+		
+		CustomItemData electric_ingot_factory_iii = CustomItemData.builder()
+                .name("electric_ingot_factory_iii")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200362).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:red_terracotta", electric_ingot_factory_iii);
+		
+		CustomItemData electrified_crucible_i = CustomItemData.builder()
+                .name("electrified_crucible_i")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200363).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:red_terracotta", electrified_crucible_i);
+		
+		CustomItemData electrified_crucible_ii = CustomItemData.builder()
+                .name("electrified_crucible_ii")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200364).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:red_terracotta", electrified_crucible_ii);
+		
+		CustomItemData electrified_crucible_iii = CustomItemData.builder()
+                .name("electrified_crucible_iii")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200365).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:red_terracotta", electrified_crucible_iii);
+		
+		//
+        // BROWN_TERRACOTTA
+        //
+		
+		CustomItemData electric_gold_pan_i = CustomItemData.builder()
+                .name("electric_gold_pan_i")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200354).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:brown_terracotta", electric_gold_pan_i);
+		
+		CustomItemData electric_gold_pan_ii = CustomItemData.builder()
+                .name("electric_gold_pan_ii")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200355).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:brown_terracotta", electric_gold_pan_ii);
+		
+		CustomItemData electric_gold_pan_iii = CustomItemData.builder()
+                .name("electric_gold_pan_iii")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200356).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:brown_terracotta", electric_gold_pan_iii);
+		
+		CustomItemData tree_growth_accelerator = CustomItemData.builder()
+                .name("tree_growth_accelerator")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200485).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:brown_terracotta", tree_growth_accelerator);
+		
+		//
+		// PURPLE_STAINED_GLASS
+        //
+		
+		CustomItemData teleporter_pylon = CustomItemData.builder()
+                .name("teleporter_pylon")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200461).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:purple_stained_glass", teleporter_pylon);
+				
 		//
         // LIME_STAINED_GLASS_PANE
         //
