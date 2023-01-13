@@ -493,50 +493,50 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:player_head", gps_transmitter_advanced);
 		
-		CustomItemData gps_transmitter_carbonado = CustomItemData.builder()
-                .name(gps_transmitter_carbonado)
+                CustomItemData gps_transmitter_carbonado = CustomItemData.builder()
+                .name("gps_transmitter_carbonado")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200389).build())
                 .textureSize(16)
                 .build();
         event.register("minecraft:player_head", gps_transmitter_carbonado);
 		
 		CustomItemData gps_transmitter_energized = CustomItemData.builder()
-                .name(gps_transmitter_energized)
+                .name("gps_transmitter_energized")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200390).build())
                 .textureSize(16)
                 .build();
         event.register("minecraft:player_head", gps_transmitter_energized);
 		
 		CustomItemData gps_control_panel = CustomItemData.builder()
-                .name(gps_control_panel)
+                .name("gps_control_panel")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200391).build())
                 .textureSize(16)
                 .build();
         event.register("minecraft:player_head", gps_control_panel);
 		
 		CustomItemData gps_emergency_transmitter = CustomItemData.builder()
-                .name(gps_emergency_transmitter)
+                .name("gps_emergency_transmitter")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200393).build())
                 .textureSize(16)
                 .build();
         event.register("minecraft:player_head", gps_emergency_transmitter);
 		
 		CustomItemData gps_geo_scanner = CustomItemData.builder()
-                .name(gps_geo_scanner)
+                .name("gps_geo_scanner")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200450).build())
                 .textureSize(16)
                 .build();
         event.register("minecraft:player_head", gps_geo_scanner);
 		
 		CustomItemData oil_pump = CustomItemData.builder()
-                .name(oil_pump)
+                .name("oil_pump")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200452).build())
                 .textureSize(16)
                 .build();
         event.register("minecraft:player_head", oil_pump);
 		
 		CustomItemData geo_miner = CustomItemData.builder()
-                .name(geo_miner)
+                .name("geo_miner")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200453).build())
                 .textureSize(16)
                 .build();
@@ -2105,7 +2105,7 @@ public class Slimefun implements Extension {
         event.register("minecraft:potion", raspberry_smoothie);
 		
 		CustomItemData strawberry_iced_tea = CustomItemData.builder()
-                .name(strawberry_iced_tea)
+                .name("strawberry_iced_tea")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200865).build())
                 .textureSize(16)
                 .build();
@@ -3404,13 +3404,7 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:gunpowder", lead_dust);
 		
-		CustomItemData zinc_dust = CustomItemData.builder()
-                .name("zinc_dust")
-                .customItemOptions(CustomItemOptions.builder().customModelData(2200103).build())
-                .textureSize(32)
-                .build();
-        event.register("minecraft:gunpowder", zinc_dust);
-		
+
 		CustomItemData crushed_ore = CustomItemData.builder()
                 .name("crushed_ore")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200211).build())
@@ -3849,7 +3843,7 @@ public class Slimefun implements Extension {
         //
 		
 		CustomItemData electric_ingot_factory_i = CustomItemData.builder()
-                .name(electric_ingot_factory_i)
+                .name("electric_ingot_factory_i")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200360).build())
                 .textureSize(16)
                 .build();
@@ -3991,13 +3985,7 @@ public class Slimefun implements Extension {
                 //
                 //
 		
-		CustomItemData BASE = CustomItemData.builder()
-                .name("BASE")
-                .customItemOptions(CustomItemOptions.builder().customModelData(0000000).build())
-                .textureSize(16)
-                .build();
-        event.register("minecraft:air", BASE);
-		
+	
 		
     }
 }
