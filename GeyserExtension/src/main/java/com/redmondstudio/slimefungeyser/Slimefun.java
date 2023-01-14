@@ -3928,7 +3928,7 @@ public class Slimefun implements Extension {
         event.register("minecraft:purple_stained_glass", teleporter_pylon);
 				
 		//
-        // lime_stained_glass_pane
+        // LIME_STAINED_GLASS_PANE
         //
 		
 		CustomItemData previous_on = CustomItemData.builder()
