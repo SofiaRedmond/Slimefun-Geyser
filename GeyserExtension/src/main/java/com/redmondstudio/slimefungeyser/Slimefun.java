@@ -2310,10 +2310,10 @@ public class Slimefun implements Extension {
 		
 		CustomItemData search = CustomItemData.builder()
                 .name("search")
-                .customItemOptions(CustomItemOptions.builder().customModelData(2200027).build())
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200005).build())
                 .textureSize(32)
                 .build();
-        event.register("minecraft:anvil", search);
+        event.register("minecraft:name_tag", search);
 
         //
 		// ANVIL
@@ -3928,7 +3928,7 @@ public class Slimefun implements Extension {
         event.register("minecraft:purple_stained_glass", teleporter_pylon);
 				
 		//
-        // LIME_STAINED_GLASS_PANE
+        // lime_stained_glass_pane
         //
 		
 		CustomItemData previous_on = CustomItemData.builder()
