@@ -521,6 +521,97 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:player_head", gps_emergency_transmitter);
 		
+		CustomItemData normal1 = CustomItemData.builder()
+                .name("normal1")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200396).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", normal1);
+		
+		CustomItemData miner = CustomItemData.builder()
+                .name("miner")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200397).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", miner);
+		
+		CustomItemData farmer1 = CustomItemData.builder()
+                .name("farmer1")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200398).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", farmer1);
+		
+		CustomItemData woodcutter = CustomItemData.builder()
+                .name("woodcutter")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200399).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", woodcutter);
+		
+		CustomItemData fisherman1 = CustomItemData.builder()
+                .name("fisherman1")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200400).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", fisherman1);
+		
+		CustomItemData butcher1 = CustomItemData.builder()
+                .name("butcher1")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200401).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", butcher1);
+		
+		CustomItemData normal2 = CustomItemData.builder()
+                .name("normal2")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200402).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", normal2);
+		
+		CustomItemData fisherman2 = CustomItemData.builder()
+                .name("fisherman2")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200403).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", fisherman2);
+		
+		CustomItemData butcher2 = CustomItemData.builder()
+                .name("butcher2")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200404).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", butcher2);
+		
+		CustomItemData farmer2 = CustomItemData.builder()
+                .name("farmer2")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200405).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", farmer2);
+		
+		CustomItemData normal3 = CustomItemData.builder()
+                .name("normal3")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200406).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", normal3);
+		
+		CustomItemData fisherman3 = CustomItemData.builder()
+                .name("fisherman3")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200407).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", fisherman3);
+		
+		CustomItemData butcher3 = CustomItemData.builder()
+                .name("butcher3")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200408).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", butcher3);
+		
 		CustomItemData gps_geo_scanner = CustomItemData.builder()
                 .name("gps_geo_scanner")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200450).build())
@@ -2276,6 +2367,13 @@ public class Slimefun implements Extension {
 		// DISPENSER
 		//
 		
+		CustomItemData grind_stone = CustomItemData.builder()
+                .name("grind_stone")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200026).build())
+                .textureSize(32)
+                .build();
+        event.register("minecraft:dispenser", grind_stone);
+		
 		CustomItemData ore_crusher = CustomItemData.builder()
                 .name("ore_crusher")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200028).build())
@@ -2304,6 +2402,20 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:dispenser", ancient_pedestal);
 
+		CustomItemData interface_items = CustomItemData.builder()
+                .name("interface_items")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200394).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:dispenser", interface_items);
+
+		CustomItemData interface_fuel = CustomItemData.builder()
+                .name("interface_fuel")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200395).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:dispenser", interface_fuel);
+
 		//
 		// NAME_TAG
 		//
@@ -2313,7 +2425,7 @@ public class Slimefun implements Extension {
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200027).build())
                 .textureSize(32)
                 .build();
-        event.register("minecraft:anvil", search);
+        event.register("minecraft:name_tag", search);
 
         //
 		// ANVIL
@@ -2325,6 +2437,222 @@ public class Slimefun implements Extension {
                 .textureSize(32)
                 .build();
         event.register("minecraft:anvil", armor_forge);
+
+        //
+		// LEATHER_HELMET
+		//
+		
+		CustomItemData cactus_helmet = CustomItemData.builder()
+                .name("cactus_helmet")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200073).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:leather_helmet", cactus_helmet);
+
+		CustomItemData scuba_helmet = CustomItemData.builder()
+                .name("scuba_helmet")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200207).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:leather_helmet", scuba_helmet);
+
+        //
+		// LEATHER_CHESTPLATE
+		//
+		
+		CustomItemData cactus_chestplate = CustomItemData.builder()
+                .name("cactus_chestplate")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200074).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:leather_chestplate", cactus_chestplate);
+
+		CustomItemData hazmat_chestplate = CustomItemData.builder()
+                .name("hazmat_chestplate")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200208).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:leather_chestplate", hazmat_chestplate);
+
+        //
+		// LEATHER_LEGGINGS
+		//
+		
+		CustomItemData cactus_leggings = CustomItemData.builder()
+                .name("cactus_leggings")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200075).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:leather_leggings", cactus_leggings);
+
+		CustomItemData hazmat_leggings = CustomItemData.builder()
+                .name("hazmat_leggings")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200209).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:leather_leggings", hazmat_leggings);
+
+        //
+		// LEATHER_BOOTS
+		//
+		
+		CustomItemData cactus_boots = CustomItemData.builder()
+                .name("cactus_boots")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200076).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:leather_boots", cactus_boots);
+
+		CustomItemData rubber_boots = CustomItemData.builder()
+                .name("rubber_boots")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200210).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:leather_boots", rubber_boots);
+
+        //
+		// GOLDEN_HELMET
+		//
+		
+		CustomItemData gilded_iron_helmet = CustomItemData.builder()
+                .name("gilded_iron_helmet")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200202).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:golden_helmet", gilded_iron_helmet);
+
+		CustomItemData gold_12k_helmet = CustomItemData.builder()
+                .name("gold_12k_helmet")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200218).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:golden_helmet", gold_12k_helmet);
+
+        //
+		// GOLDEN_CHESTPLATE
+		//
+		
+		CustomItemData gilded_iron_chestplate = CustomItemData.builder()
+                .name("gilded_iron_chestplate")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200203).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:golden_chestplate", gilded_iron_chestplate);
+
+		CustomItemData gold_12k_chestplate = CustomItemData.builder()
+                .name("gold_12k_chestplate")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200219).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:golden_chestplate", gold_12k_chestplate);
+
+        //
+		// GOLDEN_LEGGINGS
+		//
+		
+		CustomItemData gilded_iron_leggings = CustomItemData.builder()
+                .name("gilded_iron_leggings")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200204).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:golden_leggings", gilded_iron_leggings);
+
+		CustomItemData gold_12k_leggings = CustomItemData.builder()
+                .name("gold_12k_leggings")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200220).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:golden_leggings", gold_12k_leggings);
+
+        //
+		// GOLDEN_BOOTS
+		//
+		
+		CustomItemData gilded_iron_boots = CustomItemData.builder()
+                .name("gilded_iron_boots")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200205).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:golden_boots", gilded_iron_boots);
+
+		CustomItemData gold_12k_boots = CustomItemData.builder()
+                .name("gold_12k_boots")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200221).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:golden_boots", gold_12k_boots);
+
+        //
+		// IRON_HELMET
+		//
+		
+		CustomItemData damascus_steel_helmet = CustomItemData.builder()
+                .name("damascus_steel_helmet")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200065).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:iron_helmet", damascus_steel_helmet);
+
+		CustomItemData reinforced_helmet = CustomItemData.builder()
+                .name("reinforced_helmet")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200069).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:iron_helmet", reinforced_helmet);
+
+        //
+		// IRON_CHESTPLATE
+		//
+		
+		CustomItemData damascus_steel_chestplate = CustomItemData.builder()
+                .name("damascus_steel_chestplate")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200066).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:iron_chestplate", damascus_steel_chestplate);
+
+		CustomItemData reinforced_chestplate = CustomItemData.builder()
+                .name("reinforced_chestplate")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200070).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:iron_chestplate", reinforced_chestplate);
+
+        //
+		// IRON_LEGGINGS
+		//
+		
+		CustomItemData damascus_steel_leggings = CustomItemData.builder()
+                .name("damascus_steel_leggings")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200067).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:iron_leggings", damascus_steel_leggings);
+
+		CustomItemData reinforced_leggings = CustomItemData.builder()
+                .name("reinforced_leggings")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200071).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:iron_leggings", reinforced_leggings);
+
+        //
+		// IRON_BOOTS
+		//
+		
+		CustomItemData damascus_steel_boots = CustomItemData.builder()
+                .name("damascus_steel_boots")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200068).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:iron_boots", damascus_steel_boots);
+
+		CustomItemData reinforced_boots = CustomItemData.builder()
+                .name("reinforced_boots")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200072).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:iron_boots", reinforced_boots);
 
         //
 		// PISTON
@@ -2553,7 +2881,7 @@ public class Slimefun implements Extension {
 		// BOWL
 		//
 	
-                CustomItemData gold_pan = CustomItemData.builder()
+        CustomItemData gold_pan = CustomItemData.builder()
                 .name("gold_pan")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200053).build())
                 .textureSize(32)
@@ -2567,7 +2895,7 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:bowl", nether_gold_pan);
 
-                CustomItemData automated_panning_machine = CustomItemData.builder()
+        CustomItemData automated_panning_machine = CustomItemData.builder()
                 .name("automated_panning_machine")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200243).build())
                 .textureSize(32)
@@ -2589,14 +2917,14 @@ public class Slimefun implements Extension {
 		// DIAMOND_PICKAXE
 		//
 
-                CustomItemData smelters_pickaxe = CustomItemData.builder()
+        CustomItemData smelters_pickaxe = CustomItemData.builder()
                 .name("smelters_pickaxe")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200163).build())
                 .textureSize(16)
                 .build();
         event.register("minecraft:diamond_pickaxe", smelters_pickaxe);
 
-                CustomItemData explosive_pickaxe = CustomItemData.builder()
+        CustomItemData explosive_pickaxe = CustomItemData.builder()
                 .name("explosive_pickaxe")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200241).build())
                 .textureSize(16)
@@ -2624,7 +2952,7 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:diamond_pickaxe", pickaxe_of_vein_mining);
 
-                CustomItemData soulbound_pickaxe = CustomItemData.builder()
+        CustomItemData soulbound_pickaxe = CustomItemData.builder()
                 .name("soulbound_pickaxe")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200275).build())
                 .textureSize(16)
