@@ -1,16 +1,16 @@
 # Slimefun-Geyser
 
 ## ⚠ WARNING ⚠
-## DUE TO SOME CHANGES ON THE LATEST VERSIONS OF GEYSERMC, THIS MAPPINGS NO LONGER WORKS AS EXPECTED, MAKING ME TO NEST ALL MAPPINGS INTO A EXTENSION, PLEASE BE PATIENT WHILE THE EXTENSION IS MADED.
+## DUE TO SOME CHANGES ON THE LATEST VERSIONS OF GEYSERMC, THE MAPPINGS NO LONGER WORKS AS EXPECTED, FORCING ME TO NEST ALL MAPPINGS INTO A EXTENSION, PLEASE BE PATIENT WHILE THE EXTENSION IS BEING MADE.
 
-All mappings will still present for older versions of Geyser.
+All mappings are still present for older versions of Geyser.
 
 
-~~Customs Mappings~~ Extension of Slimefun for GeyserMC servers (include resource pack for bedrock clients), this project use [this resource pack](https://github.com/xMikux/Slimefun-Resourcepack) as base.
+~~Customs Mappings~~ Extension of Slimefun for GeyserMC servers (includes resource pack for bedrock clients), this project use [this resource pack](https://github.com/xMikux/Slimefun-Resourcepack) as base.
 
 ### To-do list:
-- [ ] Texturice all items.
-- [x] Customice the guide GUI.
+- [ ] Texturize all items.
+- [x] Customize the guide GUI.
 - [ ] ~~Unnest the mappings.~~ Nest the mappings
 - [x] Make things easier to understand.
 - [x] Learn how to speak english.
