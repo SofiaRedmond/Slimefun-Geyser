@@ -5,6 +5,9 @@
 
 All mappings are still present for older versions of Geyser.
 
+###⚠Notice⚠:
+###Due to economic problems I no longer have a server to test the extension, if you want to help me by providing me with a server where I can test this extension and continue with its development, let me know.
+
 
 ~~Customs Mappings~~ Extension of Slimefun for GeyserMC servers (includes resource pack for bedrock clients), this project use [this resource pack](https://github.com/xMikux/Slimefun-Resourcepack) as base.
 
