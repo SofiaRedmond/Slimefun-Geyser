@@ -2672,6 +2672,21 @@
 				"textures/items/energia&electricidad/electrified_crucible_iii"
 			]
 		},
+		"carbon_press": {
+			"textures": [
+				"textures/items/energia&electricidad/carbon_press"
+			]
+		},
+		"carbon_press_2": {
+			"textures": [
+				"textures/items/energia&electricidad/carbon_press_2"
+			]
+		},
+		"carbon_press_3": {
+			"textures": [
+				"textures/items/energia&electricidad/carbon_press_3"
+			]
+		},
 		"damascus_steel_helmet": {
 			"textures": [
 				"textures/items/armaduras/damascus_armor/damascus_steel_helmet"
