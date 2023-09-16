@@ -1,0 +1,104 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:bowl": [
+			{
+				"name": "gold_pan",
+				"custom_model_data": 2200053,
+				"texture_size": 16
+			},
+			{
+				"name": "nether_gold_pan",
+				"custom_model_data": 2200054,
+				"texture_size": 16
+			}
+		],
+		"minecraft:lead": [
+			{
+				"name": "grappling_hook",
+				"custom_model_data": 2200131,
+				"texture_size": 16
+			}
+		],
+		"minecraft:diamond_pickaxe": [
+			{
+				"name": "smelters_pickaxe",
+				"custom_model_data": 2200163,
+				"texture_size": 16
+			},
+			{
+				"name": "explosive_pickaxe",
+				"custom_model_data": 2200241,
+				"texture_size": 16
+			},
+			{
+				"name": "pickaxe_of_the_seeker",
+				"custom_model_data": 2200247,
+				"texture_size": 16
+			},
+			{
+				"name": "soulbound_pickaxe",
+				"custom_model_data": 2200275,
+				"texture_size": 16
+			},
+			{
+				"name": "pickaxe_of_vein_mining",
+				"custom_model_data": 2200271,
+				"texture_size": 16
+			}
+		],
+		"minecraft:diamond_axe": [
+			{
+				"name": "lumber_axe",
+				"custom_model_data": 2200197,
+				"texture_size": 16
+			},
+			{
+				"name": "soulbound_axe",
+				"custom_model_data": 2200276,
+				"texture_size": 16
+			}
+		],
+		"minecraft:iron_pickaxe": [
+			{
+				"name": "pickaxe_of_containment",
+				"custom_model_data": 2200230,
+				"texture_size": 16
+			},
+			{
+				"name": "hercules_pickaxe",
+				"custom_model_data": 2200231,
+				"texture_size": 16
+			},
+			{
+				"name": "cobalt_pickaxe",
+				"custom_model_data": 2200258,
+				"texture_size": 16
+			},
+			{
+				"name": "climbing_pick",
+				"custom_model_data": 2200882,
+				"texture_size": 16
+			}
+		],
+		"minecraft:diamond_shovel": [
+			{
+				"name": "explosive_shovel",
+				"custom_model_data": 2200242,
+				"texture_size": 16
+			},
+			{
+				"name": "soulbound_shovel",
+				"custom_model_data": 2200277,
+				"texture_size": 16
+			}
+		],
+		"minecraft:diamond_hoe": [
+			{
+				"name": "soulbound_hoe",
+				"custom_model_data": 2200278,
+				"texture_size": 16
+			}
+		]
+	}
+}

@@ -1,0 +1,191 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:chest": [
+			{
+				"name": "output_chest",
+				"custom_model_data": 2200016,
+				"texture_size": 32
+			}
+		],
+		"minecraft:crafting_table": [
+			{
+				"name": "enhanced_crafting_table",
+				"custom_model_data": 2200017,
+				"texture_size": 32
+			},
+			{
+				"name": "magic_workbench",
+				"custom_model_data": 2200132,
+				"texture_size": 32
+			}
+		],
+		"minecraft:dispenser": [
+			{
+				"name": "grind_stone",
+				"custom_model_data": 2200026,
+				"texture_size": 32
+			},
+			{
+				"name": "ore_crusher",
+				"custom_model_data": 2200028,
+				"texture_size": 32
+			},
+			{
+				"name": "automatic_ignition_chamber",
+				"custom_model_data": 2200058,
+				"texture_size": 32
+			},
+			{
+				"name": "block_placer",
+				"custom_model_data": 2200309,
+				"texture_size": 32
+			}
+		],
+		"minecraft:anvil": [
+			{
+				"name": "armor_forge",
+				"custom_model_data": 2200027,
+				"texture_size": 32
+			}
+		],
+		"minecraft:piston": [
+			{
+				"name": "compressor",
+				"custom_model_data": 2200029,
+				"texture_size": 32
+			}
+		],
+		"minecraft:blast_furnace": [
+			{
+				"name": "makeshift_smeltery",
+				"custom_model_data": 2200056,
+				"texture_size": 32
+			}
+		],
+		"minecraft:furnace": [
+			{
+				"name": "smeltery",
+				"custom_model_data": 2200057,
+				"texture_size": 32
+			},
+			{
+				"name": "enhanced_furnace",
+				"custom_model_data": 2200292,
+				"texture_size": 32
+			},
+			{
+				"name": "enhanced_furnace_2",
+				"custom_model_data": 2200293,
+				"texture_size": 32
+			},
+			{
+				"name": "enhanced_furnace_3",
+				"custom_model_data": 2200294,
+				"texture_size": 32
+			},
+			{
+				"name": "enhanced_furnace_4",
+				"custom_model_data": 2200295,
+				"texture_size": 32
+			},
+			{
+				"name": "enhanced_furnace_5",
+				"custom_model_data": 2200296,
+				"texture_size": 32
+			},
+			{
+				"name": "enhanced_furnace_6",
+				"custom_model_data": 2200297,
+				"texture_size": 32
+			},
+			{
+				"name": "enhanced_furnace_7",
+				"custom_model_data": 2200298,
+				"texture_size": 32
+			},
+			{
+				"name": "enhanced_furnace_8",
+				"custom_model_data": 2200299,
+				"texture_size": 32
+			},
+			{
+				"name": "enhanced_furnace_9",
+				"custom_model_data": 2200300,
+				"texture_size": 32
+			},
+			{
+				"name": "enhanced_furnace_10",
+				"custom_model_data": 2200301,
+				"texture_size": 32
+			},
+			{
+				"name": "enhanced_furnace_11",
+				"custom_model_data": 2200302,
+				"texture_size": 32
+			},
+			{
+				"name": "reinforced_furnace",
+				"custom_model_data": 2200303,
+				"texture_size": 32
+			},
+			{
+				"name": "carbonado_edged_furnace",
+				"custom_model_data": 2200304,
+				"texture_size": 32
+			}
+		],
+		"minecraft:cauldron": [
+			{
+				"name": "ore_washer",
+				"custom_model_data": 2200143,
+				"texture_size": 32
+			},
+			{
+				"name": "composter",
+				"custom_model_data": 2200239,
+				"texture_size": 32
+			},
+			{
+				"name": "crucible",
+				"custom_model_data": 2200252,
+				"texture_size": 32
+			}
+		],
+		"minecraft:stonecutter": [
+			{
+				"name": "table_saw",
+				"custom_model_data": 2200232,
+				"texture_size": 32
+			}
+		],
+		"minecraft:bowl": [
+			{
+				"name": "automated_panning_machine",
+				"custom_model_data": 2200243,
+				"texture_size": 32
+			}
+		],
+		"minecraft:golden_pickaxe": [
+			{
+				"name": "industrial_miner",
+				"custom_model_data": 2200244,
+				"texture_size": 32
+			}
+		],
+		"minecraft:diamond_pickaxe": [
+			{
+				"name": "advanced_industrial_miner",
+				"custom_model_data": 2200245,
+				"texture_size": 32
+			}
+		],
+		"minecraft:glass_bottle": [
+			{
+				"name": "juicer",
+				"custom_model_data": 2200283,
+				"texture_size": 32
+			}
+		]
+	}
+}

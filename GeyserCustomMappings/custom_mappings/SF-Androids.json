@@ -1,0 +1,84 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:dispenser": [
+			{
+				"name": "interface_items",
+				"custom_model_data": 2200394,
+				"texture_size": 16
+			},
+			{
+				"name": "interface_fuel",
+				"custom_model_data": 2200395,
+				"texture_size": 16
+			}
+		],
+		"minecraft:player_head": [
+			{
+				"name": "normal1",
+				"custom_model_data": 2200396,
+				"texture_size": 16
+			},
+			{
+				"name": "miner",
+				"custom_model_data": 2200397,
+				"texture_size": 16
+			},
+			{
+				"name": "farmer1",
+				"custom_model_data": 2200398,
+				"texture_size": 16
+			},
+			{
+				"name": "woodcutter",
+				"custom_model_data": 2200399,
+				"texture_size": 16
+			},
+			{
+				"name": "fisherman1",
+				"custom_model_data": 2200400,
+				"texture_size": 16
+			},
+			{
+				"name": "butcher1",
+				"custom_model_data": 2200401,
+				"texture_size": 16
+			},
+			{
+				"name": "normal2",
+				"custom_model_data": 2200402,
+				"texture_size": 16
+			},
+			{
+				"name": "fisherman2",
+				"custom_model_data": 2200403,
+				"texture_size": 16
+			},
+			{
+				"name": "butcher2",
+				"custom_model_data": 2200404,
+				"texture_size": 16
+			},
+			{
+				"name": "farmer2",
+				"custom_model_data": 2200405,
+				"texture_size": 16
+			},
+			{
+				"name": "normal3",
+				"custom_model_data": 2200406,
+				"texture_size": 16
+			},
+			{
+				"name": "fisherman3",
+				"custom_model_data": 2200407,
+				"texture_size": 16
+			},
+			{
+				"name": "butcher3",
+				"custom_model_data": 2200408,
+				"texture_size": 16
+			}
+		]
+	}
+}
