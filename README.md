@@ -1,15 +1,13 @@
 # Slimefun-Geyser
 
-## ⚠ WARNING ⚠
-## DUE TO SOME CHANGES ON THE LATEST VERSIONS OF GEYSERMC, THE MAPPINGS NO LONGER WORKS AS EXPECTED, FORCING ME TO NEST ALL MAPPINGS INTO A EXTENSION, PLEASE BE PATIENT WHILE THE EXTENSION IS BEING MADE.
+![](https://img.shields.io/github/stars/SofiaRedmond/Slimefun-Geyser)
+![](https://img.shields.io/github/forks/SofiaRedmond/Slimefun-Geyser) 
+![](https://img.shields.io/github/v/release/SofiaRedmond/Slimefun-Geyser?include_prereleases)
+![](https://img.shields.io/github/issues/SofiaRedmond/Slimefun-Geyser)
 
-All mappings are still present for older versions of Geyser.
+---
 
-### ⚠Notice⚠:
-### Due to economic problems I no longer have a server to test the extension, if you want to help me by providing me with a server where I can test this extension and continue with its development, let me know.
-
-
-~~Customs Mappings~~ Extension of Slimefun for GeyserMC servers (includes resource pack for bedrock clients), this project use [this resource pack](https://github.com/xMikux/Slimefun-Resourcepack) as base.
+GeyserMC extension of Slimefun (includes resource pack for bedrock clients), this project use [this resource pack](https://github.com/xMikux/Slimefun-Resourcepack) as base.
 
 ### To-do list:
 - [ ] Texturize all items.
@@ -19,7 +17,17 @@ All mappings are still present for older versions of Geyser.
 - [x] Learn how to speak english.
 - [ ] Translate the file names.
 
-## SCREENSHOTS
+---
+
+### Help Needed?
+
+Let's chat on Telegram:
+
+(soon..)
+
+---
+
+### SCREENSHOTS
 ✅ = **Mapping completely nested into the extension.**
 ### Principal (unfinished)
 ![image](https://user-images.githubusercontent.com/86848962/178095545-d5d8d506-cc42-402d-8944-07aa3f10c4dc.png)
@@ -66,4 +74,3 @@ All mappings are still present for older versions of Geyser.
 ### Talisman Tier II
 ![5118693263065328064_121](https://user-images.githubusercontent.com/86848962/164436793-25818f76-2138-4be5-9a57-89724a5934f5.jpg)
 ---
-
