@@ -1,0 +1,104 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:activator_rail": [
+			{
+				"name": "basic_circuit_board",
+				"custom_model_data": 2200051,
+				"texture_size": 16
+			}
+		],
+		"minecraft:powered_rail": [
+			{
+				"name": "advanced_circuit_board",
+				"custom_model_data": 2200052,
+				"texture_size": 16
+			}
+		],
+		"minecraft:player_head": [
+			{
+				"name": "battery",
+				"custom_model_data": 2200060,
+				"texture_size": 16
+			},
+			{
+				"name": "power_crystal",
+				"custom_model_data": 2200119,
+				"texture_size": 16
+			},
+			{
+				"name": "magnet",
+				"custom_model_data": 2200256,
+				"texture_size": 16
+			},
+			{
+				"name": "electromagnet",
+				"custom_model_data": 2200305,
+				"texture_size": 16
+			},
+			{
+				"name": "electric_motor",
+				"custom_model_data": 2200306,
+				"texture_size": 16
+			},
+			{
+				"name": "heating_coil",
+				"custom_model_data": 2200307,
+				"texture_size": 16
+			},
+			{
+				"name": "cooling_unit",
+				"custom_model_data": 2200334,
+				"texture_size": 16
+			},
+			{
+				"name": "android_memory_core",
+				"custom_model_data": 2200386,
+				"texture_size": 16
+			},
+			{
+				"name": "reactor_coolant_cell",
+				"custom_model_data": 2200503,
+				"texture_size": 16
+			},
+			{
+				"name": "nether_ice_coolant_cell",
+				"custom_model_data": 2200504,
+				"texture_size": 16
+			}
+		],
+		"minecraft:bucket": [
+			{
+				"name": "steel_thruster",
+				"custom_model_data": 2200118,
+				"texture_size": 16
+			}
+		],
+		"minecraft:paper": [
+			{
+				"name": "reinforced_cloth",
+				"custom_model_data": 2200206,
+				"texture_size": 16
+			},
+			{
+				"name": "plastic_sheet",
+				"custom_model_data": 2200385,
+				"texture_size": 16
+			}
+		],
+		"minecraft:string": [
+			{
+				"name": "copper_wire",
+				"custom_model_data": 2200308,
+				"texture_size": 16
+			}
+		],
+		"minecraft:obsidian": [
+			{
+				"name": "wither_proof_obsidian",
+				"custom_model_data": 2200336,
+				"texture_size": 16
+			}
+		]
+	}
+}

@@ -1,0 +1,219 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:potion": [
+			{
+				"name": "grape_juice",
+				"custom_model_data": 2200844,
+				"texture_size": 16
+			},
+			{
+				"name": "grape_smoothie",
+				"custom_model_data": 2200845,
+				"texture_size": 16
+			},
+			{
+				"name": "blueberry_juice",
+				"custom_model_data": 2200832,
+				"texture_size": 16
+			},
+			{
+				"name": "blueberry_smoothie",
+				"custom_model_data": 2200833,
+				"texture_size": 16
+			},
+			{
+				"name": "elderberry_juice",
+				"custom_model_data": 2200842,
+				"texture_size": 16
+			},
+			{
+				"name": "elderberry_smoothie",
+				"custom_model_data": 2200843,
+				"texture_size": 16
+			},
+			{
+				"name": "raspberry_juice",
+				"custom_model_data": 2200863,
+				"texture_size": 16
+			},
+			{
+				"name": "raspberry_smoothie",
+				"custom_model_data": 2200864,
+				"texture_size": 16
+			},
+			{
+				"name": "blackberry_juice",
+				"custom_model_data": 2200830,
+				"texture_size": 16
+			},
+			{
+				"name": "blackberry_smoothie",
+				"custom_model_data": 2200831,
+				"texture_size": 16
+			},
+			{
+				"name": "cranberry_juice",
+				"custom_model_data": 2200839,
+				"texture_size": 16
+			},
+			{
+				"name": "cranberry_smoothie",
+				"custom_model_data": 2200840,
+				"texture_size": 16
+			},
+			{
+				"name": "cowberry_juice",
+				"custom_model_data": 2200837,
+				"texture_size": 16
+			},
+			{
+				"name": "cowberry_smoothie",
+				"custom_model_data": 2200838,
+				"texture_size": 16
+			},
+			{
+				"name": "strawberry_juice",
+				"custom_model_data": 2200866,
+				"texture_size": 16
+			},
+			{
+				"name": "strawberry_smoothie",
+				"custom_model_data": 2200867,
+				"texture_size": 16
+			},
+			{
+				"name": "oak_apple_juice",
+				"custom_model_data": 2200852,
+				"texture_size": 16
+			},
+			{
+				"name": "coconut_milk",
+				"custom_model_data": 2200836,
+				"texture_size": 16
+			},
+			{
+				"name": "cherry_juice",
+				"custom_model_data": 2200835,
+				"texture_size": 16
+			},
+			{
+				"name": "pomegranate_juice",
+				"custom_model_data": 2200861,
+				"texture_size": 16
+			},
+			{
+				"name": "lemon_juice",
+				"custom_model_data": 2200848,
+				"texture_size": 16
+			},
+			{
+				"name": "plum_juice",
+				"custom_model_data": 2200860,
+				"texture_size": 16
+			},
+			{
+				"name": "lime_juice",
+				"custom_model_data": 2200850,
+				"texture_size": 16
+			},
+			{
+				"name": "orange_juice",
+				"custom_model_data": 2200853,
+				"texture_size": 16
+			},
+			{
+				"name": "peach_juice",
+				"custom_model_data": 2200855,
+				"texture_size": 16
+			},
+			{
+				"name": "pear_juice",
+				"custom_model_data": 2200856,
+				"texture_size": 16
+			},
+			{
+				"name": "dragon_fruit_juice",
+				"custom_model_data": 2200841,
+				"texture_size": 16
+			},
+			{
+				"name": "lime_smoothie",
+				"custom_model_data": 2200851,
+				"texture_size": 16
+			},
+			{
+				"name": "tomato_juice",
+				"custom_model_data": 2200870,
+				"texture_size": 16
+			},
+			{
+				"name": "wine",
+				"custom_model_data": 2200871,
+				"texture_size": 16
+			},
+			{
+				"name": "lemon_iced_tea",
+				"custom_model_data": 2200847,
+				"texture_size": 16
+			},
+			{
+				"name": "raspberry_iced_tea",
+				"custom_model_data": 2200862,
+				"texture_size": 16
+			},
+			{
+				"name": "peach_iced_tea",
+				"custom_model_data": 2200854,
+				"texture_size": 16
+			},
+			{
+				"name": "strawberry_iced_tea",
+				"custom_model_data": 2200865,
+				"texture_size": 16
+			},
+			{
+				"name": "cherry_iced_tea",
+				"custom_model_data": 2200834,
+				"texture_size": 16
+			},
+			{
+				"name": "thai_tea",
+				"custom_model_data": 2200869,
+				"texture_size": 16
+			},
+			{
+				"name": "lemonade",
+				"custom_model_data": 2200849,
+				"texture_size": 16
+			},
+			{
+				"name": "pineapple_juice",
+				"custom_model_data": 2200858,
+				"texture_size": 16
+			},
+			{
+				"name": "pineapple_smoothie",
+				"custom_model_data": 2200859,
+				"texture_size": 16
+			}
+		],
+		"minecraft:player_head": [
+			{
+				"name": "sweetened_tea",
+				"custom_model_data": 2200868,
+				"texture_size": 16
+			},
+			{
+				"name": "hot_chocolate",
+				"custom_model_data": 2200846,
+				"texture_size": 16
+			},
+			{
+				"name": "pinacolada",
+				"custom_model_data": 2200857,
+				"texture_size": 16
+			}
+		]
+	}
+}

@@ -1,0 +1,237 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:player_head": [
+			{
+				"name": "energy_regulator",
+				"custom_model_data": 2200339,
+				"texture_size": 16
+			},
+			{
+				"name": "energy_connector",
+				"custom_model_data": 2200538,
+				"texture_size": 16
+			},
+			{
+				"name": "small_energy_capacitor",
+				"custom_model_data": 2200341,
+				"texture_size": 16
+			},
+			{
+				"name": "medium_energy_capacitor",
+				"custom_model_data": 2200342,
+				"texture_size": 16
+			},
+			{
+				"name": "big_energy_capacitor",
+				"custom_model_data": 2200343,
+				"texture_size": 16
+			},
+			{
+				"name": "large_energy_capacitor",
+				"custom_model_data": 2200344,
+				"texture_size": 16
+			},
+			{
+				"name": "carbonado_edged_energy_capacitor",
+				"custom_model_data": 2200345,
+				"texture_size": 16
+			},
+			{
+				"name": "energized_energy_capacitor",
+				"custom_model_data": 2200537,
+				"texture_size": 16
+			},
+			{
+				"name": "coal_generator_i",
+				"custom_model_data": 2200371,
+				"texture_size": 16
+			},
+			{
+				"name": "coal_generator_ii",
+				"custom_model_data": 2200372,
+				"texture_size": 16
+			},
+			{
+				"name": "electric_press_i",
+				"custom_model_data": 2200376,
+				"texture_size": 16
+			},
+			{
+				"name": "electric_press_ii",
+				"custom_model_data": 2200377,
+				"texture_size": 16
+			},
+			{
+				"name": "magnesium_powered_generator",
+				"custom_model_data": 2200379,
+				"texture_size": 16
+			},
+			{
+				"name": "lava_generator_i",
+				"custom_model_data": 2200458,
+				"texture_size": 16
+			},
+			{
+				"name": "lava_generator_ii",
+				"custom_model_data": 2200459,
+				"texture_size": 16
+			},
+			{
+				"name": "combustion_reactor",
+				"custom_model_data": 2200460,
+				"texture_size": 16
+			},
+			{
+				"name": "exp_collector",
+				"custom_model_data": 2200486,
+				"texture_size": 16
+			},
+			{
+				"name": "nuclear_reactor",
+				"custom_model_data": 2200508,
+				"texture_size": 16
+			},
+			{
+				"name": "nether_star_reactor",
+				"custom_model_data": 2200509,
+				"texture_size": 16
+			},
+			{
+				"name": "BASE",
+				"custom_model_data": 1111,
+				"texture_size": 16
+			}
+		],
+		"minecraft:daylight_detector": [
+			{
+				"name": "solar_generator",
+				"custom_model_data": 2200346,
+				"texture_size": 16
+			},
+			{
+				"name": "advanced_solar_generator",
+				"custom_model_data": 2200347,
+				"texture_size": 16
+			},
+			{
+				"name": "carbonado_solar_generator",
+				"custom_model_data": 2200348,
+				"texture_size": 16
+			},
+			{
+				"name": "energized_solar_generator",
+				"custom_model_data": 2200349,
+				"texture_size": 16
+			}
+		],
+		"minecraft:crafting_table": [
+			{
+				"name": "charging_bench",
+				"custom_model_data": 2200350,
+				"texture_size": 16
+			}
+		],
+		"minecraft:furnace": [
+			{
+				"name": "electric_furnace_i",
+				"custom_model_data": 2200351,
+				"texture_size": 16
+			},
+			{
+				"name": "electric_furnace_ii",
+				"custom_model_data": 2200352,
+				"texture_size": 16
+			},
+			{
+				"name": "electric_furnace_iii",
+				"custom_model_data": 2200353,
+				"texture_size": 16
+			},
+			{
+				"name": "electric_ore_grinder_i",
+				"custom_model_data": 2200366,
+				"texture_size": 16
+			},
+			{
+				"name": "electric_ore_grinder_ii",
+				"custom_model_data": 2200367,
+				"texture_size": 16
+			},
+			{
+				"name": "electric_ore_grinder_iii",
+				"custom_model_data": 2200528,
+				"texture_size": 16
+			},
+			{
+				"name": "electric_ingot_pulverizer",
+				"custom_model_data": 2200370,
+				"texture_size": 16
+			},
+			{
+				"name": "electric_smeltery_i",
+				"custom_model_data": 2200523,
+				"texture_size": 16
+			},
+			{
+				"name": "electric_smeltery_ii",
+				"custom_model_data": 2200524,
+				"texture_size": 16
+			}
+		],
+		"minecraft:brown_terracotta": [
+			{
+				"name": "electric_gold_pan_i",
+				"custom_model_data": 2200354,
+				"texture_size": 16
+			},
+			{
+				"name": "electric_gold_pan_ii",
+				"custom_model_data": 2200355,
+				"texture_size": 16
+			},
+			{
+				"name": "electric_gold_pan_iii",
+				"custom_model_data": 2200356,
+				"texture_size": 16
+			},
+			{
+				"name": "tree_growth_accelerator",
+				"custom_model_data": 2200485,
+				"texture_size": 16
+			}
+		],
+		"minecraft:red_terracotta": [
+			{
+				"name": "electric_ingot_factory_i",
+				"custom_model_data": 2200360,
+				"texture_size": 16
+			},
+			{
+				"name": "electric_ingot_factory_ii",
+				"custom_model_data": 2200361,
+				"texture_size": 16
+			},
+			{
+				"name": "electric_ingot_factory_iii",
+				"custom_model_data": 2200362,
+				"texture_size": 16
+			},
+			{
+				"name": "electrified_crucible_i",
+				"custom_model_data": 2200363,
+				"texture_size": 16
+			},
+			{
+				"name": "electrified_crucible_ii",
+				"custom_model_data": 2200364,
+				"texture_size": 16
+			},
+			{
+				"name": "electrified_crucible_iii",
+				"custom_model_data": 2200365,
+				"texture_size": 16
+			}
+		]
+	}
+}

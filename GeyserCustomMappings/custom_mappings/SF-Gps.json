@@ -1,0 +1,90 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:player_head": [
+			{
+				"name": "gps_transmitter",
+				"custom_model_data": 2200387,
+				"texture_size": 16
+			},
+			{
+				"name": "gps_transmitter_advanced",
+				"custom_model_data": 2200388,
+				"texture_size": 16
+			},
+			{
+				"name": "gps_transmitter_carbonado",
+				"custom_model_data": 2200389,
+				"texture_size": 16
+			},
+			{
+				"name": "gps_transmitter_energized",
+				"custom_model_data": 2200390,
+				"texture_size": 16
+			},
+			{
+				"name": "gps_control_panel",
+				"custom_model_data": 2200391,
+				"texture_size": 16
+			},
+			{
+				"name": "gps_emergency_transmitter",
+				"custom_model_data": 2200393,
+				"texture_size": 16
+			},
+			{
+				"name": "gps_geo_scanner",
+				"custom_model_data": 2200450,
+				"texture_size": 16
+			},
+			{
+				"name": "oil_pump",
+				"custom_model_data": 2200452,
+				"texture_size": 16
+			},
+			{
+				"name": "geo_miner",
+				"custom_model_data": 2200453,
+				"texture_size": 16
+			}
+		],
+		"minecraft:redstone_torch": [
+			{
+				"name": "gps_marker",
+				"custom_model_data": 2200392,
+				"texture_size": 16
+			}
+		],
+		"minecraft:purple_stained_glass": [
+			{
+				"name": "teleporter_pylon",
+				"custom_model_data": 2200461,
+				"texture_size": 16
+			}
+		],
+		"minecraft:iron_block": [
+			{
+				"name": "teleporter_matrix",
+				"custom_model_data": 2200462,
+				"texture_size": 16
+			}
+		],
+		"minecraft:stone_pressure_plate": [
+			{
+				"name": "gps_activation_device_shared",
+				"custom_model_data": 2200463,
+				"texture_size": 16
+			},
+			{
+				"name": "gps_activation_device_personal",
+				"custom_model_data": 2200464,
+				"texture_size": 16
+			},
+			{
+				"name": "elevator_plate",
+				"custom_model_data": 2200470,
+				"texture_size": 16
+			}
+		]
+	}
+}

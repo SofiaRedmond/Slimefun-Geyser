@@ -1,0 +1,38 @@
+plugins {
+    id 'java-library'
+    id 'java'
+    id 'maven-publish'
+}
+
+group 'com.github.redmondstudio.slimefungeyser'
+version '1.0.0'
+
+repositories {
+    mavenCentral()
+    mavenLocal()
+    maven {
+        url 'https://repo.opencollab.dev/main'
+        mavenContent {
+            releasesOnly()
+        }
+    }
+    maven {
+        url 'https://repo.opencollab.dev/main'
+        mavenContent {
+            snapshotsOnly()
+        }
+    }
+}
+
+dependencies {
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.0'
+
+    compileOnly("org.geysermc:api:2.1.0-20221111.161532-35")
+    compileOnly("org.geysermc.geyser:api:2.1.0-20221111.161541-35")
+    compileOnly 'org.yaml:snakeyaml:1.30'
+}
+
+test {
+    useJUnitPlatform()
+}

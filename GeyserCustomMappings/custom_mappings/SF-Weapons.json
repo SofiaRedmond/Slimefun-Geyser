@@ -1,0 +1,45 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:stick": [
+			{
+				"name": "grandmas_walking_stick",
+				"custom_model_data": 2200011,
+				"texture_size": 16
+			},
+			{
+				"name": "grandpas_walking_stick",
+				"custom_model_data": 2200012,
+				"texture_size": 16
+			}
+		],
+		"minecraft:golden_sword": [
+			{
+				"name": "blade_of_vampires",
+				"custom_model_data": 2200237,
+				"texture_size": 16
+			}
+		],
+		"minecraft:iron_axe": [
+			{
+				"name": "seismic_axe",
+				"custom_model_data": 2200270,
+				"texture_size": 16
+			}
+		],
+		"minecraft:diamond_sword": [
+			{
+				"name": "soulbound_sword",
+				"custom_model_data": 2200272,
+				"texture_size": 16
+			}
+		],
+		"minecraft:trident": [
+			{
+				"name": "soulbound_trident",
+				"custom_model_data": 2200273,
+				"texture_size": 16
+			}
+		]
+	}
+}

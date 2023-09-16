@@ -1,0 +1,149 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:iron_helmet": [
+			{
+				"name": "damascus_steel_helmet",
+				"custom_model_data": 2200065,
+				"texture_size": 16
+			},
+			{
+				"name": "reinforced_helmet",
+				"custom_model_data": 2200069,
+				"texture_size": 16
+			}
+		],
+		"minecraft:iron_chestplate": [
+			{
+				"name": "damascus_steel_chestplate",
+				"custom_model_data": 2200066,
+				"texture_size": 16
+			},
+			{
+				"name": "reinforced_chestplate",
+				"custom_model_data": 2200070,
+				"texture_size": 16
+			}
+		],
+		"minecraft:iron_leggings": [
+			{
+				"name": "damascus_steel_leggings",
+				"custom_model_data": 2200067,
+				"texture_size": 16
+			},
+			{
+				"name": "reinforced_leggings",
+				"custom_model_data": 2200071,
+				"texture_size": 16
+			}
+		],
+		"minecraft:iron_boots": [
+			{
+				"name": "damascus_steel_boots",
+				"custom_model_data": 2200068,
+				"texture_size": 16
+			},
+			{
+				"name": "reinforced_boots",
+				"custom_model_data": 2200072,
+				"texture_size": 16
+			}
+		],
+		"minecraft:leather_helmet": [
+			{
+				"name": "cactus_helmet",
+				"custom_model_data": 2200073,
+				"texture_size": 16
+			},
+			{
+				"name": "scuba_helmet",
+				"custom_model_data": 2200207,
+				"texture_size": 16
+			}
+		],
+		"minecraft:leather_chestplate": [
+			{
+				"name": "cactus_chestplate",
+				"custom_model_data": 2200074,
+				"texture_size": 16
+			},
+			{
+				"name": "hazmat_chestplate",
+				"custom_model_data": 2200208,
+				"texture_size": 16
+			}
+		],
+		"minecraft:leather_leggings": [
+			{
+				"name": "cactus_leggings",
+				"custom_model_data": 2200075,
+				"texture_size": 16
+			},
+			{
+				"name": "hazmat_leggings",
+				"custom_model_data": 2200209,
+				"texture_size": 16
+			}
+		],
+		"minecraft:leather_boots": [
+			{
+				"name": "cactus_boots",
+				"custom_model_data": 2200076,
+				"texture_size": 16
+			},
+			{
+				"name": "rubber_boots",
+				"custom_model_data": 2200210,
+				"texture_size": 16
+			}
+		],
+		"minecraft:golden_helmet": [
+			{
+				"name": "gilded_iron_helmet",
+				"custom_model_data": 2200202,
+				"texture_size": 16
+			},
+			{
+				"name": "gold_12k_helmet",
+				"custom_model_data": 2200218,
+				"texture_size": 16
+			}
+		],
+		"minecraft:golden_chestplate": [
+			{
+				"name": "gilded_iron_chestplate",
+				"custom_model_data": 2200203,
+				"texture_size": 16
+			},
+			{
+				"name": "gold_12k_chestplate",
+				"custom_model_data": 2200219,
+				"texture_size": 16
+			}
+		],
+		"minecraft:golden_leggings": [
+			{
+				"name": "gilded_iron_leggings",
+				"custom_model_data": 2200204,
+				"texture_size": 16
+			},
+			{
+				"name": "gold_12k_leggings",
+				"custom_model_data": 2200220,
+				"texture_size": 16
+			}
+		],
+		"minecraft:golden_boots": [
+			{
+				"name": "gilded_iron_boots",
+				"custom_model_data": 2200205,
+				"texture_size": 16
+			},
+			{
+				"name": "gold_12k_boots",
+				"custom_model_data": 2200221,
+				"texture_size": 16
+			}
+		]
+	}
+}
