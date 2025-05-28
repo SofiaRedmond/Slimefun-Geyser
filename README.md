@@ -1,4 +1,5 @@
 # Slimefun-Geyser
+Slimefun-Geyser is a GeyserMC extension to make custom items appear on Bedrock clients.  
 
 ![](https://img.shields.io/github/stars/SofiaRedmond/Slimefun-Geyser)
 ![](https://img.shields.io/github/forks/SofiaRedmond/Slimefun-Geyser) 
@@ -7,7 +8,13 @@
 
 ---
 
-GeyserMC extension of Slimefun (includes resource pack for bedrock clients), this project use [this resource pack](https://github.com/xMikux/Slimefun-Resourcepack) as base.
+### EXTension Installation:
+
+https://github.com/SofiaRedmond/Slimefun-Geyser-Extension/wiki 
+
+### Resource Pack:
+
+https://github.com/SofiaRedmond/Slimefun-Geyser-RP
 
 ### To-do list:
 - [ ] Texturize all items.
@@ -23,7 +30,7 @@ GeyserMC extension of Slimefun (includes resource pack for bedrock clients), thi
 
 Let's chat on Telegram:
 
-(soon..)
+[<img alt="alt_text" width="100px" src="assets/logo.png" />](https://www.t.me/slimefungeyser/) 
 
 ---
 
