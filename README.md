@@ -61,7 +61,7 @@ Let's chat on Telegram:
 ![image](https://user-images.githubusercontent.com/86848962/178095666-84a8963d-076b-439d-a533-b2db09d6ab44.png)
 ---
 ### Magical Items
-![5118693263065328058_121](https://user-images.githubusercontent.com/86848962/164431163-1a1af0c6-3bb1-448e-8d11-b9a01658d5c1.jpg)
+![magical_items_image](/assets/magical_items.jpg)
 ---
 ### Technical Components
 ![5118693263065328059_121](https://user-images.githubusercontent.com/86848962/164431456-54680cb2-d808-4460-9bfd-b6f160847f32.jpg)

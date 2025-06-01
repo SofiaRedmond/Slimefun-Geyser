@@ -342,7 +342,7 @@ public class Slimefun implements Extension {
 		CustomItemData necrotic_skull = CustomItemData.builder()
                 .name("necrotic_skull")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200259).build())
-                .textureSize(32)
+                .textureSize(16)
                 .build();
         event.register("minecraft:player_head", necrotic_skull);
 		
